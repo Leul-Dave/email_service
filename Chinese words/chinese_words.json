@@ -1,0 +1,5438 @@
+[
+    {
+        "Traditional":"一",
+        "Simplified":"一",
+        "Pinyin":"yī",
+        "Meaning":"det.: one yī"
+    },
+    {
+        "Traditional":"在",
+        "Simplified":"在",
+        "Pinyin":"zài",
+        "Meaning":"in, at, on, etc. zài"
+    },
+    {
+        "Traditional":"有",
+        "Simplified":"有",
+        "Pinyin":"yǒu",
+        "Meaning":"have, possess"
+    },
+    {
+        "Traditional":"個",
+        "Simplified":"个",
+        "Pinyin":"gè",
+        "Meaning":"piece, item gè"
+    },
+    {
+        "Traditional":"我",
+        "Simplified":"我",
+        "Pinyin":"wǒ",
+        "Meaning":"I, me, ego, self wǒ"
+    },
+    {
+        "Traditional":"不",
+        "Simplified":"不",
+        "Pinyin":"bù",
+        "Meaning":"non, do not, no, nowise, not, nope, nae, no more, nix bù"
+    },
+    {
+        "Traditional":"這",
+        "Simplified":"这",
+        "Pinyin":"zhè",
+        "Meaning":"now, this, det.: this, it* Audio"
+    },
+    {
+        "Traditional":"他",
+        "Simplified":"他",
+        "Pinyin":"tā",
+        "Meaning":"he, she, it, they (referring to inanimate things in object position) tā"
+    },
+    {
+        "Traditional":"也",
+        "Simplified":"也",
+        "Pinyin":"yě",
+        "Meaning":"also, too, as well, either, even yě"
+    },
+    {
+        "Traditional":"就",
+        "Simplified":"就",
+        "Pinyin":"jiù",
+        "Meaning":"then, at once, right away, an indicator strengthening speaker's evaluation"
+    },
+    {
+        "Traditional":"人",
+        "Simplified":"人",
+        "Pinyin":"rén",
+        "Meaning":"person, people rén"
+    },
+    {
+        "Traditional":"都",
+        "Simplified":"都",
+        "Pinyin":"dōu",
+        "Meaning":"all, even, already"
+    },
+    {
+        "Traditional":"說",
+        "Simplified":"说",
+        "Pinyin":"shuō",
+        "Meaning":"speak, talk, explain, scold shuō"
+    },
+    {
+        "Traditional":"而",
+        "Simplified":"而",
+        "Pinyin":"ér",
+        "Meaning":"conj.: and yet"
+    },
+    {
+        "Traditional":"們",
+        "Simplified":"们",
+        "Pinyin":"men",
+        "Meaning":"plural marker for personal pronouns or for nouns referring to people"
+    },
+    {
+        "Traditional":"你",
+        "Simplified":"你",
+        "Pinyin":"nǐ",
+        "Meaning":"you nǐ"
+    },
+    {
+        "Traditional":"了",
+        "Simplified":"了",
+        "Pinyin":"le",
+        "Meaning":"particle: indicating new situation or completed action le"
+    },
+    {
+        "Traditional":"要",
+        "Simplified":"要",
+        "Pinyin":"yào",
+        "Meaning":"want, need, must, should yào"
+    },
+    {
+        "Traditional":"會",
+        "Simplified":"会",
+        "Pinyin":"huì",
+        "Meaning":"to be able, can, will, to meet huì"
+    },
+    {
+        "Traditional":"對",
+        "Simplified":"对",
+        "Pinyin":"duì",
+        "Meaning":"correct, true, toward duì"
+    },
+    {
+        "Traditional":"及",
+        "Simplified":"及",
+        "Pinyin":"jí",
+        "Meaning":"to reach, to catch up, and jí"
+    },
+    {
+        "Traditional":"和",
+        "Simplified":"和",
+        "Pinyin":"hé",
+        "Meaning":"and, with, gentle, peaceful"
+    },
+    {
+        "Traditional":"與",
+        "Simplified":"与",
+        "Pinyin":"yǔ",
+        "Meaning":"and, together with, to give"
+    },
+    {
+        "Traditional":"以",
+        "Simplified":"以",
+        "Pinyin":"yǐ",
+        "Meaning":"using, taking, from a point on, because of"
+    },
+    {
+        "Traditional":"很",
+        "Simplified":"很",
+        "Pinyin":"hěn",
+        "Meaning":"pretty, thrice, monstrously, gey, quite, mighty, stinking, sopping, some, assai, full, most, clinking, much, thumping, awfully, fiendishly, thundering, very, real, really, bally, proper, grossly, powerful, so, rattling, well, considerably, greatly, terribly"
+    },
+    {
+        "Traditional":"種",
+        "Simplified":"种",
+        "Pinyin":"zhǒng",
+        "Meaning":"m.[kind] zhǒng"
+    },
+    {
+        "Traditional":"的",
+        "Simplified":"的",
+        "Pinyin":"de",
+        "Meaning":"particle: emphasizing an action\/situation"
+    },
+    {
+        "Traditional":"大",
+        "Simplified":"大",
+        "Pinyin":"dà",
+        "Meaning":"great, macro, old, very, vast, tall, big, high, much"
+    },
+    {
+        "Traditional":"能",
+        "Simplified":"能",
+        "Pinyin":"néng",
+        "Meaning":"can or to be capable of"
+    },
+    {
+        "Traditional":"著",
+        "Simplified":"着",
+        "Pinyin":"zhe",
+        "Meaning":"[aspect]"
+    },
+    {
+        "Traditional":"她",
+        "Simplified":"她",
+        "Pinyin":"tā",
+        "Meaning":"she, her, she (neologism for {1ta1}[2]), )"
+    },
+    {
+        "Traditional":"那",
+        "Simplified":"那",
+        "Pinyin":"nà",
+        "Meaning":"det.: that"
+    },
+    {
+        "Traditional":"上",
+        "Simplified":"上",
+        "Pinyin":"shàng",
+        "Meaning":"on, above shàng"
+    },
+    {
+        "Traditional":"但",
+        "Simplified":"但",
+        "Pinyin":"dàn",
+        "Meaning":"conj.: but, yet, still, nevertheless, only, merely dàn"
+    },
+    {
+        "Traditional":"年",
+        "Simplified":"年",
+        "Pinyin":"nián",
+        "Meaning":"year nián"
+    },
+    {
+        "Traditional":"還",
+        "Simplified":"还",
+        "Pinyin":"hái",
+        "Meaning":"still, yet, also, too, as well, besides"
+    },
+    {
+        "Traditional":"可以",
+        "Simplified":"可以",
+        "Pinyin":"kěyǐ",
+        "Meaning":"can, may"
+    },
+    {
+        "Traditional":"最",
+        "Simplified":"最",
+        "Pinyin":"zuì",
+        "Meaning":"most, to the highest degree, much, superlatively"
+    },
+    {
+        "Traditional":"自己",
+        "Simplified":"自己",
+        "Pinyin":"zìjǐ",
+        "Meaning":"lonesome, number_one, own, ego, self, oneself, name"
+    },
+    {
+        "Traditional":"為",
+        "Simplified":"为",
+        "Pinyin":"wéi",
+        "Meaning":"by"
+    },
+    {
+        "Traditional":"來",
+        "Simplified":"来",
+        "Pinyin":"lái",
+        "Meaning":"come, arrive lái"
+    },
+    {
+        "Traditional":"所",
+        "Simplified":"所",
+        "Pinyin":"suǒ",
+        "Meaning":"that which"
+    },
+    {
+        "Traditional":"他們",
+        "Simplified":"他们",
+        "Pinyin":"tāmen",
+        "Meaning":"they"
+    },
+    {
+        "Traditional":"兩",
+        "Simplified":"两",
+        "Pinyin":"liǎng",
+        "Meaning":"det.: two, both (sides), either (side), a few, some liǎng"
+    },
+    {
+        "Traditional":"各",
+        "Simplified":"各",
+        "Pinyin":"gè",
+        "Meaning":"det.: each, every gè"
+    },
+    {
+        "Traditional":"可",
+        "Simplified":"可",
+        "Pinyin":"kě",
+        "Meaning":"can, may kě"
+    },
+    {
+        "Traditional":"為",
+        "Simplified":"为",
+        "Pinyin":"wéi",
+        "Meaning":"be, become"
+    },
+    {
+        "Traditional":"或",
+        "Simplified":"或",
+        "Pinyin":"huò",
+        "Meaning":"conj.: or, either or huò"
+    },
+    {
+        "Traditional":"好",
+        "Simplified":"好",
+        "Pinyin":"hǎo",
+        "Meaning":"good hǎo"
+    },
+    {
+        "Traditional":"等",
+        "Simplified":"等",
+        "Pinyin":"děng",
+        "Meaning":"conj.: and so on, etc děng"
+    },
+    {
+        "Traditional":"又",
+        "Simplified":"又",
+        "Pinyin":"yòu",
+        "Meaning":"again, moreover"
+    },
+    {
+        "Traditional":"將",
+        "Simplified":"将",
+        "Pinyin":"jiāng",
+        "Meaning":"be about to jiāng"
+    },
+    {
+        "Traditional":"因為",
+        "Simplified":"因为",
+        "Pinyin":"yīnwèi",
+        "Meaning":"conj.: because, for, on account of"
+    },
+    {
+        "Traditional":"於",
+        "Simplified":"于",
+        "Pinyin":"yú",
+        "Meaning":"in, at, to, from, out of, by"
+    },
+    {
+        "Traditional":"由",
+        "Simplified":"由",
+        "Pinyin":"yóu",
+        "Meaning":"from, via, by, through, owing\/due to"
+    },
+    {
+        "Traditional":"從",
+        "Simplified":"从",
+        "Pinyin":"cóng",
+        "Meaning":"from, since, through cóng"
+    },
+    {
+        "Traditional":"更",
+        "Simplified":"更",
+        "Pinyin":"gèng",
+        "Meaning":"more, still\/even more, further, furthermore gèng"
+    },
+    {
+        "Traditional":"被",
+        "Simplified":"被",
+        "Pinyin":"bèi",
+        "Meaning":"by bèi"
+    },
+    {
+        "Traditional":"才",
+        "Simplified":"才",
+        "Pinyin":"cái",
+        "Meaning":"then and only then, just now, only (before a number) cái"
+    },
+    {
+        "Traditional":"已",
+        "Simplified":"已",
+        "Pinyin":"yǐ",
+        "Meaning":"already"
+    },
+    {
+        "Traditional":"者",
+        "Simplified":"者",
+        "Pinyin":"zhě",
+        "Meaning":"nominal suffix, one who, -er"
+    },
+    {
+        "Traditional":"每",
+        "Simplified":"每",
+        "Pinyin":"měi",
+        "Meaning":"det.: every měi"
+    },
+    {
+        "Traditional":"次",
+        "Simplified":"次",
+        "Pinyin":"cì",
+        "Meaning":"order, sequence, next cì"
+    },
+    {
+        "Traditional":"把",
+        "Simplified":"把",
+        "Pinyin":"bǎ",
+        "Meaning":"indicating pre-verbal object as thing dealt with by the action bǎ"
+    },
+    {
+        "Traditional":"三",
+        "Simplified":"三",
+        "Pinyin":"sān",
+        "Meaning":"det.: three sān"
+    },
+    {
+        "Traditional":"什麼",
+        "Simplified":"什么",
+        "Pinyin":"shénme",
+        "Meaning":"anything, what"
+    },
+    {
+        "Traditional":"問題",
+        "Simplified":"问题",
+        "Pinyin":"wèntí",
+        "Meaning":"problem, mishap, query, job, interface, question, inquiry, matter, enquiry, trouble, issue, worry, subject, topic, hang-up, business, quaere"
+    },
+    {
+        "Traditional":"其",
+        "Simplified":"其",
+        "Pinyin":"qí",
+        "Meaning":"det.: its, his, her, their, it, this, that qí"
+    },
+    {
+        "Traditional":"讓",
+        "Simplified":"让",
+        "Pinyin":"ràng",
+        "Meaning":"allow, induce sb. to do sth. ràng"
+    },
+    {
+        "Traditional":"此",
+        "Simplified":"此",
+        "Pinyin":"cǐ",
+        "Meaning":"this, det.: this, here"
+    },
+    {
+        "Traditional":"做",
+        "Simplified":"做",
+        "Pinyin":"zuò",
+        "Meaning":"make, do zuò"
+    },
+    {
+        "Traditional":"再",
+        "Simplified":"再",
+        "Pinyin":"zài",
+        "Meaning":"again, once more, further(more), in a higher degree, and then, not (do sth.) before zài"
+    },
+    {
+        "Traditional":"所以",
+        "Simplified":"所以",
+        "Pinyin":"suǒyǐ",
+        "Meaning":"conj.: so, therefore, as a result"
+    },
+    {
+        "Traditional":"只",
+        "Simplified":"只",
+        "Pinyin":"zhǐ",
+        "Meaning":"only, merely zhǐ"
+    },
+    {
+        "Traditional":"則",
+        "Simplified":"则",
+        "Pinyin":"zé",
+        "Meaning":"then, in that case"
+    },
+    {
+        "Traditional":"台灣",
+        "Simplified":"台湾",
+        "Pinyin":"Táiwān",
+        "Meaning":"Taiwan táiwān"
+    },
+    {
+        "Traditional":"卻",
+        "Simplified":"却",
+        "Pinyin":"què",
+        "Meaning":"however, but, yet, indeed"
+    },
+    {
+        "Traditional":"並",
+        "Simplified":"并",
+        "Pinyin":"bìng",
+        "Meaning":"to be side by side, simultaneously, and bìng"
+    },
+    {
+        "Traditional":"位",
+        "Simplified":"位",
+        "Pinyin":"wèi",
+        "Meaning":"location, digit, m.[general], , status, figure, throne, position, place, condition wèi"
+    },
+    {
+        "Traditional":"想",
+        "Simplified":"想",
+        "Pinyin":"xiǎng",
+        "Meaning":"think, suppose, reckon, consider, want to, would like to, feel like (doing sth.) xiǎng"
+    },
+    {
+        "Traditional":"去",
+        "Simplified":"去",
+        "Pinyin":"qù",
+        "Meaning":"to go, to leave, in order to qù"
+    },
+    {
+        "Traditional":"呢",
+        "Simplified":"呢",
+        "Pinyin":"ne",
+        "Meaning":"particle: marking quesitons about subject already mentioned; indicating strong affirmation"
+    },
+    {
+        "Traditional":"學生",
+        "Simplified":"学生",
+        "Pinyin":"xuéshēng",
+        "Meaning":"academic, pupil, pup, tutee, follower, scholar, schoolchild, schoolboy, alumnus, disciple, learner, scholastic, student"
+    },
+    {
+        "Traditional":"表示",
+        "Simplified":"表示",
+        "Pinyin":"biǎoshì",
+        "Meaning":"demonstrate, exhibit, prove, show, extend, manifest, express, stamp, signify, mark, witness, look, give, denote, evince, expression, bespeak, say, profess, mean, offer, utter, infer, indicate, represent, read, speak, refer, give tongue to, intend, be, shew, pay, stand_for, establish, stand for, present, render, betoken"
+    },
+    {
+        "Traditional":"到",
+        "Simplified":"到",
+        "Pinyin":"dào",
+        "Meaning":"up until dào"
+    },
+    {
+        "Traditional":"公司",
+        "Simplified":"公司",
+        "Pinyin":"gōngsī",
+        "Meaning":"place of business, business organization, incorporation, establishment, business concern, office, concern, business establishment, business, enterprise, company, corporation"
+    },
+    {
+        "Traditional":"將",
+        "Simplified":"将",
+        "Pinyin":"jiāng",
+        "Meaning":"introducing object of main verb jiāng"
+    },
+    {
+        "Traditional":"如果",
+        "Simplified":"如果",
+        "Pinyin":"rúguǒ",
+        "Meaning":"conj.: if rúguǒ"
+    },
+    {
+        "Traditional":"社會",
+        "Simplified":"社会",
+        "Pinyin":"shèhuì",
+        "Meaning":"community, society, monde, social, public"
+    },
+    {
+        "Traditional":"看",
+        "Simplified":"看",
+        "Pinyin":"kàn",
+        "Meaning":"see, look at, watch, read, look upon, regard, look after, call on, visit kàn"
+    },
+    {
+        "Traditional":"小",
+        "Simplified":"小",
+        "Pinyin":"xiǎo",
+        "Meaning":"small, little, petty, minor;young xiǎo"
+    },
+    {
+        "Traditional":"天",
+        "Simplified":"天",
+        "Pinyin":"tiān",
+        "Meaning":"sky, heaven tiān"
+    },
+    {
+        "Traditional":"因此",
+        "Simplified":"因此",
+        "Pinyin":"yīncǐ",
+        "Meaning":"conj.: therefore, consequently"
+    },
+    {
+        "Traditional":"新",
+        "Simplified":"新",
+        "Pinyin":"xīn",
+        "Meaning":"new, fresh, up-to-date xīn"
+    },
+    {
+        "Traditional":"但是",
+        "Simplified":"但是",
+        "Pinyin":"dànshì",
+        "Meaning":"conj.: but, however, yet, still"
+    },
+    {
+        "Traditional":"它",
+        "Simplified":"它",
+        "Pinyin":"tā",
+        "Meaning":"they (neologism for {1ta1}[3] [4]), [4]), ), this, that, it"
+    },
+    {
+        "Traditional":"中",
+        "Simplified":"中",
+        "Pinyin":"zhōng",
+        "Meaning":"center, middle, interior zhōng"
+    },
+    {
+        "Traditional":"使",
+        "Simplified":"使",
+        "Pinyin":"shǐ",
+        "Meaning":"rarefy, piss_off, germinate, drench, blow_out, leave, cut_up, refract, run, dress_up, compose, shed, frizz, put_off, trot, send, strike, send (as envoy), peal, alienate, pull_in, tone_up, bring around, astound, sublease, wither, cripple, bed_down, address, rehearse, usage, warm, smell_out, throw, inflect, get_down, skunk, capsize, congeal, bowl_over, bring_on, unseat, ensure, amalgamate, pro"
+    },
+    {
+        "Traditional":"工作",
+        "Simplified":"工作",
+        "Pinyin":"gōngzuò",
+        "Meaning":"work, job"
+    },
+    {
+        "Traditional":"全",
+        "Simplified":"全",
+        "Pinyin":"quán",
+        "Meaning":"det.: all, Surname, whole, Quan quán"
+    },
+    {
+        "Traditional":"覺得",
+        "Simplified":"觉得",
+        "Pinyin":"juéde",
+        "Meaning":"imagine, guess, believe, reckon, suspect, suppose, think, listen, feel, consider, think_of, appear, conceive"
+    },
+    {
+        "Traditional":"使用",
+        "Simplified":"使用",
+        "Pinyin":"shǐyòng",
+        "Meaning":"use, employ, apply"
+    },
+    {
+        "Traditional":"這些",
+        "Simplified":"这些",
+        "Pinyin":"zhèxiē",
+        "Meaning":"det.: these"
+    },
+    {
+        "Traditional":"裡",
+        "Simplified":"里",
+        "Pinyin":"lǐ",
+        "Meaning":"inside lǐ"
+    },
+    {
+        "Traditional":"並",
+        "Simplified":"并",
+        "Pinyin":"bìng",
+        "Meaning":"actually, truly bìng"
+    },
+    {
+        "Traditional":"由於",
+        "Simplified":"由于",
+        "Pinyin":"yóuyú",
+        "Meaning":"conj.: owing\/due\/thanks to"
+    },
+    {
+        "Traditional":"時候",
+        "Simplified":"时候",
+        "Pinyin":"shíhòu",
+        "Meaning":"day, moment, (a point in) time, (duration of) time, time"
+    },
+    {
+        "Traditional":"知道",
+        "Simplified":"知道",
+        "Pinyin":"zhīdào",
+        "Meaning":"tell, have, ken, understand, infer, wis, learn, cognize, gather, know, be aware of, wise up, savvy, mind, realize"
+    },
+    {
+        "Traditional":"這樣",
+        "Simplified":"这样",
+        "Pinyin":"zhèyàng",
+        "Meaning":"so, such, like this, this way"
+    },
+    {
+        "Traditional":"一",
+        "Simplified":"一",
+        "Pinyin":"yī",
+        "Meaning":"as soon as yī"
+    },
+    {
+        "Traditional":"認為",
+        "Simplified":"认为",
+        "Pinyin":"rènwéi",
+        "Meaning":"find, treat, deem, suppose, look_on, repute, discount, esteem, accredit, feel, account, calculate, estimate, take to be, reckon, expect, think, hold, trust, recognise, opine, sound off, adjudge, consideration, consider, regard as, look upon, believe_in, disbelieve, allow, conceive, regard, call, imagine, view, forecast, believe, suspect, rate, animadvert, look on, listen, speak up, figure, c"
+    },
+    {
+        "Traditional":"時間",
+        "Simplified":"时间",
+        "Pinyin":"shíjiān",
+        "Meaning":"moment, day, clock time, fourth_dimension, relativity, hour, duration, time, when, while, temporal, economy"
+    },
+    {
+        "Traditional":"事",
+        "Simplified":"事",
+        "Pinyin":"shì",
+        "Meaning":"responsibility, trouble, event, thing, worry, accident, case, involvement, work, affair, job, concern, business, toast, matter shì"
+    },
+    {
+        "Traditional":"過",
+        "Simplified":"过",
+        "Pinyin":"guò",
+        "Meaning":"[aspect] guò"
+    },
+    {
+        "Traditional":"向",
+        "Simplified":"向",
+        "Pinyin":"xiàng",
+        "Meaning":"to, towards xiàng"
+    },
+    {
+        "Traditional":"可能",
+        "Simplified":"可能",
+        "Pinyin":"kěnéng",
+        "Meaning":"probably, maybe"
+    },
+    {
+        "Traditional":"中國",
+        "Simplified":"中国",
+        "Pinyin":"Zhōngguó",
+        "Meaning":"Cathay, China, china"
+    },
+    {
+        "Traditional":"美國",
+        "Simplified":"美国",
+        "Pinyin":"Měiguó",
+        "Meaning":"House_of_Representatives, the United States of America, US, U.S.A., bench, Columbia, Yankeeland, U.S., United States, Democrat, Yankeedom, USA, America, United States of America"
+    },
+    {
+        "Traditional":"到",
+        "Simplified":"到",
+        "Pinyin":"dào",
+        "Meaning":"arrive, reach, go to dào"
+    },
+    {
+        "Traditional":"和",
+        "Simplified":"和",
+        "Pinyin":"hé",
+        "Meaning":"together) with"
+    },
+    {
+        "Traditional":"幾",
+        "Simplified":"几",
+        "Pinyin":"jǐ",
+        "Meaning":"det.: how many, a few, several, some jǐ"
+    },
+    {
+        "Traditional":"系統",
+        "Simplified":"系统",
+        "Pinyin":"xìtǒng",
+        "Meaning":"lineage, filiation, scheme, pedigree, system, formation, superstructure, programme, organization, succession, tract, system of rules, organisation, program"
+    },
+    {
+        "Traditional":"政府",
+        "Simplified":"政府",
+        "Pinyin":"zhèngfǔ",
+        "Meaning":"sirkar, state, country, nation, governmental, body politic, government, administration, civil order, polity, commonwealth, regime, res publica, land"
+    },
+    {
+        "Traditional":"大家",
+        "Simplified":"大家",
+        "Pinyin":"dàjiā",
+        "Meaning":"sundry, great master, rich and influential family, pontiff, all of us, everyone, authority, master, distinguished family"
+    },
+    {
+        "Traditional":"國家",
+        "Simplified":"国家",
+        "Pinyin":"guójiā",
+        "Meaning":"sirkar, state, country, patria, a people, nationality, nation, republic, soli, body politic, clime, national, civil order, polity, commonwealth, land, res publica"
+    },
+    {
+        "Traditional":"許多",
+        "Simplified":"许多",
+        "Pinyin":"xǔduō",
+        "Meaning":"lot, scores, lots, sight, pot, heap, quantity, plenty, slews, ton, battalion, many, scads, tidy sum, power, spate, chunk, pile, crowd, vastness, batch, lashings, whole lot, mint, mound, pocketful, large number, trunkful, ream, mickle, great deal, flock, mass, slew, heaps, a lot of, piles, whole slew, mess, raff, slue, gobs, much, lotta, multitude, volume, wad, store, raft, tons, satiety, rafts, doze"
+    },
+    {
+        "Traditional":"生活",
+        "Simplified":"生活",
+        "Pinyin":"shēnghuó",
+        "Meaning":"life, existence, livelihood"
+    },
+    {
+        "Traditional":"跟",
+        "Simplified":"跟",
+        "Pinyin":"gēn",
+        "Meaning":"with, to, from gēn"
+    },
+    {
+        "Traditional":"已經",
+        "Simplified":"已经",
+        "Pinyin":"yǐjīng",
+        "Meaning":"already"
+    },
+    {
+        "Traditional":"大學",
+        "Simplified":"大学",
+        "Pinyin":"dàxué",
+        "Meaning":"university, college"
+    },
+    {
+        "Traditional":"研究",
+        "Simplified":"研究",
+        "Pinyin":"yánjiù",
+        "Meaning":"study, research"
+    },
+    {
+        "Traditional":"因",
+        "Simplified":"因",
+        "Pinyin":"yīn",
+        "Meaning":"conj.: because, as yīn"
+    },
+    {
+        "Traditional":"本",
+        "Simplified":"本",
+        "Pinyin":"běn",
+        "Meaning":"det.: this běn"
+    },
+    {
+        "Traditional":"二",
+        "Simplified":"二",
+        "Pinyin":"èr",
+        "Meaning":"det.: two, second"
+    },
+    {
+        "Traditional":"活動",
+        "Simplified":"活动",
+        "Pinyin":"huódòng",
+        "Meaning":"activity, maneuver, behavior"
+    },
+    {
+        "Traditional":"該",
+        "Simplified":"该",
+        "Pinyin":"gāi",
+        "Meaning":"det.: this, that gāi"
+    },
+    {
+        "Traditional":"世界",
+        "Simplified":"世界",
+        "Pinyin":"shìjiè",
+        "Meaning":"mundane, creation, world, monde, orb, nature, domain"
+    },
+    {
+        "Traditional":"應",
+        "Simplified":"应",
+        "Pinyin":"yīng",
+        "Meaning":"should, ought to"
+    },
+    {
+        "Traditional":"四",
+        "Simplified":"四",
+        "Pinyin":"sì",
+        "Meaning":"det.: four"
+    },
+    {
+        "Traditional":"希望",
+        "Simplified":"希望",
+        "Pinyin":"xīwàng",
+        "Meaning":"hope, wish"
+    },
+    {
+        "Traditional":"方式",
+        "Simplified":"方式",
+        "Pinyin":"fāngshì",
+        "Meaning":"path, plan, pattern, tenor, system, method, manner, style, way, guise, fashion, wise, means, shape, how, embodiment, agency, gate, mode, sort"
+    },
+    {
+        "Traditional":"內",
+        "Simplified":"内",
+        "Pinyin":"nèi",
+        "Meaning":"inside nèi"
+    },
+    {
+        "Traditional":"項",
+        "Simplified":"项",
+        "Pinyin":"xiàng",
+        "Meaning":"m.[general] xiàng"
+    },
+    {
+        "Traditional":"啊",
+        "Simplified":"啊",
+        "Pinyin":"ā",
+        "Meaning":"particle: used in direct address and exclamation; indicating obviousness\/impatience\/suggestion; used for confirmation ā"
+    },
+    {
+        "Traditional":"下",
+        "Simplified":"下",
+        "Pinyin":"xià",
+        "Meaning":"under (condition\/fact etc.) xià"
+    },
+    {
+        "Traditional":"環境",
+        "Simplified":"环境",
+        "Pinyin":"huánjìng",
+        "Meaning":"circumambiency, environmental, circumstances, environment, entourage, surround, atmosphere, setting, surroundings, ambiance, condition, context, circumstance, surrounding, frame, milieu, ambient, consideration, environs, medium, ambience"
+    },
+    {
+        "Traditional":"一些",
+        "Simplified":"一些",
+        "Pinyin":"yīxiē",
+        "Meaning":"det.: some, a few, a little"
+    },
+    {
+        "Traditional":"必須",
+        "Simplified":"必须",
+        "Pinyin":"bìxū",
+        "Meaning":"must"
+    },
+    {
+        "Traditional":"文化",
+        "Simplified":"文化",
+        "Pinyin":"wénhuà",
+        "Meaning":"civilization, literacy, acculturation, Kultur, vandalism, cultural, education, schooling, culture"
+    },
+    {
+        "Traditional":"高",
+        "Simplified":"高",
+        "Pinyin":"gāo",
+        "Meaning":"tall, high gāo"
+    },
+    {
+        "Traditional":"孩子",
+        "Simplified":"孩子",
+        "Pinyin":"háizi",
+        "Meaning":"kid, issue, chap, daughter, children, sonny, son or daughter, child, spawn, boy, kipper, son"
+    },
+    {
+        "Traditional":"沒有",
+        "Simplified":"没有",
+        "Pinyin":"méiyǒu",
+        "Meaning":"not have, there is not, be without"
+    },
+    {
+        "Traditional":"不能",
+        "Simplified":"不能",
+        "Pinyin":"bùnéng",
+        "Meaning":"must\/may\/can not, not be allowed"
+    },
+    {
+        "Traditional":"如",
+        "Simplified":"如",
+        "Pinyin":"rú",
+        "Meaning":"according to, in accordance with, such as, as if, like, for example"
+    },
+    {
+        "Traditional":"開始",
+        "Simplified":"开始",
+        "Pinyin":"kāishǐ",
+        "Meaning":"begin, start"
+    },
+    {
+        "Traditional":"元",
+        "Simplified":"元",
+        "Pinyin":"yuán",
+        "Meaning":"m.[standard] yuán"
+    },
+    {
+        "Traditional":"不同",
+        "Simplified":"不同",
+        "Pinyin":"bùtóng",
+        "Meaning":"different"
+    },
+    {
+        "Traditional":"仍",
+        "Simplified":"仍",
+        "Pinyin":"réng",
+        "Meaning":"yet, anyway, still"
+    },
+    {
+        "Traditional":"網路",
+        "Simplified":"网路",
+        "Pinyin":"wǎnglù",
+        "Meaning":"WWW, net, network, Internet, meshwork, web, world wide web, mesh, reticulation"
+    },
+    {
+        "Traditional":"日本",
+        "Simplified":"日本",
+        "Pinyin":"rìběn",
+        "Meaning":"Nippon, Cipango, Nihon, Japan, japan, Japanese"
+    },
+    {
+        "Traditional":"用",
+        "Simplified":"用",
+        "Pinyin":"yòng",
+        "Meaning":"with yòng"
+    },
+    {
+        "Traditional":"中心",
+        "Simplified":"中心",
+        "Pinyin":"zhōngxīn",
+        "Meaning":"center, heart, hub"
+    },
+    {
+        "Traditional":"來",
+        "Simplified":"来",
+        "Pinyin":"lái",
+        "Meaning":"come, arrive lái"
+    },
+    {
+        "Traditional":"對",
+        "Simplified":"对",
+        "Pinyin":"duì",
+        "Meaning":"right; correct duì"
+    },
+    {
+        "Traditional":"雖然",
+        "Simplified":"虽然",
+        "Pinyin":"suīrán",
+        "Meaning":"conj.: though, although"
+    },
+    {
+        "Traditional":"重要",
+        "Simplified":"重要",
+        "Pinyin":"zhòngyào",
+        "Meaning":"important, significant, major"
+    },
+    {
+        "Traditional":"地方",
+        "Simplified":"地方",
+        "Pinyin":"dìfāng",
+        "Meaning":"country, soil, terrain, part, clime, way, territory, room, neighbourhood, tinderbox, locality (as distinct from the central administrat, child, tract, province, position, respect, where, region, space, place, local"
+    },
+    {
+        "Traditional":"進行",
+        "Simplified":"进行",
+        "Pinyin":"jìnxíng",
+        "Meaning":"be in progress, go on, carry on\/out"
+    },
+    {
+        "Traditional":"關係",
+        "Simplified":"关系",
+        "Pinyin":"guānxì",
+        "Meaning":"relation, bearing, impact, membership credentials, \"backdoor connections\""
+    },
+    {
+        "Traditional":"市場",
+        "Simplified":"市场",
+        "Pinyin":"shìchǎng",
+        "Meaning":"bourse, bazar, marketplace, grocery store, agora, bazaar, securities industry, grocery, piazza, plaza, rialto, mart, pitch, market"
+    },
+    {
+        "Traditional":"太",
+        "Simplified":"太",
+        "Pinyin":"tài",
+        "Meaning":"excessively, too, extremely, very"
+    },
+    {
+        "Traditional":"老師",
+        "Simplified":"老师",
+        "Pinyin":"lǎoshī",
+        "Meaning":"rabbi, professor, swami, instructor, teacher, mast"
+    },
+    {
+        "Traditional":"提供",
+        "Simplified":"提供",
+        "Pinyin":"tígōng",
+        "Meaning":"feed, offer, put_up, afford, proffer, set_up, capitalize, bring_forward, sponsor, extend, ply, provision, sustain, equip, supply, cough_up, bear, render, furnish, cater, billet, provide"
+    },
+    {
+        "Traditional":"學校",
+        "Simplified":"学校",
+        "Pinyin":"xuéxiào",
+        "Meaning":"seminary, schoolhouse, educational institution, school, institution"
+    },
+    {
+        "Traditional":"應該",
+        "Simplified":"应该",
+        "Pinyin":"yīnggāi",
+        "Meaning":"should, ought to"
+    },
+    {
+        "Traditional":"指出",
+        "Simplified":"指出",
+        "Pinyin":"zhǐchū",
+        "Meaning":"point, point_out, catch_out, bespeak, indicate, denote, point out (that), note, show, designate, point out"
+    },
+    {
+        "Traditional":"經濟",
+        "Simplified":"经济",
+        "Pinyin":"jīngjì",
+        "Meaning":"economy, financial condition, income"
+    },
+    {
+        "Traditional":"其他",
+        "Simplified":"其他",
+        "Pinyin":"qítā",
+        "Meaning":"det.: others, the rest, other, else"
+    },
+    {
+        "Traditional":"家",
+        "Simplified":"家",
+        "Pinyin":"jiā",
+        "Meaning":"family, household, home, house jiā"
+    },
+    {
+        "Traditional":"發展",
+        "Simplified":"发展",
+        "Pinyin":"fāzhǎn",
+        "Meaning":"develop, expand, grow"
+    },
+    {
+        "Traditional":"教育",
+        "Simplified":"教育",
+        "Pinyin":"jiàoyū",
+        "Meaning":"education"
+    },
+    {
+        "Traditional":"成為",
+        "Simplified":"成为",
+        "Pinyin":"chéngwéi",
+        "Meaning":"find, join, comprise, turn to, commemorate, sample, entomb, come_up, commence, get hold, learn, add up, necessitate, run, make up, constitute, make, form, come, amount, represent, fall, presage, change, be, turn, turn into, become, line up, come up, shape, portend, foretell, get"
+    },
+    {
+        "Traditional":"多",
+        "Simplified":"多",
+        "Pinyin":"duō",
+        "Meaning":"many, much, more, more than the correct\/required number, excessive, too much, much\/far more duō"
+    },
+    {
+        "Traditional":"非常",
+        "Simplified":"非常",
+        "Pinyin":"fēicháng",
+        "Meaning":"extraordinary, unusual, special, very, extremely, highly"
+    },
+    {
+        "Traditional":"便",
+        "Simplified":"便",
+        "Pinyin":"biàn",
+        "Meaning":"as early as, soon afterwards, little as, as early, and then, and so, so, as early\/little as, as little as, then, in that case"
+    },
+    {
+        "Traditional":"方面",
+        "Simplified":"方面",
+        "Pinyin":"fāngmiàn",
+        "Meaning":"side, aspect, sector, part, light, facet, behalf, way, respect, direction, bearing, field, phase, sphere, angle, hand"
+    },
+    {
+        "Traditional":"很多",
+        "Simplified":"很多",
+        "Pinyin":"hěnduō",
+        "Meaning":"det."
+    },
+    {
+        "Traditional":"吃",
+        "Simplified":"吃",
+        "Pinyin":"chī",
+        "Meaning":"feed, have, be subject to, absorb, chow, live on, eat, have one's meals, be a strain, exhaust, fare, take in, live off, annihilate, wipe out, partake, suffer, ingest, consume, graze, lunch, manducate, incur, take, get, use up, make, taste, soak up chī"
+    },
+    {
+        "Traditional":"然後",
+        "Simplified":"然后",
+        "Pinyin":"ránhòu",
+        "Meaning":"therewith, and so, and_then, and then, thereupon, after that, so, then, with that"
+    },
+    {
+        "Traditional":"未",
+        "Simplified":"未",
+        "Pinyin":"wèi",
+        "Meaning":"or not (at end of sentence), have not yet, or not, not wèi"
+    },
+    {
+        "Traditional":"發現",
+        "Simplified":"发现",
+        "Pinyin":"fāxiàn",
+        "Meaning":"find, discover"
+    },
+    {
+        "Traditional":"電腦",
+        "Simplified":"电脑",
+        "Pinyin":"diànnǎo",
+        "Meaning":"electronic computer, computery, data processor, information processing system, computer"
+    },
+    {
+        "Traditional":"一樣",
+        "Simplified":"一样",
+        "Pinyin":"yīyàng",
+        "Meaning":"same, equal, similar"
+    },
+    {
+        "Traditional":"而且",
+        "Simplified":"而且",
+        "Pinyin":"érqiě",
+        "Meaning":"conj.: furthermore, and"
+    },
+    {
+        "Traditional":"心",
+        "Simplified":"心",
+        "Pinyin":"xīn",
+        "Meaning":"heart, mind, feeling, center, core xīn"
+    },
+    {
+        "Traditional":"不過",
+        "Simplified":"不过",
+        "Pinyin":"búguò",
+        "Meaning":"conj.: but, however, only"
+    },
+    {
+        "Traditional":"無法",
+        "Simplified":"无法",
+        "Pinyin":"wúfǎ",
+        "Meaning":"nohow, unable to, unable, cannot"
+    },
+    {
+        "Traditional":"企業",
+        "Simplified":"企业",
+        "Pinyin":"qǐyè",
+        "Meaning":"proposition, business enterprise, business organization, business concern, concern, commercial enterprise, endeavour, endeavor, industry, business, project, corporation, enterprise"
+    },
+    {
+        "Traditional":"正",
+        "Simplified":"正",
+        "Pinyin":"zhèng",
+        "Meaning":"precisely, punctually zhèng"
+    },
+    {
+        "Traditional":"服務",
+        "Simplified":"服务",
+        "Pinyin":"fúwù",
+        "Meaning":"be in the service of, serve"
+    },
+    {
+        "Traditional":"較",
+        "Simplified":"较",
+        "Pinyin":"jiào",
+        "Meaning":"rather, quite, relatively, more jiào"
+    },
+    {
+        "Traditional":"不會",
+        "Simplified":"不会",
+        "Pinyin":"búhuì",
+        "Meaning":"won't"
+    },
+    {
+        "Traditional":"臺灣",
+        "Simplified":"台湾",
+        "Pinyin":"táiwān",
+        "Meaning":"Taiwan"
+    },
+    {
+        "Traditional":"曾",
+        "Simplified":"曾",
+        "Pinyin":"céng",
+        "Meaning":"once, ever, before"
+    },
+    {
+        "Traditional":"嗎",
+        "Simplified":"吗",
+        "Pinyin":"mā",
+        "Meaning":"particle: calling for agreement or disagreement"
+    },
+    {
+        "Traditional":"空間",
+        "Simplified":"空间",
+        "Pinyin":"kōngjiān",
+        "Meaning":"elbow room, allowance, margin, roomage, open air\/sky\/space, road, leeway, way, open air, sheets, room, tolerance, opening, clear, sky, spacial, interspace, vacuity, spatial, dimension, open sky\/space, space, place, vacuum"
+    },
+    {
+        "Traditional":"看到",
+        "Simplified":"看到",
+        "Pinyin":"kàndào",
+        "Meaning":"view, receive, ken, observe, lamp, catch, see, take in, watch, chatter away, lay_eyes_on, boast, brag, shoot the breeze, spy, catch sight of, catch sight of"
+    },
+    {
+        "Traditional":"五",
+        "Simplified":"五",
+        "Pinyin":"wǔ",
+        "Meaning":"det.: five wǔ"
+    },
+    {
+        "Traditional":"如何",
+        "Simplified":"如何",
+        "Pinyin":"rúhé",
+        "Meaning":"how"
+    },
+    {
+        "Traditional":"國內",
+        "Simplified":"国内",
+        "Pinyin":"guónèi",
+        "Meaning":"interior (of country), interior, home, intestine, internal, domestic"
+    },
+    {
+        "Traditional":"們",
+        "Simplified":"们",
+        "Pinyin":"men",
+        "Meaning":"pluralizer after pronouns and nouns of persons"
+    },
+    {
+        "Traditional":"無",
+        "Simplified":"无",
+        "Pinyin":"wú",
+        "Meaning":"not have, there is not"
+    },
+    {
+        "Traditional":"對於",
+        "Simplified":"对于",
+        "Pinyin":"duìyú",
+        "Meaning":"in regard) to, toward, at, for"
+    },
+    {
+        "Traditional":"以及",
+        "Simplified":"以及",
+        "Pinyin":"yǐjí",
+        "Meaning":"conj.: as well as, along with, and"
+    },
+    {
+        "Traditional":"之後",
+        "Simplified":"之后",
+        "Pinyin":"zhīhòu",
+        "Meaning":"later, behind, at the back of, after"
+    },
+    {
+        "Traditional":"可是",
+        "Simplified":"可是",
+        "Pinyin":"kěshì",
+        "Meaning":"conj.: but, yet, however"
+    },
+    {
+        "Traditional":"當",
+        "Simplified":"当",
+        "Pinyin":"dāng",
+        "Meaning":"when, while dāng"
+    },
+    {
+        "Traditional":"人員",
+        "Simplified":"人员",
+        "Pinyin":"rényuán",
+        "Meaning":"strength, personnel, force, staff"
+    },
+    {
+        "Traditional":"比",
+        "Simplified":"比",
+        "Pinyin":"bǐ",
+        "Meaning":"compared with bǐ"
+    },
+    {
+        "Traditional":"先",
+        "Simplified":"先",
+        "Pinyin":"xiān",
+        "Meaning":"earlier, in advance, before"
+    },
+    {
+        "Traditional":"產品",
+        "Simplified":"产品",
+        "Pinyin":"chǎnpǐn",
+        "Meaning":"baby, brand, output, product, produce, end product, merchandise, fruitage, growth, manufacture, wares, production"
+    },
+    {
+        "Traditional":"資訊",
+        "Simplified":"资讯",
+        "Pinyin":"zīxùn",
+        "Meaning":"stuff, message, information, news, info"
+    },
+    {
+        "Traditional":"資料",
+        "Simplified":"资料",
+        "Pinyin":"zīliào",
+        "Meaning":"food, source, info, means, data, information, material, datum, data point, matter"
+    },
+    {
+        "Traditional":"比較",
+        "Simplified":"比较",
+        "Pinyin":"bǐjiào",
+        "Meaning":"relatively, fairly"
+    },
+    {
+        "Traditional":"先生",
+        "Simplified":"先生",
+        "Pinyin":"xiānshēng",
+        "Meaning":"doctor of Chinese medicine, Don, mulla, Ms., sir., teacher, gentleman, gospodin, Signor, signor, fortune-teller, babu, baboo, Herr, Mister, bey, mister, bwana, husband, siree, buckra, sirrah, senor, guv, sahib, Mr., rabbi, don, signore, Dan, sir, m'sieur, effendi, Tuan, baas, Monsieur, lording, monsieur, doctor, Mr, milord, Mynheer, signior, esquire, bookkeeper, Senor, rabboni, Senhor, sieur, sen"
+    },
+    {
+        "Traditional":"地",
+        "Simplified":"地",
+        "Pinyin":"dì",
+        "Meaning":"the earth, land, soil, fields, ground, place, position, background, distance dì"
+    },
+    {
+        "Traditional":"除了",
+        "Simplified":"除了",
+        "Pinyin":"chúle",
+        "Meaning":"except, besides"
+    },
+    {
+        "Traditional":"大陸",
+        "Simplified":"大陆",
+        "Pinyin":"dàlù",
+        "Meaning":"Ch. mainland"
+    },
+    {
+        "Traditional":"需要",
+        "Simplified":"需要",
+        "Pinyin":"xūyào",
+        "Meaning":"need, want, require, demand"
+    },
+    {
+        "Traditional":"像",
+        "Simplified":"像",
+        "Pinyin":"xiàng",
+        "Meaning":"be like xiàng"
+    },
+    {
+        "Traditional":"在",
+        "Simplified":"在",
+        "Pinyin":"zài",
+        "Meaning":"indicating an action in progress zài"
+    },
+    {
+        "Traditional":"給",
+        "Simplified":"给",
+        "Pinyin":"gěi",
+        "Meaning":"give, give to gěi"
+    },
+    {
+        "Traditional":"歲",
+        "Simplified":"岁",
+        "Pinyin":"suì",
+        "Meaning":"year (for crops), m.[standard], , year of age, year (of age), year, annum, year for crops suì"
+    },
+    {
+        "Traditional":"請",
+        "Simplified":"请",
+        "Pinyin":"qǐng",
+        "Meaning":"request, ask (a favor), engage, hire (teacher\/etc.), Please..."
+    },
+    {
+        "Traditional":"月",
+        "Simplified":"月",
+        "Pinyin":"yuè",
+        "Meaning":"moon yuè"
+    },
+    {
+        "Traditional":"些",
+        "Simplified":"些",
+        "Pinyin":"xiē",
+        "Meaning":"m.[proximation]"
+    },
+    {
+        "Traditional":"名",
+        "Simplified":"名",
+        "Pinyin":"míng",
+        "Meaning":"m.[general]"
+    },
+    {
+        "Traditional":"另",
+        "Simplified":"另",
+        "Pinyin":"lìng",
+        "Meaning":"det.: another lìng"
+    },
+    {
+        "Traditional":"若",
+        "Simplified":"若",
+        "Pinyin":"ruò",
+        "Meaning":"conj.: if, as if"
+    },
+    {
+        "Traditional":"亦",
+        "Simplified":"亦",
+        "Pinyin":"yì",
+        "Meaning":"also, too yì"
+    },
+    {
+        "Traditional":"地區",
+        "Simplified":"地区",
+        "Pinyin":"dìqū",
+        "Meaning":"section, country, area, latitude, zone, terrain, parts, locality, sector, province, prefecture, region, district, faubourg"
+    },
+    {
+        "Traditional":"技術",
+        "Simplified":"技术",
+        "Pinyin":"jìshù",
+        "Meaning":"mechanics, know-how, prowess, science, Minerva, superior skill, art, competence, technology, craft, craftsmanship, skill, education, technique, artistry, engineering, technological, equipment, technical"
+    },
+    {
+        "Traditional":"至",
+        "Simplified":"至",
+        "Pinyin":"zhì",
+        "Meaning":"to, until, till zhì"
+    },
+    {
+        "Traditional":"特別",
+        "Simplified":"特别",
+        "Pinyin":"tèbié",
+        "Meaning":"unusual, specially"
+    },
+    {
+        "Traditional":"其實",
+        "Simplified":"其实",
+        "Pinyin":"qíshí",
+        "Meaning":"as a matter of fact, actually, in fact"
+    },
+    {
+        "Traditional":"國際",
+        "Simplified":"国际",
+        "Pinyin":"guójì",
+        "Meaning":"international"
+    },
+    {
+        "Traditional":"不要",
+        "Simplified":"不要",
+        "Pinyin":"búyào",
+        "Meaning":"never, noway, don't want, don't (do sth.)"
+    },
+    {
+        "Traditional":"發生",
+        "Simplified":"发生",
+        "Pinyin":"fāshēng",
+        "Meaning":"happen, occur, take place"
+    },
+    {
+        "Traditional":"參加",
+        "Simplified":"参加",
+        "Pinyin":"cānjiā",
+        "Meaning":"join, attend, take part in, give (advice\/etc.)"
+    },
+    {
+        "Traditional":"一定",
+        "Simplified":"一定",
+        "Pinyin":"yīdìng",
+        "Meaning":"must"
+    },
+    {
+        "Traditional":"其中",
+        "Simplified":"其中",
+        "Pinyin":"qízhōng",
+        "Meaning":"among, of them, in it, among them, which, them, det.: it, in, in which"
+    },
+    {
+        "Traditional":"問",
+        "Simplified":"问",
+        "Pinyin":"wèn",
+        "Meaning":"ask, examine, question, interrogate wèn"
+    },
+    {
+        "Traditional":"台北",
+        "Simplified":"台北",
+        "Pinyin":"táiběi",
+        "Meaning":"capital of Nationalist China, capital of Republic of China on Taiwan, Taipei"
+    },
+    {
+        "Traditional":"包括",
+        "Simplified":"包括",
+        "Pinyin":"bāokuò",
+        "Meaning":"consist_of, consist of, subtend, embrace, comprise, incorporate, embody, involve, count, subsume, take_in, comprehend, incorporation, include, comprize, run, cover, package, consist in"
+    },
+    {
+        "Traditional":"講",
+        "Simplified":"讲",
+        "Pinyin":"jiǎng",
+        "Meaning":"discourse, utter, talk, negotiation, make clear, negotiate, parley, pay attention to, speak, syllable, discuss, explain, tell, be particular about, explanation, interpretation, interpret, relate, discussion, stress, mouth, say, remark, verbalize jiǎng"
+    },
+    {
+        "Traditional":"造成",
+        "Simplified":"造成",
+        "Pinyin":"zàochéng",
+        "Meaning":"make_for, give rise to, create, set_up, strike, creation, cause, contribute, bring_about, procure, give, bring about, cut_out, necessitate, shape, present, bring_forth, generate, yield, make, breed"
+    },
+    {
+        "Traditional":"看",
+        "Simplified":"看",
+        "Pinyin":"kàn",
+        "Meaning":"think, consider kàn"
+    },
+    {
+        "Traditional":"像",
+        "Simplified":"像",
+        "Pinyin":"xiàng",
+        "Meaning":"be like, resemble xiàng"
+    },
+    {
+        "Traditional":"常",
+        "Simplified":"常",
+        "Pinyin":"cháng",
+        "Meaning":"often, usually, frequently cháng"
+    },
+    {
+        "Traditional":"即",
+        "Simplified":"即",
+        "Pinyin":"jí",
+        "Meaning":"at present, in the immediate future, then, promptly, at once"
+    },
+    {
+        "Traditional":"喜歡",
+        "Simplified":"喜欢",
+        "Pinyin":"xǐhuān",
+        "Meaning":"like, love, be fond of, be happy\/elated"
+    },
+    {
+        "Traditional":"去",
+        "Simplified":"去",
+        "Pinyin":"qù",
+        "Meaning":"go, go to qù"
+    },
+    {
+        "Traditional":"沒",
+        "Simplified":"没",
+        "Pinyin":"méi",
+        "Meaning":"not"
+    },
+    {
+        "Traditional":"出現",
+        "Simplified":"出现",
+        "Pinyin":"chūxiàn",
+        "Meaning":"appear, arise, emerge"
+    },
+    {
+        "Traditional":"政治",
+        "Simplified":"政治",
+        "Pinyin":"zhèngzhì",
+        "Meaning":"paternalism, trouble, government, policy, political relation, political science, polity, politics, political affairs, political"
+    },
+    {
+        "Traditional":"話",
+        "Simplified":"话",
+        "Pinyin":"huà",
+        "Meaning":"words, thing, language, tongue, talk, speech, spoken_language, conversation, utterance, expression, story, tale, saying, natural language, sayings, word"
+    },
+    {
+        "Traditional":"走",
+        "Simplified":"走",
+        "Pinyin":"zǒu",
+        "Meaning":"scram, travel, foot, go away, evaporate, ankle, waltz, step, bugger off, etc., go through, leave, leak, run, buzz off, leg, pad, fork, visit, go, escape, lose flavor, work, call on, strike, sashay, trace, pursue, gang, lose shape\/etc., get_along, come_along, walk, hoof it, lose flavor\/shape\/etc., leg it, let out, shape, drive, cover, take, get, hoof, move zǒu"
+    },
+    {
+        "Traditional":"單位",
+        "Simplified":"单位",
+        "Pinyin":"dānwèi",
+        "Meaning":"department, unit, denomination, module, building block, unit of measurement, monad, unit (in measurement or organization)"
+    },
+    {
+        "Traditional":"一直",
+        "Simplified":"一直",
+        "Pinyin":"yīzhí",
+        "Meaning":"e'er, away, continuously, all the way, right, forever, all_along, always, the whole way, all along, straight, slap, through, ever, evermore"
+    },
+    {
+        "Traditional":"吧",
+        "Simplified":"吧",
+        "Pinyin":"ba",
+        "Meaning":"particle: used to show mild imperative or uncertainty"
+    },
+    {
+        "Traditional":"是否",
+        "Simplified":"是否",
+        "Pinyin":"shìfǒu",
+        "Meaning":"whether or not, is it so or not"
+    },
+    {
+        "Traditional":"當然",
+        "Simplified":"当然",
+        "Pinyin":"dāngrán",
+        "Meaning":"certainly, of course"
+    },
+    {
+        "Traditional":"整",
+        "Simplified":"整",
+        "Pinyin":"zhěng",
+        "Meaning":"det.: exact zhěng"
+    },
+    {
+        "Traditional":"處理",
+        "Simplified":"处理",
+        "Pinyin":"chǔlǐ",
+        "Meaning":"handle, deal with, dispose of, process"
+    },
+    {
+        "Traditional":"歷史",
+        "Simplified":"历史",
+        "Pinyin":"lìshǐ",
+        "Meaning":"past records, historical, history"
+    },
+    {
+        "Traditional":"了解",
+        "Simplified":"了解",
+        "Pinyin":"liǎojiě",
+        "Meaning":"understand, comprehend, find out, acquaint oneself with"
+    },
+    {
+        "Traditional":"那",
+        "Simplified":"那",
+        "Pinyin":"nà",
+        "Meaning":"then, in that case"
+    },
+    {
+        "Traditional":"怎麼",
+        "Simplified":"怎么",
+        "Pinyin":"zěnme",
+        "Meaning":"how"
+    },
+    {
+        "Traditional":"機會",
+        "Simplified":"机会",
+        "Pinyin":"jīhuì",
+        "Meaning":"scouth, occasion, good luck, hap, liberty, fortune, opportunity, chance, joss, hazard, happy chance, probability, luck, scope, room, break, turn, opening"
+    },
+    {
+        "Traditional":"家",
+        "Simplified":"家",
+        "Pinyin":"jiā",
+        "Meaning":"m.[general] jiā"
+    },
+    {
+        "Traditional":"聽",
+        "Simplified":"听",
+        "Pinyin":"tīng",
+        "Meaning":"hear, list, hearken, obey, obedience, listen, heed, administer, let, allow, hark"
+    },
+    {
+        "Traditional":"所有",
+        "Simplified":"所有",
+        "Pinyin":"suǒyǒu",
+        "Meaning":"det.: all"
+    },
+    {
+        "Traditional":"只要",
+        "Simplified":"只要",
+        "Pinyin":"zhǐyào",
+        "Meaning":"conj.: so long as, provided"
+    },
+    {
+        "Traditional":"朋友",
+        "Simplified":"朋友",
+        "Pinyin":"péngyou",
+        "Meaning":"amigo, connections, kith, friend, boy, crony, ami, boy\/girl friend, companion, mate, boy friend or girl friend, compadre, boy friend, Mac, paisano, matey, old_boy, sport, folks, pard, hearty, Kamerad, cocker, cobber, girl friend, pardner, company"
+    },
+    {
+        "Traditional":"令",
+        "Simplified":"令",
+        "Pinyin":"lìng",
+        "Meaning":"make, cause lìng"
+    },
+    {
+        "Traditional":"甚至",
+        "Simplified":"甚至",
+        "Pinyin":"shènzhì",
+        "Meaning":"even (to the point of), so much so that"
+    },
+    {
+        "Traditional":"用",
+        "Simplified":"用",
+        "Pinyin":"yòng",
+        "Meaning":"use, employ, apply, eat, drink, spend yòng"
+    },
+    {
+        "Traditional":"真",
+        "Simplified":"真",
+        "Pinyin":"zhēn",
+        "Meaning":"really, truly, indeed, clearly"
+    },
+    {
+        "Traditional":"六",
+        "Simplified":"六",
+        "Pinyin":"liù",
+        "Meaning":"det.: six liù"
+    },
+    {
+        "Traditional":"呀",
+        "Simplified":"呀",
+        "Pinyin":"ya",
+        "Meaning":"particle: replacing 啊 when preceding word ends in a, e, i, o, or (y)u; used in direct address and exclamation; indicating obviousness\/impatience\/suggestion; used for confirmation"
+    },
+    {
+        "Traditional":"情況",
+        "Simplified":"情况",
+        "Pinyin":"qíngkuàng",
+        "Meaning":"event, things, state of affairs, circumstantiality, case, circumstances, way, plight, experimental condition, streak, military situation, matter, condition, mood, circumstance, context, occasion, thing, instance, affair, shape, situation, juncture, consideration"
+    },
+    {
+        "Traditional":"還是",
+        "Simplified":"还是",
+        "Pinyin":"háishì",
+        "Meaning":"still, nevertheless"
+    },
+    {
+        "Traditional":"錢",
+        "Simplified":"钱",
+        "Pinyin":"qián",
+        "Meaning":"copper coin, cash, money, fund, sum qián"
+    },
+    {
+        "Traditional":"方法",
+        "Simplified":"方法",
+        "Pinyin":"fāngfǎ",
+        "Meaning":"know-how, plan, attack, system, stepping-stone, manner, method, gateway, idea, measure, way, guise, key, wise, quomodo, plan of attack, tack, machinery, process, avenue, modus, how, means, channel, gate, approach, agency, gamesmanship, mode, medium, sort"
+    },
+    {
+        "Traditional":"點",
+        "Simplified":"点",
+        "Pinyin":"diǎn",
+        "Meaning":"m.[proximation] diǎn"
+    },
+    {
+        "Traditional":"任何",
+        "Simplified":"任何",
+        "Pinyin":"rènhé",
+        "Meaning":"aught, det.: any"
+    },
+    {
+        "Traditional":"經驗",
+        "Simplified":"经验",
+        "Pinyin":"jīngyàn",
+        "Meaning":"experience"
+    },
+    {
+        "Traditional":"藝術",
+        "Simplified":"艺术",
+        "Pinyin":"yìshù",
+        "Meaning":"beaux-arts, aesthetical, artistic production, artistic, ars, art, academy, aesthetic, artistic creation, skill, craft, artistry, esthetic"
+    },
+    {
+        "Traditional":"你們",
+        "Simplified":"你们",
+        "Pinyin":"nǐmen",
+        "Meaning":"you, you (plural), you-all"
+    },
+    {
+        "Traditional":"十",
+        "Simplified":"十",
+        "Pinyin":"shí",
+        "Meaning":"det.: ten shí"
+    },
+    {
+        "Traditional":"主要",
+        "Simplified":"主要",
+        "Pinyin":"zhǔyào",
+        "Meaning":"main, chief, principal, major"
+    },
+    {
+        "Traditional":"媽媽",
+        "Simplified":"妈妈",
+        "Pinyin":"māmā",
+        "Meaning":"mummy, mammy, ma, mother, mamma, mum, mommy, female parent, mom, Mama, mater, mama, momma"
+    },
+    {
+        "Traditional":"增加",
+        "Simplified":"增加",
+        "Pinyin":"zēngjiā",
+        "Meaning":"increase, raise, add"
+    },
+    {
+        "Traditional":"提出",
+        "Simplified":"提出",
+        "Pinyin":"tíchū",
+        "Meaning":"put forward, pose, raise"
+    },
+    {
+        "Traditional":"為什麼",
+        "Simplified":"为什么",
+        "Pinyin":"wèishéme",
+        "Meaning":"why, why?, how come, why is it that?, whereat, whereto"
+    },
+    {
+        "Traditional":"以",
+        "Simplified":"以",
+        "Pinyin":"yǐ",
+        "Meaning":"conj.: in order to, so as to"
+    },
+    {
+        "Traditional":"您",
+        "Simplified":"您",
+        "Pinyin":"nín",
+        "Meaning":"you nín"
+    },
+    {
+        "Traditional":"計畫",
+        "Simplified":"计画",
+        "Pinyin":"jìhuà",
+        "Meaning":"plan, project, program"
+    },
+    {
+        "Traditional":"作",
+        "Simplified":"作",
+        "Pinyin":"zuò",
+        "Meaning":"do, make, rise, write, compose, pretend, affect, feign zuò"
+    },
+    {
+        "Traditional":"利用",
+        "Simplified":"利用",
+        "Pinyin":"lìyòng",
+        "Meaning":"use, utilize, take advantage of, exploit"
+    },
+    {
+        "Traditional":"東西",
+        "Simplified":"东西",
+        "Pinyin":"dōngxī",
+        "Meaning":"thing, creature"
+    },
+    {
+        "Traditional":"在",
+        "Simplified":"在",
+        "Pinyin":"zài",
+        "Meaning":"exist, live, be at\/in\/on, depend on, rest with zài"
+    },
+    {
+        "Traditional":"條",
+        "Simplified":"条",
+        "Pinyin":"tiáo",
+        "Meaning":"bar, item, short note, a long narrow piece, streak, clause, stripe, sth. long and narrow, filet, m.[general], , article, strip, assize, twig, ingot, slip tiáo"
+    },
+    {
+        "Traditional":"設計",
+        "Simplified":"设计",
+        "Pinyin":"shèjì",
+        "Meaning":"design, plan"
+    },
+    {
+        "Traditional":"找",
+        "Simplified":"找",
+        "Pinyin":"zhǎo",
+        "Meaning":"look for, seek, call on, approach zhǎo"
+    },
+    {
+        "Traditional":"之間",
+        "Simplified":"之间",
+        "Pinyin":"zhījiān",
+        "Meaning":"among, between"
+    },
+    {
+        "Traditional":"成長",
+        "Simplified":"成长",
+        "Pinyin":"chéngzhǎng",
+        "Meaning":"grow up, mature"
+    },
+    {
+        "Traditional":"能夠",
+        "Simplified":"能够",
+        "Pinyin":"nénggòu",
+        "Meaning":"can, able, would, may"
+    },
+    {
+        "Traditional":"決定",
+        "Simplified":"决定",
+        "Pinyin":"juédìng",
+        "Meaning":"decide, resolve, make up one's mind, determine"
+    },
+    {
+        "Traditional":"學習",
+        "Simplified":"学习",
+        "Pinyin":"xuéxí",
+        "Meaning":"study, learn, emulate"
+    },
+    {
+        "Traditional":"誰",
+        "Simplified":"谁",
+        "Pinyin":"shéi",
+        "Meaning":"who, someone, anyone"
+    },
+    {
+        "Traditional":"見",
+        "Simplified":"见",
+        "Pinyin":"jiàn",
+        "Meaning":"see, be exposed to, become visible, call on, refer to, meet with, appear to be, appear, vide, catch sight of, meet jiàn"
+    },
+    {
+        "Traditional":"半",
+        "Simplified":"半",
+        "Pinyin":"bàn",
+        "Meaning":"det.: half"
+    },
+    {
+        "Traditional":"時代",
+        "Simplified":"时代",
+        "Pinyin":"shídài",
+        "Meaning":"day, period, a period in one's life, epoch, present time, historical period, time, chapter, period in one's life, modern times, historic period, contemporary world, times, era, modern world, age"
+    },
+    {
+        "Traditional":"完成",
+        "Simplified":"完成",
+        "Pinyin":"wánchéng",
+        "Meaning":"fill in, finish out, fulfil, practice, complete, finish, encompass, clear_up, top_off, cleave, top off, accomplishment, make out, effect, perfective, fulfill, go through, exercise, discharge, fill out, completion, end, run, bring ... to fruition, round_out, achieve, execute, round out, make, cap off, accomplish, practise, follow through, come, finalize, fulfilment, dispatch, bring ..."
+    },
+    {
+        "Traditional":"帶",
+        "Simplified":"带",
+        "Pinyin":"dài",
+        "Meaning":"look after, raise dài"
+    },
+    {
+        "Traditional":"相當",
+        "Simplified":"相当",
+        "Pinyin":"xiāngdāng",
+        "Meaning":"quite, fairly, considerably"
+    },
+    {
+        "Traditional":"同學",
+        "Simplified":"同学",
+        "Pinyin":"tóngxué",
+        "Meaning":"class fellow, fellow student, condisciple, classmate, schoolmate, schoolfellow, form of address used in speaking to a student"
+    },
+    {
+        "Traditional":"件",
+        "Simplified":"件",
+        "Pinyin":"jiàn",
+        "Meaning":"correspondence, paper, document, bit, m.[general], , single item, letter, piece jiàn"
+    },
+    {
+        "Traditional":"能力",
+        "Simplified":"能力",
+        "Pinyin":"nénglì",
+        "Meaning":"department, potency, ability, acquisition, acquirement, capacity, performance, oomph, sufficiency, energy, competence, accomplishment, size, might, faculty, hand, coequal, efficiency, inner resources, capability, giftie, attainment, capableness, zip, skill, competency, power"
+    },
+    {
+        "Traditional":"別人",
+        "Simplified":"别人",
+        "Pinyin":"biérén",
+        "Meaning":"others, other people, another person"
+    },
+    {
+        "Traditional":"生命",
+        "Simplified":"生命",
+        "Pinyin":"shēngmìng",
+        "Meaning":"breath, god, head, anima, days, organism, blood, life, living thing, skin, longevity, being, vital, life form"
+    },
+    {
+        "Traditional":"下",
+        "Simplified":"下",
+        "Pinyin":"xià",
+        "Meaning":"below, under, underneath xià"
+    },
+    {
+        "Traditional":"來",
+        "Simplified":"来",
+        "Pinyin":"lái",
+        "Meaning":"time (since) lái"
+    },
+    {
+        "Traditional":"場",
+        "Simplified":"场",
+        "Pinyin":"cháng",
+        "Meaning":"m.[event] cháng"
+    },
+    {
+        "Traditional":"會議",
+        "Simplified":"会议",
+        "Pinyin":"huìyì",
+        "Meaning":"synod, moot, conference, board, convocation, soviet, congress, talks, indaba, negotiation, junta, group discussion, convention, meeting place, session, council, rendezvous, colloquy, coming together, powwow, seance, meeting, forum, consultation, roll-up, get-together, assembly"
+    },
+    {
+        "Traditional":"容易",
+        "Simplified":"容易",
+        "Pinyin":"róngyì",
+        "Meaning":"easy"
+    },
+    {
+        "Traditional":"開發",
+        "Simplified":"开发",
+        "Pinyin":"kāifā",
+        "Meaning":"develop, open up, exploit"
+    },
+    {
+        "Traditional":"民眾",
+        "Simplified":"民众",
+        "Pinyin":"mínzhòng",
+        "Meaning":"civil, crowd, masses, populace, rank_and_file, the masses, the masses of the people, the populace, demos, mob, multitude, plebs, commons, the common people, the people, million, public"
+    },
+    {
+        "Traditional":"事情",
+        "Simplified":"事情",
+        "Pinyin":"shìqíng",
+        "Meaning":"proposition, pie, shebang, thing, affair, occasions, undertaking, concern, question, business, schmear, matter"
+    },
+    {
+        "Traditional":"書",
+        "Simplified":"书",
+        "Pinyin":"shū",
+        "Meaning":"volume, document, style of calligraphy, book, script, letter shū"
+    },
+    {
+        "Traditional":"事實",
+        "Simplified":"事实",
+        "Pinyin":"shìshí",
+        "Meaning":"mood, circumstance, fact, factual, reality, verity, case, deed, sooth, troth, actuality, truth, matter, matter of fact"
+    },
+    {
+        "Traditional":"有關",
+        "Simplified":"有关",
+        "Pinyin":"yǒuguān",
+        "Meaning":"be related"
+    },
+    {
+        "Traditional":"自",
+        "Simplified":"自",
+        "Pinyin":"zì",
+        "Meaning":"from, since zì"
+    },
+    {
+        "Traditional":"組織",
+        "Simplified":"组织",
+        "Pinyin":"zǔzhī",
+        "Meaning":"tissue, nerve, weave, organization, organized system"
+    },
+    {
+        "Traditional":"言",
+        "Simplified":"言",
+        "Pinyin":"yán",
+        "Meaning":"say, talk, speak"
+    },
+    {
+        "Traditional":"多",
+        "Simplified":"多",
+        "Pinyin":"duō",
+        "Meaning":"more than the correct\/required number, much\/far more duō"
+    },
+    {
+        "Traditional":"愛",
+        "Simplified":"爱",
+        "Pinyin":"ài",
+        "Meaning":"love, like, be fond of, be keen on, cherish, be apt to"
+    },
+    {
+        "Traditional":"建立",
+        "Simplified":"建立",
+        "Pinyin":"jiànlì",
+        "Meaning":"establish, set up, found"
+    },
+    {
+        "Traditional":"相關",
+        "Simplified":"相关",
+        "Pinyin":"xiāngguān",
+        "Meaning":"cognate, relational, interrelate, associated, be interrelated, relevant, related, be mutually related"
+    },
+    {
+        "Traditional":"均",
+        "Simplified":"均",
+        "Pinyin":"jūn",
+        "Meaning":"without exception, all"
+    },
+    {
+        "Traditional":"產生",
+        "Simplified":"产生",
+        "Pinyin":"chǎnshēng",
+        "Meaning":"come into being, produce, engender, emerge"
+    },
+    {
+        "Traditional":"多",
+        "Simplified":"多",
+        "Pinyin":"duō",
+        "Meaning":"det.: more than, much more duō"
+    },
+    {
+        "Traditional":"業者",
+        "Simplified":"业者",
+        "Pinyin":"yèzhě",
+        "Meaning":"dealer, interest"
+    },
+    {
+        "Traditional":"解決",
+        "Simplified":"解决",
+        "Pinyin":"jiějué",
+        "Meaning":"solve, resolve, settle, dispose of, finish off"
+    },
+    {
+        "Traditional":"完全",
+        "Simplified":"完全",
+        "Pinyin":"wánquán",
+        "Meaning":"completely, fully, wholly, absolutely"
+    },
+    {
+        "Traditional":"的話",
+        "Simplified":"的话",
+        "Pinyin":"dehuà",
+        "Meaning":"conj.: if"
+    },
+    {
+        "Traditional":"接受",
+        "Simplified":"接受",
+        "Pinyin":"jiēshòu",
+        "Meaning":"receive (honors, have, receive, acknowledge, sweep up, espouse, etc.), come to grips, adopt, embrace, greet, welcome, hook on, seize on, take up, accede, taken, entertain, latch on, buy, fasten on, swallow, imbibe, accept, receive (honors\/etc.), undergo, get to grips, take, adapt, acceptance, thole"
+    },
+    {
+        "Traditional":"知",
+        "Simplified":"知",
+        "Pinyin":"zhī",
+        "Meaning":"tell, notify, inform, be expert in, know, sense, be aware of, administration, notification, administer, be in charge of, realize zhī"
+    },
+    {
+        "Traditional":"約",
+        "Simplified":"约",
+        "Pinyin":"yuē",
+        "Meaning":"about, around"
+    },
+    {
+        "Traditional":"一般",
+        "Simplified":"一般",
+        "Pinyin":"yībān",
+        "Meaning":"general, ordinary, common"
+    },
+    {
+        "Traditional":"推動",
+        "Simplified":"推动",
+        "Pinyin":"tuīdòng",
+        "Meaning":"push forward, promote"
+    },
+    {
+        "Traditional":"過程",
+        "Simplified":"过程",
+        "Pinyin":"guòchéng",
+        "Meaning":"unconscious process, mechanism, process, act, round, course"
+    },
+    {
+        "Traditional":"管理",
+        "Simplified":"管理",
+        "Pinyin":"guǎnlǐ",
+        "Meaning":"manage, supervise, take care of"
+    },
+    {
+        "Traditional":"功能",
+        "Simplified":"功能",
+        "Pinyin":"gōngnéng",
+        "Meaning":"functional, niche, function, competence, capacity, anatomy"
+    },
+    {
+        "Traditional":"手",
+        "Simplified":"手",
+        "Pinyin":"shǒu",
+        "Meaning":"hand shǒu"
+    },
+    {
+        "Traditional":"打",
+        "Simplified":"打",
+        "Pinyin":"dǎ",
+        "Meaning":"generalized verb of doing with specific meaning determined by its object, strike, hit, fight, construct, forge, mix dǎ"
+    },
+    {
+        "Traditional":"水",
+        "Simplified":"水",
+        "Pinyin":"shuǐ",
+        "Meaning":"water, H2O, liquid, bubble, a general term for rivers, lakes, seas, etc., Shiu, waters, aqueous, Aquarius, river, Surname, blister, drink, eau, aqua"
+    },
+    {
+        "Traditional":"要求",
+        "Simplified":"要求",
+        "Pinyin":"yāoqiú",
+        "Meaning":"request, demand"
+    },
+    {
+        "Traditional":"小朋友",
+        "Simplified":"小朋友",
+        "Pinyin":"xiǎopéngyǒu",
+        "Meaning":"child (adult address to child), little boy, children, little boy\/girl, girl, little girl, little boy or girl, child"
+    },
+    {
+        "Traditional":"教授",
+        "Simplified":"教授",
+        "Pinyin":"jiàoshòu",
+        "Meaning":"professor"
+    },
+    {
+        "Traditional":"難",
+        "Simplified":"难",
+        "Pinyin":"nán",
+        "Meaning":"make difficulties, take to task, put ... into a difficult position, disagreeable, make difficult, unpleasant, hard, difficult, troublesome, blame"
+    },
+    {
+        "Traditional":"我國",
+        "Simplified":"我国",
+        "Pinyin":"wǒguó",
+        "Meaning":"our country"
+    },
+    {
+        "Traditional":"告訴",
+        "Simplified":"告诉",
+        "Pinyin":"gàosù",
+        "Meaning":"tell, preach, notify, impart, inform, represent, apprize, send word, share, advise, give notice, apprise, assure, let know"
+    },
+    {
+        "Traditional":"內容",
+        "Simplified":"内容",
+        "Pinyin":"nèiróng",
+        "Meaning":"subject_matter, content, cognitive content, internal, contents, mental object, meat, substance, matter, lining"
+    },
+    {
+        "Traditional":"結果",
+        "Simplified":"结果",
+        "Pinyin":"jiéguǒ",
+        "Meaning":"result, outcome, consequence"
+    },
+    {
+        "Traditional":"調查",
+        "Simplified":"调查",
+        "Pinyin":"diàochá",
+        "Meaning":"investigate, look into, survey"
+    },
+    {
+        "Traditional":"家庭",
+        "Simplified":"家庭",
+        "Pinyin":"jiātíng",
+        "Meaning":"hearthstone, background, fireside, establishment, household, hearth, domestic, hearthside, menage, home, family unit, family, house"
+    },
+    {
+        "Traditional":"成立",
+        "Simplified":"成立",
+        "Pinyin":"chénglì",
+        "Meaning":"found, establish, be tenable, hold water"
+    },
+    {
+        "Traditional":"選擇",
+        "Simplified":"选择",
+        "Pinyin":"xuǎnzé",
+        "Meaning":"select, opt"
+    },
+    {
+        "Traditional":"經營",
+        "Simplified":"经营",
+        "Pinyin":"jīngyíng",
+        "Meaning":"manage, run, engage in"
+    },
+    {
+        "Traditional":"然而",
+        "Simplified":"然而",
+        "Pinyin":"ránér",
+        "Meaning":"conj.: even so, but"
+    },
+    {
+        "Traditional":"父母",
+        "Simplified":"父母",
+        "Pinyin":"fùmǔ",
+        "Meaning":"parental, parents, father and mother, folks"
+    },
+    {
+        "Traditional":"寫",
+        "Simplified":"写",
+        "Pinyin":"xiě",
+        "Meaning":"description, bewrite, direct, describe, pencil, draw, paint, inscribe, write, depiction, write_out, throw_off, depict, address, author, screeve, word, compose xiě"
+    },
+    {
+        "Traditional":"人類",
+        "Simplified":"人类",
+        "Pinyin":"rénlèi",
+        "Meaning":"man, wight, human_being, human, human race, mankind, individual, human species, Homo_sapiens, populace, creature, hominid, world, mortality, microcosm, humans, humanitarianism, humanity, humanness, human beings\/species, people, species, humankind, human beings, public, mortal"
+    },
+    {
+        "Traditional":"至於",
+        "Simplified":"至于",
+        "Pinyin":"zhìyū",
+        "Meaning":"as for\/to"
+    },
+    {
+        "Traditional":"買",
+        "Simplified":"买",
+        "Pinyin":"mǎi",
+        "Meaning":"pick up, invest, hire, buy, purchase, put_down, trade, get mǎi"
+    },
+    {
+        "Traditional":"尤其",
+        "Simplified":"尤其",
+        "Pinyin":"yóuqí",
+        "Meaning":"especially"
+    },
+    {
+        "Traditional":"配合",
+        "Simplified":"配合",
+        "Pinyin":"pèihé",
+        "Meaning":"coordinate, cooperate"
+    },
+    {
+        "Traditional":"進入",
+        "Simplified":"进入",
+        "Pinyin":"jìnrù",
+        "Meaning":"go_into, get_in, debouch, get in, go into, move into, come_into, pass, step_in, lapse, get_into, set in, go in, get into, kick in, penetrate, intromission, pierce, come_in, come in, enter, entry, sink, impenetrate"
+    },
+    {
+        "Traditional":"例如",
+        "Simplified":"例如",
+        "Pinyin":"lìrú",
+        "Meaning":"for instance\/example, e.g., such as"
+    },
+    {
+        "Traditional":"得",
+        "Simplified":"得",
+        "Pinyin":"děi",
+        "Meaning":"should be, need děi"
+    },
+    {
+        "Traditional":"討論",
+        "Simplified":"讨论",
+        "Pinyin":"tǎolùn",
+        "Meaning":"to discuss, to take something up with someone, to talk about"
+    },
+    {
+        "Traditional":"依",
+        "Simplified":"依",
+        "Pinyin":"yī",
+        "Meaning":"according to, judging by yī"
+    },
+    {
+        "Traditional":"作品",
+        "Simplified":"作品",
+        "Pinyin":"zuòpǐn",
+        "Meaning":"writing, musical composition, whole kit and caboodle, works (of literature, artwork, kit and caboodle, product, whole works, creation, full treatment, kit and boodle, whole kit and boodle, works (of literature\/art), composition, thing, piece of music, workpiece, output, art), written material, opus, whole shebang, whole caboodle, production, whole kit, piece, workmanship, wo"
+    },
+    {
+        "Traditional":"情形",
+        "Simplified":"情形",
+        "Pinyin":"qíngxíng",
+        "Meaning":"circumstance, trimness, event, trim, instance, state of affairs, case, circumstances, status, situation, condition"
+    },
+    {
+        "Traditional":"資源",
+        "Simplified":"资源",
+        "Pinyin":"zīyuán",
+        "Meaning":"resource, natural resources, mine, resources"
+    },
+    {
+        "Traditional":"原因",
+        "Simplified":"原因",
+        "Pinyin":"yuányīn",
+        "Meaning":"origin, causation, reason, wherefore, causal, breeder, spore, cause, causal agent, whence, causal agency, occasion, root, subject, causality, why, starter"
+    },
+    {
+        "Traditional":"啦",
+        "Simplified":"啦",
+        "Pinyin":"lā",
+        "Meaning":"particle: used when informing sb. of st.; indicating excitement\/doubt\/comfort\/etc."
+    },
+    {
+        "Traditional":"妳",
+        "Simplified":"妳",
+        "Pinyin":"nǐ",
+        "Meaning":"you(female) nǐ"
+    },
+    {
+        "Traditional":"運動",
+        "Simplified":"运动",
+        "Pinyin":"yùndòng",
+        "Meaning":"sports, athletics, exercise, movement, campaign"
+    },
+    {
+        "Traditional":"觀念",
+        "Simplified":"观念",
+        "Pinyin":"guānniàn",
+        "Meaning":"conception, intension, theory, philosophy, idolum, connotation, idea, sense, presentation, notion, concept, construct, intellection, presentment, thought, notional, conceit"
+    },
+    {
+        "Traditional":"給",
+        "Simplified":"给",
+        "Pinyin":"gěi",
+        "Meaning":"for, for the benefit of, by (in passive cons.) gěi"
+    },
+    {
+        "Traditional":"軟體",
+        "Simplified":"软体",
+        "Pinyin":"ruǎntǐ",
+        "Meaning":"software"
+    },
+    {
+        "Traditional":"品質",
+        "Simplified":"品质",
+        "Pinyin":"pǐnzhí",
+        "Meaning":"calibre, appraisal, caliber, character, self, intrinsic, brew, quality, timber, sort"
+    },
+    {
+        "Traditional":"經過",
+        "Simplified":"经过",
+        "Pinyin":"jīngguò",
+        "Meaning":"pass, go through, undergo"
+    },
+    {
+        "Traditional":"如此",
+        "Simplified":"如此",
+        "Pinyin":"rúcǐ",
+        "Meaning":"thus, like this, such"
+    },
+    {
+        "Traditional":"嗯",
+        "Simplified":"嗯",
+        "Pinyin":"ēn",
+        "Meaning":"O.K., How come, Huh, What, Why, Agreed!, well, um"
+    },
+    {
+        "Traditional":"精神",
+        "Simplified":"精神",
+        "Pinyin":"jīngshén",
+        "Meaning":"god, guts, heart, pneuma, consciousness, vigor, life, energy, vim, courage, esprit, moral, get-up-and-go, ginger, vitality, Psyche, psyche, spunk, gumption, juice, sand, mind, mental, mens, mickey, mettle, nature, grit, oomph, genius, vigour, substance, psychic, backbone, nous, nerve, pazazz, essence, pep, spirit, inward, drive, push, soul, gist"
+    },
+    {
+        "Traditional":"影響",
+        "Simplified":"影响",
+        "Pinyin":"yǐngxiǎng",
+        "Meaning":"influence"
+    },
+    {
+        "Traditional":"之",
+        "Simplified":"之",
+        "Pinyin":"zhī",
+        "Meaning":"it, him, her, this zhī"
+    },
+    {
+        "Traditional":"過",
+        "Simplified":"过",
+        "Pinyin":"guò",
+        "Meaning":"pass, cross, transfer (e.g., ownership), undergo a process, go through, celebrate, observe guò"
+    },
+    {
+        "Traditional":"好像",
+        "Simplified":"好像",
+        "Pinyin":"hǎoxiàng",
+        "Meaning":"seem, be like"
+    },
+    {
+        "Traditional":"成",
+        "Simplified":"成",
+        "Pinyin":"chéng",
+        "Meaning":"become, turn into chéng"
+    },
+    {
+        "Traditional":"參與",
+        "Simplified":"参与",
+        "Pinyin":"cānyū",
+        "Meaning":"participate in"
+    },
+    {
+        "Traditional":"以後",
+        "Simplified":"以后",
+        "Pinyin":"yǐhòu",
+        "Meaning":"afterwards, later, future, in the future, hereafter"
+    },
+    {
+        "Traditional":"於是",
+        "Simplified":"于是",
+        "Pinyin":"yūshì",
+        "Meaning":"conj.: thereupon, hence, consequently, as a result"
+    },
+    {
+        "Traditional":"部分",
+        "Simplified":"部分",
+        "Pinyin":"bùfèn",
+        "Meaning":"partial, department, section, partialness, slice, pars, part, det.: part, percent, partage, sphere, component, divvy, segment, portion, fraction, sector, chapter, share, percentage, piece, division, sectional, parcel"
+    },
+    {
+        "Traditional":"另外",
+        "Simplified":"另外",
+        "Pinyin":"lìngwài",
+        "Meaning":"conj.: in addition, besides, moreover"
+    },
+    {
+        "Traditional":"公園",
+        "Simplified":"公园",
+        "Pinyin":"gōngyuán",
+        "Meaning":"common, green, garden, commons, park"
+    },
+    {
+        "Traditional":"透過",
+        "Simplified":"透过",
+        "Pinyin":"tòuguò",
+        "Meaning":"via"
+    },
+    {
+        "Traditional":"訓練",
+        "Simplified":"训练",
+        "Pinyin":"xùnliàn",
+        "Meaning":"training"
+    },
+    {
+        "Traditional":"努力",
+        "Simplified":"努力",
+        "Pinyin":"nǔlì",
+        "Meaning":"make great effort, try hard"
+    },
+    {
+        "Traditional":"研究",
+        "Simplified":"研究",
+        "Pinyin":"yánjiù",
+        "Meaning":"research, study"
+    },
+    {
+        "Traditional":"具有",
+        "Simplified":"具有",
+        "Pinyin":"jùyǒu",
+        "Meaning":"be provided with, have, have got, possess, hold, possession, carry, inhere, bear"
+    },
+    {
+        "Traditional":"共同",
+        "Simplified":"共同",
+        "Pinyin":"gòngtóng",
+        "Meaning":"common, joint"
+    },
+    {
+        "Traditional":"所謂",
+        "Simplified":"所谓",
+        "Pinyin":"suǒwèi",
+        "Meaning":"so-called"
+    },
+    {
+        "Traditional":"下",
+        "Simplified":"下",
+        "Pinyin":"xià",
+        "Meaning":"det.: next, second xià"
+    },
+    {
+        "Traditional":"行為",
+        "Simplified":"行为",
+        "Pinyin":"xíngwéi",
+        "Meaning":"fact, demeanor, form, deportment, dealing, behavior, doings, course, act, point, goings-on, demeanour, procedure, lapse, going, bearing, turn, behaviour, activity, ongoing, thing, human action, conduct, commitment, human activity, behavioral, agency, deed, comportment, action"
+    },
+    {
+        "Traditional":"合作",
+        "Simplified":"合作",
+        "Pinyin":"hézuò",
+        "Meaning":"cooperate, collaborate, work together"
+    },
+    {
+        "Traditional":"經",
+        "Simplified":"经",
+        "Pinyin":"jīng",
+        "Meaning":"as a result of, through, after jīng"
+    },
+    {
+        "Traditional":"合作",
+        "Simplified":"合作",
+        "Pinyin":"hézuò",
+        "Meaning":"cooperate, collaborate, work together"
+    },
+    {
+        "Traditional":"目標",
+        "Simplified":"目标",
+        "Pinyin":"mùbiāo",
+        "Meaning":"polestar, objective, goal, bourn, object, meaning, aim, end point, target, cause, landmark, butt, lodestar, bull's eye, mark, tee, cynosure, end, bell ringer, loadstar, quaesitum, destination"
+    },
+    {
+        "Traditional":"起來",
+        "Simplified":"起来",
+        "Pinyin":"qǐlái",
+        "Meaning":"[aspect]"
+    },
+    {
+        "Traditional":"考慮",
+        "Simplified":"考虑",
+        "Pinyin":"kǎolù",
+        "Meaning":"think over, consider"
+    },
+    {
+        "Traditional":"長",
+        "Simplified":"长",
+        "Pinyin":"cháng",
+        "Meaning":"long, be strong\/good (in\/at) cháng"
+    },
+    {
+        "Traditional":"意見",
+        "Simplified":"意见",
+        "Pinyin":"yìjiàn",
+        "Meaning":"latitude, point_of_view, estimation, sight, conceit, verdict, hypothesis, attitude, estimate, possibility, judgement, appraisal, ground, slant, differing opinion, ruling, complaint, thinking, suggestion, comment, advisement, mind, apprehension, say, vote, impression, deliverance, view, understanding, feeling, idea, notion, sentiment, judgment, advice, current, opinion, advert, theory, v"
+    },
+    {
+        "Traditional":"辦法",
+        "Simplified":"办法",
+        "Pinyin":"bànfǎ",
+        "Meaning":"road, expedient, policy, agency, measure, way, method, means"
+    },
+    {
+        "Traditional":"音樂",
+        "Simplified":"音乐",
+        "Pinyin":"yīnyuè",
+        "Meaning":"music"
+    },
+    {
+        "Traditional":"連",
+        "Simplified":"连",
+        "Pinyin":"lián",
+        "Meaning":"conj.: including"
+    },
+    {
+        "Traditional":"受",
+        "Simplified":"受",
+        "Pinyin":"shòu",
+        "Meaning":"passive signifier shòu"
+    },
+    {
+        "Traditional":"廠商",
+        "Simplified":"厂商",
+        "Pinyin":"chǎngshāng",
+        "Meaning":"factory owner, factories and stores, firm, maker, business organization, business concern, manufacturing business, concern, manufacturer, business"
+    },
+    {
+        "Traditional":"隻",
+        "Simplified":"只",
+        "Pinyin":"zhī",
+        "Meaning":"m.[general] zhī"
+    },
+    {
+        "Traditional":"受到",
+        "Simplified":"受到",
+        "Pinyin":"shòudào",
+        "Meaning":"experience, receive, come in for, suffer, undergo, come_in_for, be given, come_to, be subjected to"
+    },
+    {
+        "Traditional":"一切",
+        "Simplified":"一切",
+        "Pinyin":"yīqiè",
+        "Meaning":"det.: everything, every"
+    },
+    {
+        "Traditional":"或是",
+        "Simplified":"或是",
+        "Pinyin":"huòshì",
+        "Meaning":"conj.: or, perhaps"
+    },
+    {
+        "Traditional":"中央",
+        "Simplified":"中央",
+        "Pinyin":"zhōngyāng",
+        "Meaning":"central authorities (of state\/party\/etc.)"
+    },
+    {
+        "Traditional":"某",
+        "Simplified":"某",
+        "Pinyin":"mǒu",
+        "Meaning":"det.: some, certain"
+    },
+    {
+        "Traditional":"女性",
+        "Simplified":"女性",
+        "Pinyin":"nǔxìng",
+        "Meaning":"lady, female sex, womankind, feminie, female, sex, petticoat, femininity, female person, woman, she, patroness, womanhood, fair, feminine"
+    },
+    {
+        "Traditional":"教學",
+        "Simplified":"教学",
+        "Pinyin":"jiāoxué",
+        "Meaning":"teach and study"
+    },
+    {
+        "Traditional":"極",
+        "Simplified":"极",
+        "Pinyin":"jí",
+        "Meaning":"extraordinary, unusual, special, very, extremely, highly jí"
+    },
+    {
+        "Traditional":"獲得",
+        "Simplified":"获得",
+        "Pinyin":"huòdé",
+        "Meaning":"find, cop, acquirement, come_into, gain, draw, pick_up, pull, achievement, score, procure, come_by, get hold, purchase, nab, come upon, derive, latch, incur, achieve, make, bring, receive, arrive, come_out, pocket, obtain, luck into, sack, win, enter upon, pick up, garner, harvest, attain, come up, line up, extract, secure, possess, earn, reap, accrue, cover, take, acquire, get, arrive_at"
+    },
+    {
+        "Traditional":"真的",
+        "Simplified":"真的",
+        "Pinyin":"zhēnde",
+        "Meaning":"really, truly, indeed"
+    },
+    {
+        "Traditional":"路",
+        "Simplified":"路",
+        "Pinyin":"lù",
+        "Meaning":"road, path, way, journey, distance, means, sequence, logic, line, region, district, route, sort, grade, class lù"
+    },
+    {
+        "Traditional":"來",
+        "Simplified":"来",
+        "Pinyin":"lái",
+        "Meaning":"particle: used to denote the beginning of an action lái"
+    },
+    {
+        "Traditional":"快",
+        "Simplified":"快",
+        "Pinyin":"kuài",
+        "Meaning":"fast, quick, quick-witted, ingenious, sharp (of knives), straightforward kuài"
+    },
+    {
+        "Traditional":"國小",
+        "Simplified":"国小",
+        "Pinyin":"guóxiǎo",
+        "Meaning":"primary\/elementary school, primary school"
+    },
+    {
+        "Traditional":"部份",
+        "Simplified":"部份",
+        "Pinyin":"bùfèn",
+        "Meaning":"composition, segment, section, side, portion, slice, proportion, part, det.: part, share, component, division, phase, place, piece"
+    },
+    {
+        "Traditional":"工程",
+        "Simplified":"工程",
+        "Pinyin":"gōngchéng",
+        "Meaning":"process, construction, engineering, engineering project, project"
+    },
+    {
+        "Traditional":"女人",
+        "Simplified":"女人",
+        "Pinyin":"nǔrén",
+        "Meaning":"jade, crumpet, female, female person, Gill, bitch, chick, fair, squaw, womenfolk, adult female, doll, momma, wench, skirt, womankind, girl, jill, wife, broad, petticoat, sister, woman, bimbo, bird, jane, she, hen, hairpin, dame, women"
+    },
+    {
+        "Traditional":"舉行",
+        "Simplified":"举行",
+        "Pinyin":"jǔxíng",
+        "Meaning":"hold (meeting\/etc.)"
+    },
+    {
+        "Traditional":"句",
+        "Simplified":"句",
+        "Pinyin":"jù",
+        "Meaning":"sentence, m.[general], jù"
+    },
+    {
+        "Traditional":"只是",
+        "Simplified":"只是",
+        "Pinyin":"zhǐshì",
+        "Meaning":"merely, only, just, simply be"
+    },
+    {
+        "Traditional":"段",
+        "Simplified":"段",
+        "Pinyin":"duàn",
+        "Meaning":"m.[general] duàn"
+    },
+    {
+        "Traditional":"根據",
+        "Simplified":"根据",
+        "Pinyin":"gēnjù",
+        "Meaning":"on the basis of, according to"
+    },
+    {
+        "Traditional":"現象",
+        "Simplified":"现象",
+        "Pinyin":"xiànxiàng",
+        "Meaning":"phenomenon, phenomenal, appearance"
+    },
+    {
+        "Traditional":"人民",
+        "Simplified":"人民",
+        "Pinyin":"rénmín",
+        "Meaning":"multitude, citizen, quarter, Volk, hoi polloi, subject, people, nationals, masses, the people, mass, demotic"
+    },
+    {
+        "Traditional":"土地",
+        "Simplified":"土地",
+        "Pinyin":"tǔdì",
+        "Meaning":"country, acre, terra, soil, premise, realm, territory, dirt, local god of the land, farming, earth, ground, kingdom, holding, agrarian, solid ground, benefice, esplees, tract, village god, glebe, terra firma, land, dry land"
+    },
+    {
+        "Traditional":"面對",
+        "Simplified":"面对",
+        "Pinyin":"miànduì",
+        "Meaning":"face up, stand up, face, look_out_on, confront, front, affront, envisage, accost, breast"
+    },
+    {
+        "Traditional":"注意",
+        "Simplified":"注意",
+        "Pinyin":"zhùyì",
+        "Meaning":"pay attention to, take note of"
+    },
+    {
+        "Traditional":"這裡",
+        "Simplified":"这里",
+        "Pinyin":"zhèlǐ",
+        "Meaning":"this place, there, here"
+    },
+    {
+        "Traditional":"新聞",
+        "Simplified":"新闻",
+        "Pinyin":"xīnwén",
+        "Meaning":"unco, leak, intelligence, newsworthiness, witting, journalistic, information, journalism, courant, news"
+    },
+    {
+        "Traditional":"繼續",
+        "Simplified":"继续",
+        "Pinyin":"jìxù",
+        "Meaning":"go, resume, keep_on, abide, come on, persist in, extend, run_on, run on, carry_on, stretch, sustain, pursue, keep going, continuance, get_along, get_on, remain, continue, keep_up, go ahead, keep up, come up, continuation, hold, carry, run, go_on, maintain, go on, bide, plow ahead, hold_on, piece, restart"
+    },
+    {
+        "Traditional":"相信",
+        "Simplified":"相信",
+        "Pinyin":"xiāngxìn",
+        "Meaning":"deem, believe, credit, esteem, accredit, feel, trow, count, have faith in, guess, lippen, buy, be convinced of, hold, think, trust, accept, know, hone, believe_in, favour, believe in, hope"
+    },
+    {
+        "Traditional":"政策",
+        "Simplified":"政策",
+        "Pinyin":"zhèngcè",
+        "Meaning":"statism, tack, line, policy, statecraft"
+    },
+    {
+        "Traditional":"變成",
+        "Simplified":"变成",
+        "Pinyin":"biànchéng",
+        "Meaning":"grow_into, change into, go, form, grow into, change state, develop into, turn to, fall, turn_into, be, turn, become, turn into, grow, run, get"
+    },
+    {
+        "Traditional":"計劃",
+        "Simplified":"计划",
+        "Pinyin":"jìhuà",
+        "Meaning":"plan, project, program"
+    },
+    {
+        "Traditional":"強調",
+        "Simplified":"强调",
+        "Pinyin":"qiángdiào",
+        "Meaning":"underscore, spotlight, place emphasis on, point_up, highlight, point, point up, enforce, emphasise, urge, underline, overstress, give emphasis to, play up, keynote, insist, punctuate, accent, betone, foreground, emphasize, emphatic, stress, set off, overemphasize, accentuate, bring out"
+    },
+    {
+        "Traditional":"學",
+        "Simplified":"学",
+        "Pinyin":"xué",
+        "Meaning":"study, learn, imitate, mimic xué"
+    },
+    {
+        "Traditional":"人士",
+        "Simplified":"人士",
+        "Pinyin":"rénshì",
+        "Meaning":"public figure, personage"
+    },
+    {
+        "Traditional":"前",
+        "Simplified":"前",
+        "Pinyin":"qián",
+        "Meaning":"front qián"
+    },
+    {
+        "Traditional":"前",
+        "Simplified":"前",
+        "Pinyin":"qián",
+        "Meaning":"det.: former, preceding qián"
+    },
+    {
+        "Traditional":"存在",
+        "Simplified":"存在",
+        "Pinyin":"cúnzài",
+        "Meaning":"exist, be"
+    },
+    {
+        "Traditional":"制度",
+        "Simplified":"制度",
+        "Pinyin":"zhìdù",
+        "Meaning":"ism, organization, dispensation, regimen, machine, regulations, form, system, regime, organisation, economy, institutional, institution"
+    },
+    {
+        "Traditional":"意義",
+        "Simplified":"意义",
+        "Pinyin":"yìyì",
+        "Meaning":"importance, significance, denotation, purport, drift, signality, emptiness, meaning, construction, bearing, substance, import, effect, insignificancy, hang, signification, sense"
+    },
+    {
+        "Traditional":"代表",
+        "Simplified":"代表",
+        "Pinyin":"dàibiǎo",
+        "Meaning":"representative, delegate"
+    },
+    {
+        "Traditional":"課程",
+        "Simplified":"课程",
+        "Pinyin":"kèchéng",
+        "Meaning":"course of instruction, lesson, course, course of lectures, course of study, curricular, class, curricula, syllabus, curriculum, program"
+    },
+    {
+        "Traditional":"該",
+        "Simplified":"该",
+        "Pinyin":"gāi",
+        "Meaning":"ought to, should gāi"
+    },
+    {
+        "Traditional":"沒",
+        "Simplified":"没",
+        "Pinyin":"méi",
+        "Meaning":"not have, there is not, be without méi"
+    },
+    {
+        "Traditional":"至",
+        "Simplified":"至",
+        "Pinyin":"zhì",
+        "Meaning":"conj.: zhì"
+    },
+    {
+        "Traditional":"需求",
+        "Simplified":"需求",
+        "Pinyin":"xūqiú",
+        "Meaning":"need, requisition, demand, want, desiderative, requirement, call"
+    },
+    {
+        "Traditional":"人生",
+        "Simplified":"人生",
+        "Pinyin":"rénshēng",
+        "Meaning":"lifetime, life, lifespan, human life, time of life"
+    },
+    {
+        "Traditional":"那些",
+        "Simplified":"那些",
+        "Pinyin":"nǎxiē",
+        "Meaning":"det.: those"
+    },
+    {
+        "Traditional":"成功",
+        "Simplified":"成功",
+        "Pinyin":"chénggōng",
+        "Meaning":"succeed"
+    },
+    {
+        "Traditional":"爸爸",
+        "Simplified":"爸爸",
+        "Pinyin":"bàbà",
+        "Meaning":"old man, father, papa, pappa, daddy, pa, begetter, pop, dada, dad, male parent, pater, pappy, pops, poppa"
+    },
+    {
+        "Traditional":"產業",
+        "Simplified":"产业",
+        "Pinyin":"chǎnyè",
+        "Meaning":"estate, manufacture, industry, domain, manufacturing, property"
+    },
+    {
+        "Traditional":"負責",
+        "Simplified":"负责",
+        "Pinyin":"fùzé",
+        "Meaning":"preside, be responsible for, see, entail, sponsor, be in charge of, blame, answer, undertake, liable, respond"
+    },
+    {
+        "Traditional":"民間",
+        "Simplified":"民间",
+        "Pinyin":"mínjiān",
+        "Meaning":"grass roots, people-to-people, nongovernmental, among the people, folk, popular"
+    },
+    {
+        "Traditional":"雖",
+        "Simplified":"虽",
+        "Pinyin":"suī",
+        "Meaning":"conj.: though, although, even if"
+    },
+    {
+        "Traditional":"影響",
+        "Simplified":"影响",
+        "Pinyin":"yǐngxiǎng",
+        "Meaning":"influence, affect, effect"
+    },
+    {
+        "Traditional":"直接",
+        "Simplified":"直接",
+        "Pinyin":"zhíjiē",
+        "Meaning":"direct, immediate"
+    },
+    {
+        "Traditional":"幾乎",
+        "Simplified":"几乎",
+        "Pinyin":"jīhū",
+        "Meaning":"chiefly, anear, about, near, just_about, most, well-nigh, almost, closely, practically, intimately, all but, nearly, just about, virtually, much, nigh"
+    },
+    {
+        "Traditional":"分",
+        "Simplified":"分",
+        "Pinyin":"fèn",
+        "Meaning":"m.[general] fèn"
+    },
+    {
+        "Traditional":"實際",
+        "Simplified":"实际",
+        "Pinyin":"shíjì",
+        "Meaning":"practical, literal"
+    },
+    {
+        "Traditional":"團體",
+        "Simplified":"团体",
+        "Pinyin":"tuántǐ",
+        "Meaning":"fraternity, sect, phalanx, collective, body, group, sodality, element, organisation, corporation, confession, college, establishment, brotherhood, community, organization, squad, union, administration, society, army, commonwealth, consort, company, lineup, combine, governance, clan, combination, fellowship, organizational, bloc, team, party, connection, family, brass, squadron"
+    },
+    {
+        "Traditional":"價值",
+        "Simplified":"价值",
+        "Pinyin":"jiàzhí",
+        "Meaning":"value, worth"
+    },
+    {
+        "Traditional":"使得",
+        "Simplified":"使得",
+        "Pinyin":"shǐdé",
+        "Meaning":"render, wreck, compel, cause, make"
+    },
+    {
+        "Traditional":"類",
+        "Simplified":"类",
+        "Pinyin":"lèi",
+        "Meaning":"m.[kind] lèi"
+    },
+    {
+        "Traditional":"形成",
+        "Simplified":"形成",
+        "Pinyin":"xíngchéng",
+        "Meaning":"take shape, form"
+    },
+    {
+        "Traditional":"科技",
+        "Simplified":"科技",
+        "Pinyin":"kējì",
+        "Meaning":"technology, tech, engineering science, applied science, science and technology, technological, engineering"
+    },
+    {
+        "Traditional":"這麼",
+        "Simplified":"这么",
+        "Pinyin":"zhème",
+        "Meaning":"so, such, this way, like this"
+    },
+    {
+        "Traditional":"當",
+        "Simplified":"当",
+        "Pinyin":"dāng",
+        "Meaning":"assume office of, take charge of dāng"
+    },
+    {
+        "Traditional":"七",
+        "Simplified":"七",
+        "Pinyin":"qī",
+        "Meaning":"det.: seven qī"
+    },
+    {
+        "Traditional":"不但",
+        "Simplified":"不但",
+        "Pinyin":"búdàn",
+        "Meaning":"conj.: not only"
+    },
+    {
+        "Traditional":"往",
+        "Simplified":"往",
+        "Pinyin":"wǎng",
+        "Meaning":"go toward wǎng"
+    },
+    {
+        "Traditional":"本身",
+        "Simplified":"本身",
+        "Pinyin":"běnshēn",
+        "Meaning":"per se, self, oneself, identity, itself"
+    },
+    {
+        "Traditional":"標準",
+        "Simplified":"标准",
+        "Pinyin":"biāozhǔn",
+        "Meaning":"standard, criterion"
+    },
+    {
+        "Traditional":"似乎",
+        "Simplified":"似乎",
+        "Pinyin":"sìhū",
+        "Meaning":"it seems, quasi, apparently, seemingly, as if"
+    },
+    {
+        "Traditional":"應用",
+        "Simplified":"应用",
+        "Pinyin":"yìngyòng",
+        "Meaning":"application, use"
+    },
+    {
+        "Traditional":"或者",
+        "Simplified":"或者",
+        "Pinyin":"huòzhě",
+        "Meaning":"conj.: or, either...or..."
+    },
+    {
+        "Traditional":"動物",
+        "Simplified":"动物",
+        "Pinyin":"dòngwù",
+        "Meaning":"thing, critter, crittur, zoic, anthropomorphism, animal, deer, animate being, beast, creature, burrow, sire, worker, fauna, brute"
+    },
+    {
+        "Traditional":"電話",
+        "Simplified":"电话",
+        "Pinyin":"diànhuà",
+        "Meaning":"blower, phone call, headphone, earpiece, telephone, telephone_call, buzz, earphone, horn, telephone set, phone_call, telephony, phone"
+    },
+    {
+        "Traditional":"態度",
+        "Simplified":"态度",
+        "Pinyin":"tàidù",
+        "Meaning":"stance, treatment, demeanor, dealing, deportment, pose, behavior, manner, demeanour, way, bearing, attitude, air, behaviour, front, mien, conduct, mental attitude, approach, posture, address, position, bedside_manner, movement, gesture, comportment, presence, sort"
+    },
+    {
+        "Traditional":"建設",
+        "Simplified":"建设",
+        "Pinyin":"jiànshè",
+        "Meaning":"construction"
+    },
+    {
+        "Traditional":"事業",
+        "Simplified":"事业",
+        "Pinyin":"shìyè",
+        "Meaning":"proposition, task, pidgin, institution, undertaking, deed, facilities, life history, endeavour, endeavor, cause, career, project, action, enterprise"
+    },
+    {
+        "Traditional":"老",
+        "Simplified":"老",
+        "Pinyin":"lǎo",
+        "Meaning":"old, aged;of long standing, outdated, tough, overgrown, dark (of colors) lǎo"
+    },
+    {
+        "Traditional":"那麼",
+        "Simplified":"那么",
+        "Pinyin":"nàmo",
+        "Meaning":"so"
+    },
+    {
+        "Traditional":"常常",
+        "Simplified":"常常",
+        "Pinyin":"chángcháng",
+        "Meaning":"oftentimes, ofttimes, commonly, ordinarily, oft, often, a great deal, normally, frequently, unremarkably, much, usually"
+    },
+    {
+        "Traditional":"字",
+        "Simplified":"字",
+        "Pinyin":"zì",
+        "Meaning":"graphic symbol, writing, pronunciation (of a word), form of a written character, receipt, printing type, script, name taken at the age of 20, courtesy name, wordage, character, grapheme, contract, scripts, symbolic representation, style of handwriting, word zì"
+    },
+    {
+        "Traditional":"坐",
+        "Simplified":"坐",
+        "Pinyin":"zuò",
+        "Meaning":"sit, take seat zuò"
+    },
+    {
+        "Traditional":"舉辦",
+        "Simplified":"举办",
+        "Pinyin":"jǔbàn",
+        "Meaning":"conduct, hold, run"
+    },
+    {
+        "Traditional":"自我",
+        "Simplified":"自我",
+        "Pinyin":"zìwǒ",
+        "Meaning":"self, oneself"
+    },
+    {
+        "Traditional":"有的",
+        "Simplified":"有的",
+        "Pinyin":"yǒude",
+        "Meaning":"det : some"
+    },
+    {
+        "Traditional":"具",
+        "Simplified":"具",
+        "Pinyin":"jù",
+        "Meaning":"possess, have, provide, furnish jù"
+    },
+    {
+        "Traditional":"目的",
+        "Simplified":"目的",
+        "Pinyin":"mùdì",
+        "Meaning":"view, pretence, objective, goal, purport, intention, bourn, object, motive, motivation, meaning, aim, end point, hent, target, scope, sense of purpose, errand, purposefulness, sake, function, end, purpose, quaesitum, intent"
+    },
+    {
+        "Traditional":"塊",
+        "Simplified":"块",
+        "Pinyin":"kuài",
+        "Meaning":"m.[general] kuài"
+    },
+    {
+        "Traditional":"條件",
+        "Simplified":"条件",
+        "Pinyin":"tiáojiàn",
+        "Meaning":"mood, formula, conditional, precondition, prerequisite, requisition, factor, qualification, requirement, stipulation, proviso, circumstances, provision, term, reservation, if, condition"
+    },
+    {
+        "Traditional":"即使",
+        "Simplified":"即使",
+        "Pinyin":"jíshǐ",
+        "Meaning":"conj.: even, even if\/though"
+    },
+    {
+        "Traditional":"好",
+        "Simplified":"好",
+        "Pinyin":"hǎo",
+        "Meaning":"very, quite, good to, easy to hǎo"
+    },
+    {
+        "Traditional":"十分",
+        "Simplified":"十分",
+        "Pinyin":"shífēn",
+        "Meaning":"very, fully, utterly, extremely"
+    },
+    {
+        "Traditional":"多少",
+        "Simplified":"多少",
+        "Pinyin":"duōshǎo",
+        "Meaning":"det.: how many, how much, many"
+    },
+    {
+        "Traditional":"放",
+        "Simplified":"放",
+        "Pinyin":"fàng",
+        "Meaning":"loose, bloom, make longer, set ... free, let sb. have his own way, show, readjust, free, make larger, put in, fly, etc., release, discharge, leave alone, bung, lay aside, put, expansion, make longer\/larger\/etc., fling, localize, lend (money) at interest, let go, set, pasture, pose, set free, blossom, lay, let off, put out to pasture, send away, play, expand, make larger\/etc., readjus fàng"
+    },
+    {
+        "Traditional":"又",
+        "Simplified":"又",
+        "Pinyin":"yòu",
+        "Meaning":"conj.: and, in addition, but, on the other hand"
+    },
+    {
+        "Traditional":"電影",
+        "Simplified":"电影",
+        "Pinyin":"diànyǐng",
+        "Meaning":"cinematography, moving_picture, pix, kinema, picture, film, movie, moving picture, flick, cinema, motion_picture, cinematic, celluloid, picture show, motion picture, flicker"
+    },
+    {
+        "Traditional":"科學",
+        "Simplified":"科学",
+        "Pinyin":"kēxué",
+        "Meaning":"ology, scientific, science, scientific knowledge"
+    },
+    {
+        "Traditional":"執行",
+        "Simplified":"执行",
+        "Pinyin":"zhíxíng",
+        "Meaning":"carry out, execute"
+    },
+    {
+        "Traditional":"邊",
+        "Simplified":"边",
+        "Pinyin":"biān",
+        "Meaning":"border, boundary biān"
+    },
+    {
+        "Traditional":"委員會",
+        "Simplified":"委员会",
+        "Pinyin":"wěiyuánhuì",
+        "Meaning":"board, soviet, commission, committee, court, citizens committee, mission, delegacy, deputation, delegation, council"
+    },
+    {
+        "Traditional":"溝通",
+        "Simplified":"沟通",
+        "Pinyin":"gōutōng",
+        "Meaning":"communicate, link up"
+    },
+    {
+        "Traditional":"開",
+        "Simplified":"开",
+        "Pinyin":"kāi",
+        "Meaning":"open, open up, reclaim (land), open out, come loose, start, begin, operate, turn on (light), run (business), hold (meeting\/etc.), divide into, reveal kāi"
+    },
+    {
+        "Traditional":"一起",
+        "Simplified":"一起",
+        "Pinyin":"yīqǐ",
+        "Meaning":"in_chorus, together, in all, in the same place, holus-bolus, altogether, in company"
+    },
+    {
+        "Traditional":"張",
+        "Simplified":"张",
+        "Pinyin":"zhāng",
+        "Meaning":"m.[general] zhāng"
+    },
+    {
+        "Traditional":"針對",
+        "Simplified":"针对",
+        "Pinyin":"zhēnduì",
+        "Meaning":"in the light of, in connection with"
+    },
+    {
+        "Traditional":"員工",
+        "Simplified":"员工",
+        "Pinyin":"yuángōng",
+        "Meaning":"employee, personnel, reason, force, staff, cause"
+    },
+    {
+        "Traditional":"引起",
+        "Simplified":"引起",
+        "Pinyin":"yǐnqǐ",
+        "Meaning":"elicit, beget, causation, give rise to, incite, pique, engender, bring_on, trigger, fire, compel, kick_up, superindividual, draw, spawn, invite, touch_off, occasion, lead, bring_about, procure, touch off, raise, enkindle, give, poke, produce, capture, generate, stir, arouse, excite, put forward, provoke, breed, bring, conjure up, grip, create, kindle, tempt, set_up, interest, give rise, enga"
+    },
+    {
+        "Traditional":"自然",
+        "Simplified":"自然",
+        "Pinyin":"zìrán",
+        "Meaning":"natural world"
+    },
+    {
+        "Traditional":"那麼",
+        "Simplified":"那么",
+        "Pinyin":"nàmo",
+        "Meaning":"like that, in that way"
+    },
+    {
+        "Traditional":"安全",
+        "Simplified":"安全",
+        "Pinyin":"ānquán",
+        "Meaning":"safe, secure"
+    },
+    {
+        "Traditional":"總統",
+        "Simplified":"总统",
+        "Pinyin":"zǒngtǒng",
+        "Meaning":"president (of a republic)"
+    },
+    {
+        "Traditional":"此外",
+        "Simplified":"此外",
+        "Pinyin":"cǐwài",
+        "Meaning":"conj.: besides, in addition, moreover"
+    },
+    {
+        "Traditional":"擁有",
+        "Simplified":"拥有",
+        "Pinyin":"yǒngyǒu",
+        "Meaning":"occupy, have, receive, aught, hold back, keep, keep back, owe, retain, own, possess, possession, hold, seize, take, acquire, corral, hold on"
+    },
+    {
+        "Traditional":"並且",
+        "Simplified":"并且",
+        "Pinyin":"bìngqiě",
+        "Meaning":"conj.: and, besides, moreover"
+    },
+    {
+        "Traditional":"事件",
+        "Simplified":"事件",
+        "Pinyin":"shìjiàn",
+        "Meaning":"fact, event, page, incidental, go, case, job, natural event, timing, proceedings, social occasion, happening, occurrence, matter, occasion, incident, shebang, affair, chapter, concernment"
+    },
+    {
+        "Traditional":"設計",
+        "Simplified":"设计",
+        "Pinyin":"shèjì",
+        "Meaning":"plan, design"
+    },
+    {
+        "Traditional":"研究所",
+        "Simplified":"研究所",
+        "Pinyin":"yánjiùsuǒ",
+        "Meaning":"graduate_school, research institute, school, laboratory, graduate school, institute"
+    },
+    {
+        "Traditional":"語言",
+        "Simplified":"语言",
+        "Pinyin":"yǔyán",
+        "Meaning":"linguistic communication, lingual, language, idiom, tongue, oral communication, speech, perspicuity, lingo, contumely, Fortran, parole, natural language, spoken language, linguistic process"
+    },
+    {
+        "Traditional":"嚴重",
+        "Simplified":"严重",
+        "Pinyin":"yánzhòng",
+        "Meaning":"serious, significant, acute, critical, severe, grave"
+    },
+    {
+        "Traditional":"故事",
+        "Simplified":"故事",
+        "Pinyin":"gùshì",
+        "Meaning":"spiel, recital, relation, scam, rede, plot, yarn, narration, story, fiction, tale, history, legend, narrative"
+    },
+    {
+        "Traditional":"學術",
+        "Simplified":"学术",
+        "Pinyin":"xuéshù",
+        "Meaning":"ology, academic, systematic learning, science, learning"
+    },
+    {
+        "Traditional":"片",
+        "Simplified":"片",
+        "Pinyin":"piàn",
+        "Meaning":"m.[general] piàn"
+    },
+    {
+        "Traditional":"設備",
+        "Simplified":"设备",
+        "Pinyin":"shèbèi",
+        "Meaning":"installation, set, device, appointment, plant, fixing, system, appliance, fixture, fitting, accommodation, fitment, finishing, unit, furnishings, materiel, contrivance, paraphernalia, facilities, rig, equipage, setout, facility, fixings, equipment"
+    },
+    {
+        "Traditional":"之外",
+        "Simplified":"之外",
+        "Pinyin":"zhīwài",
+        "Meaning":"beyond, apart from, excluding"
+    },
+    {
+        "Traditional":"車",
+        "Simplified":"车",
+        "Pinyin":"chē",
+        "Meaning":"vehicle chē"
+    },
+    {
+        "Traditional":"基本",
+        "Simplified":"基本",
+        "Pinyin":"jīběn",
+        "Meaning":"fundamental, essential, main"
+    },
+    {
+        "Traditional":"實在",
+        "Simplified":"实在",
+        "Pinyin":"shízài",
+        "Meaning":"indeed, really, honestly, in fact, as a matter of fact"
+    },
+    {
+        "Traditional":"久",
+        "Simplified":"久",
+        "Pinyin":"jiǔ",
+        "Meaning":"for long time, of specified duration jiǔ"
+    },
+    {
+        "Traditional":"套",
+        "Simplified":"套",
+        "Pinyin":"tào",
+        "Meaning":"m.[general]"
+    },
+    {
+        "Traditional":"達到",
+        "Simplified":"达到",
+        "Pinyin":"dádào",
+        "Meaning":"extend to, find, fulfil, compass, encompass, extend, gain, answer, achievement, succeed, fulfill, live_up_to, attainment, strain, bring_up, achieve, get to, touch, strive, make, accomplish, progress to, come, hit, come_out, obtain, reach, attain, clock_up, suffice, do, get, arrive_at"
+    },
+    {
+        "Traditional":"改善",
+        "Simplified":"改善",
+        "Pinyin":"gǎishàn",
+        "Meaning":"improve, perfect"
+    },
+    {
+        "Traditional":"死",
+        "Simplified":"死",
+        "Pinyin":"sǐ",
+        "Meaning":"die sǐ"
+    },
+    {
+        "Traditional":"結構",
+        "Simplified":"结构",
+        "Pinyin":"jiégòu",
+        "Meaning":"constitution, configuration, framing, structural, design, underframe, framework, construction, structure, schematism, economy, fabric, mechanics, composition, machinery, contexture, texture, constellation, fable, ordonnance, skeleton, organization, frame, architecture, chemistry, make"
+    },
+    {
+        "Traditional":"住",
+        "Simplified":"住",
+        "Pinyin":"zhù",
+        "Meaning":"inhabit, cease, stay, visit, shack, dwell, stop, people, live, reside, populate, dig zhù"
+    },
+    {
+        "Traditional":"皆",
+        "Simplified":"皆",
+        "Pinyin":"jiē",
+        "Meaning":"all, everyone jiē"
+    },
+    {
+        "Traditional":"改變",
+        "Simplified":"改变",
+        "Pinyin":"gǎibiàn",
+        "Meaning":"change, transform"
+    },
+    {
+        "Traditional":"拿",
+        "Simplified":"拿",
+        "Pinyin":"ná",
+        "Meaning":"take, hold, seize, capture ná"
+    },
+    {
+        "Traditional":"小組",
+        "Simplified":"小组",
+        "Pinyin":"xiǎozǔ",
+        "Meaning":"squad, section, unit, group"
+    },
+    {
+        "Traditional":"支持",
+        "Simplified":"支持",
+        "Pinyin":"zhīchí",
+        "Meaning":"sustain, hold out, bear;support, back, stand by"
+    },
+    {
+        "Traditional":"座",
+        "Simplified":"座",
+        "Pinyin":"zuò",
+        "Meaning":"fare, stand, base, constellation, footstall, pedestal, m.[general], , customer, Aquarius, seating, plinth, place, seat zuò"
+    },
+    {
+        "Traditional":"醫院",
+        "Simplified":"医院",
+        "Pinyin":"yīyuàn",
+        "Meaning":"spital, hospital, infirmary, hospice"
+    },
+    {
+        "Traditional":"既",
+        "Simplified":"既",
+        "Pinyin":"jì",
+        "Meaning":"conj.: since...then jì"
+    },
+    {
+        "Traditional":"僅",
+        "Simplified":"仅",
+        "Pinyin":"jǐn",
+        "Meaning":"scantily, simply, alone, merely, barely, only, but, just jǐn"
+    },
+    {
+        "Traditional":"值得",
+        "Simplified":"值得",
+        "Pinyin":"zhíde",
+        "Meaning":"be worth, merit, pay, rate, behove, worthwhile, worth, worthy, deserve, call_for, command"
+    },
+    {
+        "Traditional":"學者",
+        "Simplified":"学者",
+        "Pinyin":"xuézhě",
+        "Meaning":"academic, literate, pandit, letters, litterateur, learned person, literati, philomath, pundit, academician, faculty member, scholar, bookman, clerk, student, scholarly person, man of letters, man of learning, speleologist, doctor, clerisy, initiate, swami, punditry, savant, learned man, sophist"
+    },
+    {
+        "Traditional":"八",
+        "Simplified":"八",
+        "Pinyin":"bā",
+        "Meaning":"det.: eight"
+    },
+    {
+        "Traditional":"交通",
+        "Simplified":"交通",
+        "Pinyin":"jiāotōng",
+        "Meaning":"intercourse, commutation, transportation, communication, commuting, traffic, traffic_light, liaison man, communications, dealings, liaison"
+    },
+    {
+        "Traditional":"階段",
+        "Simplified":"阶段",
+        "Pinyin":"jiēduàn",
+        "Meaning":"staged, period, phase angle, stage, gradation, level, peg, grade, remove, phase, leg, step"
+    },
+    {
+        "Traditional":"就是",
+        "Simplified":"就是",
+        "Pinyin":"jiùshì",
+        "Meaning":"conj.: even if, even"
+    },
+    {
+        "Traditional":"申請",
+        "Simplified":"申请",
+        "Pinyin":"shēnqǐng",
+        "Meaning":"apply for"
+    },
+    {
+        "Traditional":"主管",
+        "Simplified":"主管",
+        "Pinyin":"zhǔguǎn",
+        "Meaning":"person in charge"
+    },
+    {
+        "Traditional":"申請",
+        "Simplified":"申请",
+        "Pinyin":"shēnqǐng",
+        "Meaning":"apply for"
+    },
+    {
+        "Traditional":"同",
+        "Simplified":"同",
+        "Pinyin":"tóng",
+        "Meaning":"det.: simialr, same"
+    },
+    {
+        "Traditional":"感覺",
+        "Simplified":"感觉",
+        "Pinyin":"gǎnjué",
+        "Meaning":"sense perception, feeling"
+    },
+    {
+        "Traditional":"電視",
+        "Simplified":"电视",
+        "Pinyin":"diànshì",
+        "Meaning":"TV, box, iconoscope, video, television set, teevee, orthicon, huckster, TV set, radiovision, television, telecasting, airwave, telly"
+    },
+    {
+        "Traditional":"母親",
+        "Simplified":"母亲",
+        "Pinyin":"mǔqīn",
+        "Meaning":"venter, materfamilias, mother, mither, sultana, maternal, female parent, mater"
+    },
+    {
+        "Traditional":"嘛",
+        "Simplified":"嘛",
+        "Pinyin":"má",
+        "Meaning":"particle: used to persuade someone to do something; used to emphasize the obvious má"
+    },
+    {
+        "Traditional":"香港",
+        "Simplified":"香港",
+        "Pinyin":"xiānggǎng",
+        "Meaning":"Hong Kong"
+    },
+    {
+        "Traditional":"記者",
+        "Simplified":"记者",
+        "Pinyin":"jìzhě",
+        "Meaning":"journalist, writer, correspondent, newspaperwoman, newspaperman, gazetteer, newswriter, reporter, pressman, newshound, newsman, newsperson"
+    },
+    {
+        "Traditional":"壓力",
+        "Simplified":"压力",
+        "Pinyin":"yālì",
+        "Meaning":"force per unit area, P, strain, overwhelming force, pressure sensation, burdensomeness, oppressiveness, pressure, onerousness, stress, compulsion, constraint, muscle, lading"
+    },
+    {
+        "Traditional":"快樂",
+        "Simplified":"快乐",
+        "Pinyin":"kuàilè",
+        "Meaning":"happy, cheerful"
+    },
+    {
+        "Traditional":"喝",
+        "Simplified":"喝",
+        "Pinyin":"hē",
+        "Meaning":"drink hē"
+    },
+    {
+        "Traditional":"敢",
+        "Simplified":"敢",
+        "Pinyin":"gǎn",
+        "Meaning":"dare, make bold, have courage to, be sure, have confidence to, venture, have the confidence to, be certain gǎn"
+    },
+    {
+        "Traditional":"院",
+        "Simplified":"院",
+        "Pinyin":"yuàn",
+        "Meaning":"public facility, college, courtyard, designation for certain government offices and pub, hospital, clinic, branch of government, university, institutes, compound, abbey, academy, institute, yard, educational institution, faculty"
+    },
+    {
+        "Traditional":"也許",
+        "Simplified":"也许",
+        "Pinyin":"yěxǔ",
+        "Meaning":"possibly, peradventure, conceivably, assumedly, mayhap, doubtless, ablings, perhaps, perchance, potentially, probably, maybe, presumably, ablins, just"
+    },
+    {
+        "Traditional":"人們",
+        "Simplified":"人们",
+        "Pinyin":"rénmen",
+        "Meaning":"workforce, hands, work force, folk, people, they, the people, men, manpower, common people"
+    },
+    {
+        "Traditional":"談",
+        "Simplified":"谈",
+        "Pinyin":"tán",
+        "Meaning":"talk, chat tán"
+    },
+    {
+        "Traditional":"生產",
+        "Simplified":"生产",
+        "Pinyin":"shēngchǎn",
+        "Meaning":"produce, manufacture"
+    },
+    {
+        "Traditional":"怕",
+        "Simplified":"怕",
+        "Pinyin":"pà",
+        "Meaning":"I'm afraid, dread, funk, I suppose, be afraid of, fear pà"
+    },
+    {
+        "Traditional":"就",
+        "Simplified":"就",
+        "Pinyin":"jiù",
+        "Meaning":"prep.: with regard to, concerning"
+    },
+    {
+        "Traditional":"身體",
+        "Simplified":"身体",
+        "Pinyin":"shēntǐ",
+        "Meaning":"soma, system, physical structure, body, health, carcase, corpus, frame, person, somatic, organic structure, personage"
+    },
+    {
+        "Traditional":"規定",
+        "Simplified":"规定",
+        "Pinyin":"guīdìng",
+        "Meaning":"rules, disciplines, regulations"
+    },
+    {
+        "Traditional":"程度",
+        "Simplified":"程度",
+        "Pinyin":"chéngdù",
+        "Meaning":"latitude, rate, degree, point, measure, way, grade, gree, pitch, cut, length, plane, stage, level, extent, scale, notch"
+    },
+    {
+        "Traditional":"積極",
+        "Simplified":"积极",
+        "Pinyin":"jījí",
+        "Meaning":"positive, active, energetic, vigorous"
+    },
+    {
+        "Traditional":"知識",
+        "Simplified":"知识",
+        "Pinyin":"zhīshì",
+        "Meaning":"lear, know-how, understanding, ken, instruction, science, sophistication, consciousness, light, awareness, cognizance, knowledge, lore, mastery, know, cognition, acquaintanceship, mind, intellect, knowingness, equipment"
+    },
+    {
+        "Traditional":"作為",
+        "Simplified":"作为",
+        "Pinyin":"zuòwéi",
+        "Meaning":"regard as, look on as, take for"
+    },
+    {
+        "Traditional":"機構",
+        "Simplified":"机构",
+        "Pinyin":"jīgòu",
+        "Meaning":"internal structure of an organization, motion, gadget, instrumentality, institute, organ, mechanism, gear, representation, mechanics, machinery, apparatus, establishment, institution, means, organization, agency, setup, delegacy, outfit"
+    },
+    {
+        "Traditional":"而是",
+        "Simplified":"而是",
+        "Pinyin":"érshì",
+        "Meaning":"conj.: if not A, then B"
+    },
+    {
+        "Traditional":"鼓勵",
+        "Simplified":"鼓励",
+        "Pinyin":"gǔlì",
+        "Meaning":"encourage, urge"
+    },
+    {
+        "Traditional":"角色",
+        "Simplified":"角色",
+        "Pinyin":"jiǎosè",
+        "Meaning":"theatrical role, character, persona, part, function, office, fictional character, actor, fictitious character, personage, role"
+    },
+    {
+        "Traditional":"狀況",
+        "Simplified":"状况",
+        "Pinyin":"zhuàngkuàng",
+        "Meaning":"repair, background, picture, state (of affairs), state of affairs, status, gear, scene, setting, scope, condition, state, circumstance, trimness, context, showing, trim, factor, condition\/state (of affairs), situation, shoes, consideration, place"
+    },
+    {
+        "Traditional":"專家",
+        "Simplified":"专家",
+        "Pinyin":"zhuānjiā",
+        "Meaning":"guru, pundit, adept, expertise, professional person, specializer, specialist, proficient, whiz, oner, expert, swami, savant, dab, professional, authority, stunner, technician"
+    },
+    {
+        "Traditional":"據",
+        "Simplified":"据",
+        "Pinyin":"jù",
+        "Meaning":"according to, on the grounds of jù"
+    },
+    {
+        "Traditional":"清楚",
+        "Simplified":"清楚",
+        "Pinyin":"qīngchǔ",
+        "Meaning":"clear"
+    },
+    {
+        "Traditional":"不僅",
+        "Simplified":"不仅",
+        "Pinyin":"bùjǐn",
+        "Meaning":"conj.: not only"
+    },
+    {
+        "Traditional":"比賽",
+        "Simplified":"比赛",
+        "Pinyin":"bǐsài",
+        "Meaning":"match, competition"
+    },
+    {
+        "Traditional":"玩",
+        "Simplified":"玩",
+        "Pinyin":"wán",
+        "Meaning":"amuse oneself, treat lightly, have fun, resort to, enjoy, appreciate, play, toy, trifle with, employ, disport, shoot, amuse onself wán"
+    },
+    {
+        "Traditional":"效果",
+        "Simplified":"效果",
+        "Pinyin":"xiàoguǒ",
+        "Meaning":"operation, execution, result, effect, background, sound effects, purpose, point, background signal, fruitage, outcome, force, punch"
+    },
+    {
+        "Traditional":"越",
+        "Simplified":"越",
+        "Pinyin":"yuè",
+        "Meaning":"~A~B) the more A the more B yuè"
+    },
+    {
+        "Traditional":"保護",
+        "Simplified":"保护",
+        "Pinyin":"bǎohù",
+        "Meaning":"protect, safeguard"
+    },
+    {
+        "Traditional":"共",
+        "Simplified":"共",
+        "Pinyin":"gòng",
+        "Meaning":"totally, together, in all, in company, altogether gòng"
+    },
+    {
+        "Traditional":"開放",
+        "Simplified":"开放",
+        "Pinyin":"kāifàng",
+        "Meaning":"lift a ban\/etc., be turned on, be in operation"
+    },
+    {
+        "Traditional":"附近",
+        "Simplified":"附近",
+        "Pinyin":"fùjìn",
+        "Meaning":"neighborship, neighborhood, precinct, vicinity, neighbourhood"
+    },
+    {
+        "Traditional":"上",
+        "Simplified":"上",
+        "Pinyin":"shàng",
+        "Meaning":"det.: preceding, previous shàng"
+    },
+    {
+        "Traditional":"父親",
+        "Simplified":"父亲",
+        "Pinyin":"fùqīn",
+        "Meaning":"parent, father, pere, Pa, begetter, governor, abba, male parent, pater, guv"
+    },
+    {
+        "Traditional":"專業",
+        "Simplified":"专业",
+        "Pinyin":"zhuānyè",
+        "Meaning":"professional"
+    },
+    {
+        "Traditional":"經費",
+        "Simplified":"经费",
+        "Pinyin":"jīngfèi",
+        "Meaning":"finances, monetary resource, expenses, expense, expenditure, pecuniary resource, fund, outlay, funds, outgo, cash in hand"
+    },
+    {
+        "Traditional":"曾經",
+        "Simplified":"曾经",
+        "Pinyin":"céngjīng",
+        "Meaning":"in one case, , one time, formerly, syne, at one time, of all time, once, ever"
+    },
+    {
+        "Traditional":"工作",
+        "Simplified":"工作",
+        "Pinyin":"gōngzuò",
+        "Meaning":"work"
+    },
+    {
+        "Traditional":"願意",
+        "Simplified":"愿意",
+        "Pinyin":"yuànyì",
+        "Meaning":"will, be willing, please, wish, like, care"
+    },
+    {
+        "Traditional":"分別",
+        "Simplified":"分别",
+        "Pinyin":"fēnbié",
+        "Meaning":"separately, respectively"
+    },
+    {
+        "Traditional":"重視",
+        "Simplified":"重视",
+        "Pinyin":"zhòngshì",
+        "Meaning":"attach importance to, take sth. seriously, value"
+    },
+    {
+        "Traditional":"不少",
+        "Simplified":"不少",
+        "Pinyin":"bùshǎo",
+        "Meaning":"det.: a lot of"
+    },
+    {
+        "Traditional":"歡迎",
+        "Simplified":"欢迎",
+        "Pinyin":"huānyíng",
+        "Meaning":"invite, greet, take in, receive, welcome, gratulate, embrace, salute"
+    },
+    {
+        "Traditional":"小孩",
+        "Simplified":"小孩",
+        "Pinyin":"xiǎohái",
+        "Meaning":"kid, tyke, encumbrance, kinchin, youngster, wean, small fry, chick, juvenile, imp, urchin, minor, nestling, prattler, tike, kiddie, tot, fry, bud, mammet, pinafore, nipper, enfant, mite, bairn, chicken, shaver, child, chit, kiddy, infant, tiddler, sprig"
+    },
+    {
+        "Traditional":"小時",
+        "Simplified":"小时",
+        "Pinyin":"xiǎoshí",
+        "Meaning":"hour"
+    },
+    {
+        "Traditional":"中國人",
+        "Simplified":"中国人",
+        "Pinyin":"zhōngguórén",
+        "Meaning":"Chinese person, Chinese people, Chinese"
+    },
+    {
+        "Traditional":"顯示",
+        "Simplified":"显示",
+        "Pinyin":"xiǎnshì",
+        "Meaning":"demonstrate, argue, exhibit, prove, display, show, illustrate, manifest, demonstration, announce, stamp, unroll, witness, write, give, evince, dangle, betray, bespeak, say, profess, develop, indicate, signal, flaunt, read, register, manifestation, speak, reveal, evidence, tell, shew, proclaim, discover, stage, bear, establish, record, prognosticate, betoken, note, signalize"
+    },
+    {
+        "Traditional":"中共",
+        "Simplified":"中共",
+        "Pinyin":"zhōnggòng",
+        "Meaning":"Chinese Communist Party"
+    },
+    {
+        "Traditional":"出",
+        "Simplified":"出",
+        "Pinyin":"chū",
+        "Meaning":"produce, turn out, arise, happen chū"
+    },
+    {
+        "Traditional":"男人",
+        "Simplified":"男人",
+        "Pinyin":"nánrén",
+        "Meaning":"male, man, chap, mankind, buck, bastard, gentleman, jack, gent, men, blighter, cuss, hombre, lad, adult male, groom, husband, bimbo, dog, fellow, mon, menfolk, fella"
+    },
+    {
+        "Traditional":"避免",
+        "Simplified":"避免",
+        "Pinyin":"bìmiǎn",
+        "Meaning":"forbear, preclude, refrain_from, forebear, escape, help, elude, leapfrog, refrain from, stave_off, evite, shun, obviate, avoid, evade, waive, help oneself, ward_off, ward, miss, avert, ward off, balk, refrain"
+    },
+    {
+        "Traditional":"屬於",
+        "Simplified":"属于",
+        "Pinyin":"shǔyū",
+        "Meaning":"fall under, be part of, pertain, appertain, belong, relegate, fall into, belong_to, fall_under, reside, belong to, attach"
+    },
+    {
+        "Traditional":"實施",
+        "Simplified":"实施",
+        "Pinyin":"shíshī",
+        "Meaning":"put into effect, implement"
+    },
+    {
+        "Traditional":"聲音",
+        "Simplified":"声音",
+        "Pinyin":"shēngyīn",
+        "Meaning":"voice, vocal, language, huskiness, vox, vocalization, audio, noise, sonic, tone, sound, phone, audio frequency"
+    },
+    {
+        "Traditional":"主義",
+        "Simplified":"主义",
+        "Pinyin":"zhǔyì",
+        "Meaning":"tenet, principle, hang, system, ticket, creed, philosophy, school of thought, evangel, ism, gospel, masonry, maxim, doctrine, -ism"
+    },
+    {
+        "Traditional":"行動",
+        "Simplified":"行动",
+        "Pinyin":"xíngdòng",
+        "Meaning":"action, operation"
+    },
+    {
+        "Traditional":"不可",
+        "Simplified":"不可",
+        "Pinyin":"bùkě",
+        "Meaning":"cannot, should not, must not"
+    },
+    {
+        "Traditional":"只有",
+        "Simplified":"只有",
+        "Pinyin":"zhǐyǒu",
+        "Meaning":"can only, have no choice but, to be forced to"
+    },
+    {
+        "Traditional":"校園",
+        "Simplified":"校园",
+        "Pinyin":"xiàoyuán",
+        "Meaning":"schoolyard, campus"
+    },
+    {
+        "Traditional":"興趣",
+        "Simplified":"兴趣",
+        "Pinyin":"xìngqù",
+        "Meaning":"relish, appetite, zestfulness, dish, cup of tea, pastime, hobby, interest, gusto, bag, avocation, zest"
+    },
+    {
+        "Traditional":"山",
+        "Simplified":"山",
+        "Pinyin":"shān",
+        "Meaning":"Shan, jebel, pike, mountain, whitethorn, hump, anything resembling a mountain, gable, kop, chimney, hill, Surname, mount shān"
+    },
+    {
+        "Traditional":"表現",
+        "Simplified":"表现",
+        "Pinyin":"biǎoxiàn",
+        "Meaning":"manifestation, expression"
+    },
+    {
+        "Traditional":"得",
+        "Simplified":"得",
+        "Pinyin":"dé",
+        "Meaning":"get dé"
+    },
+    {
+        "Traditional":"回來",
+        "Simplified":"回来",
+        "Pinyin":"huílái",
+        "Meaning":"come back, get_back, recur, revisit, come, return, be back, come_back"
+    },
+    {
+        "Traditional":"主任",
+        "Simplified":"主任",
+        "Pinyin":"zhǔrèn",
+        "Meaning":"head, principal, captain, chair, director, head teacher, chief, chairman, school principal"
+    },
+    {
+        "Traditional":"裡面",
+        "Simplified":"里面",
+        "Pinyin":"lǐmiàn",
+        "Meaning":"inside, interior"
+    },
+    {
+        "Traditional":"經常",
+        "Simplified":"经常",
+        "Pinyin":"jīngcháng",
+        "Meaning":"everyday, daily, alway, often, a great deal, frequently, sempre, much, regularly, constantly, evermore, day-to-day"
+    },
+    {
+        "Traditional":"不再",
+        "Simplified":"不再",
+        "Pinyin":"búzài",
+        "Meaning":"no more\/longer"
+    },
+    {
+        "Traditional":"電子",
+        "Simplified":"电子",
+        "Pinyin":"diànzǐ",
+        "Meaning":"electron"
+    },
+    {
+        "Traditional":"受",
+        "Simplified":"受",
+        "Pinyin":"shòu",
+        "Meaning":"receive, accept, endure, suffer, be subjected to shòu"
+    },
+    {
+        "Traditional":"思想",
+        "Simplified":"思想",
+        "Pinyin":"sīxiǎng",
+        "Meaning":"cogitation, mentation, imagery, imaging, lunatic_fringe, mental imagery, idea, thinking, imagination, ideology, thought, pensee, ideological"
+    },
+    {
+        "Traditional":"頭",
+        "Simplified":"头",
+        "Pinyin":"tóu",
+        "Meaning":"head, hair (style), top\/end of sth., chief tóu"
+    },
+    {
+        "Traditional":"終於",
+        "Simplified":"终于",
+        "Pinyin":"zhōngyū",
+        "Meaning":"in the last analysis, at long last, at last, lastly, ultimately, all things considered, out, on the whole, at_last, eventually, in the final analysis, finally"
+    },
+    {
+        "Traditional":"謝謝",
+        "Simplified":"谢谢",
+        "Pinyin":"xièxiè",
+        "Meaning":"thank"
+    },
+    {
+        "Traditional":"協助",
+        "Simplified":"协助",
+        "Pinyin":"xiézhù",
+        "Meaning":"assist, help"
+    },
+    {
+        "Traditional":"除",
+        "Simplified":"除",
+        "Pinyin":"chú",
+        "Meaning":"except"
+    },
+    {
+        "Traditional":"當地",
+        "Simplified":"当地",
+        "Pinyin":"dāngdì",
+        "Meaning":"locality, the place (named\/mentioned\/etc.)"
+    },
+    {
+        "Traditional":"正式",
+        "Simplified":"正式",
+        "Pinyin":"zhèngshì",
+        "Meaning":"formal (of actions\/speeches\/etc.)"
+    },
+    {
+        "Traditional":"真正",
+        "Simplified":"真正",
+        "Pinyin":"zhēnzhèng",
+        "Meaning":"true, indeed, certainty"
+    },
+    {
+        "Traditional":"低",
+        "Simplified":"低",
+        "Pinyin":"dī",
+        "Meaning":"let droop, hang down, lower dī"
+    },
+    {
+        "Traditional":"性",
+        "Simplified":"性",
+        "Pinyin":"xìng",
+        "Meaning":"nature, character, sex, gender xìng"
+    },
+    {
+        "Traditional":"份",
+        "Simplified":"份",
+        "Pinyin":"fèn",
+        "Meaning":"m.[general] fèn"
+    },
+    {
+        "Traditional":"因素",
+        "Simplified":"因素",
+        "Pinyin":"yīnsù",
+        "Meaning":"consideration, ingredient, constituent, factor, strand, component, element"
+    },
+    {
+        "Traditional":"推出",
+        "Simplified":"推出",
+        "Pinyin":"tuīchū",
+        "Meaning":"present to public"
+    },
+    {
+        "Traditional":"上",
+        "Simplified":"上",
+        "Pinyin":"shàng",
+        "Meaning":"go up, mount, board, get on, go to, go to, leave for, present, forge\/go ahead, enter, place sth. in position shàng"
+    },
+    {
+        "Traditional":"價格",
+        "Simplified":"价格",
+        "Pinyin":"jiàgé",
+        "Meaning":"price"
+    },
+    {
+        "Traditional":"去",
+        "Simplified":"去",
+        "Pinyin":"qù",
+        "Meaning":"particle: used to denote an action away from the speaker or to denote the direction of the action qù"
+    },
+    {
+        "Traditional":"認識",
+        "Simplified":"认识",
+        "Pinyin":"rènshì",
+        "Meaning":"know, recognize"
+    },
+    {
+        "Traditional":"方向",
+        "Simplified":"方向",
+        "Pinyin":"fāngxiàng",
+        "Meaning":"path, set, directional, aspect, tenor, course, lay, exposure, way, range, aim, trend, direction, bearing, orientation, hand, tack, way of life, quarter, channel, line, heading"
+    },
+    {
+        "Traditional":"責任",
+        "Simplified":"责任",
+        "Pinyin":"zérèn",
+        "Meaning":"need, care, encumbrance, buck, accountability, blame, obligation, turn, load, responsibleness, incumbrance, responsibility, onus, commission, burden, commitment, loading, trust, pigeon, charge, business, fault, place, liability, duty, guardianship"
+    },
+    {
+        "Traditional":"說明",
+        "Simplified":"说明",
+        "Pinyin":"shuōmíng",
+        "Meaning":"explain, illustrate, show"
+    },
+    {
+        "Traditional":"工業",
+        "Simplified":"工业",
+        "Pinyin":"gōngyè",
+        "Meaning":"industrial, industry"
+    },
+    {
+        "Traditional":"大量",
+        "Simplified":"大量",
+        "Pinyin":"dàliàng",
+        "Meaning":"det.: any numer of, a great many"
+    },
+    {
+        "Traditional":"做",
+        "Simplified":"做",
+        "Pinyin":"zuò",
+        "Meaning":"be, become, be used as zuò"
+    },
+    {
+        "Traditional":"逐漸",
+        "Simplified":"逐渐",
+        "Pinyin":"zhújiàn",
+        "Meaning":"step_by_step, by degrees, gradually"
+    },
+    {
+        "Traditional":"心理",
+        "Simplified":"心理",
+        "Pinyin":"xīnlǐ",
+        "Meaning":"mental_state, psychology, mentality"
+    },
+    {
+        "Traditional":"一點",
+        "Simplified":"一点",
+        "Pinyin":"yīdiǎn",
+        "Meaning":"det.: a little bit"
+    },
+    {
+        "Traditional":"供",
+        "Simplified":"供",
+        "Pinyin":"gōng",
+        "Meaning":"supply, feed, be for (the use\/convenience of)"
+    },
+    {
+        "Traditional":"須",
+        "Simplified":"须",
+        "Pinyin":"xū",
+        "Meaning":"must, have to"
+    },
+    {
+        "Traditional":"簡單",
+        "Simplified":"简单",
+        "Pinyin":"jiǎndān",
+        "Meaning":"terse, casual, commonplace, simple, oversimplified, ordinary, uncomplicated"
+    },
+    {
+        "Traditional":"運用",
+        "Simplified":"运用",
+        "Pinyin":"yùnyòng",
+        "Meaning":"utilize, wield, apply"
+    },
+    {
+        "Traditional":"觀察",
+        "Simplified":"观察",
+        "Pinyin":"guānchá",
+        "Meaning":"observe, survey, inspect"
+    },
+    {
+        "Traditional":"往往",
+        "Simplified":"往往",
+        "Pinyin":"wǎngwǎng",
+        "Meaning":"oftentimes, ofttimes, always, more often than not, frequently, oft, often"
+    },
+    {
+        "Traditional":"規劃",
+        "Simplified":"规划",
+        "Pinyin":"guīhuà",
+        "Meaning":"plan, program"
+    },
+    {
+        "Traditional":"減少",
+        "Simplified":"减少",
+        "Pinyin":"jiǎnshǎo",
+        "Meaning":"reduce, decrease"
+    },
+    {
+        "Traditional":"重新",
+        "Simplified":"重新",
+        "Pinyin":"chóngxīn",
+        "Meaning":"over_again, newly, afresh, anew, again"
+    },
+    {
+        "Traditional":"業務",
+        "Simplified":"业务",
+        "Pinyin":"yèwù",
+        "Meaning":"service, practice, vocational work, line of work, affair, line, occupation, professional work, business, transaction"
+    },
+    {
+        "Traditional":"報導",
+        "Simplified":"报导",
+        "Pinyin":"bàodǎo",
+        "Meaning":"report,"
+    },
+    {
+        "Traditional":"仍然",
+        "Simplified":"仍然",
+        "Pinyin":"réngrán",
+        "Meaning":"still, yet"
+    },
+    {
+        "Traditional":"感到",
+        "Simplified":"感到",
+        "Pinyin":"gǎndào",
+        "Meaning":"feel, sense"
+    },
+    {
+        "Traditional":"開放",
+        "Simplified":"开放",
+        "Pinyin":"kāifàng",
+        "Meaning":"open to the world, open to traffic or public use"
+    },
+    {
+        "Traditional":"領域",
+        "Simplified":"领域",
+        "Pinyin":"lǐngyū",
+        "Meaning":"demesne, line of business, field of operation, country, background, terrain, realm, part, arena, sphere of influence, setting, territory, precinct, radius, scope, domain, sphere, frontier, orbit, preserve, area, world, kingdom, ambit, signory, province, region, field, universe, hemisphere"
+    },
+    {
+        "Traditional":"有效",
+        "Simplified":"有效",
+        "Pinyin":"yǒuxiào",
+        "Meaning":"run, stand, valid, effective, efficacious, avail, make, hold"
+    },
+    {
+        "Traditional":"女",
+        "Simplified":"女",
+        "Pinyin":"nǔ",
+        "Meaning":"girl, female, woman, neodymium, hen, daughter, beaver, creature"
+    },
+    {
+        "Traditional":"要",
+        "Simplified":"要",
+        "Pinyin":"yào",
+        "Meaning":"want\/wish (to), ask (for) yào"
+    },
+    {
+        "Traditional":"從事",
+        "Simplified":"从事",
+        "Pinyin":"cóngshì",
+        "Meaning":"engross, have, join, treat, plow, handle, follow, embark, undertake, attend_to, attack, occupy, absorb, go_into, work, engage, prosecute, go_about, go in for, pursue, be, meddle, embark_on, perform, enter, cover, deal, address, be engaged in, deal with, place, wage"
+    },
+    {
+        "Traditional":"發揮",
+        "Simplified":"发挥",
+        "Pinyin":"fāhuī",
+        "Meaning":"bring into play, give free rein to, develop (idea\/etc.), elaborate"
+    },
+    {
+        "Traditional":"人才",
+        "Simplified":"人才",
+        "Pinyin":"réncái",
+        "Meaning":"talent, capable person, a talented person, qualified personnel, a person of ability"
+    },
+    {
+        "Traditional":"反而",
+        "Simplified":"反而",
+        "Pinyin":"fǎnér",
+        "Meaning":"conj.: on the contrary, instead"
+    },
+    {
+        "Traditional":"行政",
+        "Simplified":"行政",
+        "Pinyin":"xíngzhèng",
+        "Meaning":"administration"
+    },
+    {
+        "Traditional":"銀行",
+        "Simplified":"银行",
+        "Pinyin":"yínháng",
+        "Meaning":"jug, depository financial institution, bank building, banking company, banking concern, bank"
+    },
+    {
+        "Traditional":"公共",
+        "Simplified":"公共",
+        "Pinyin":"gōnggòng",
+        "Meaning":"common, commonly, publicly, public, communal"
+    },
+    {
+        "Traditional":"媒體",
+        "Simplified":"媒体",
+        "Pinyin":"méitǐ",
+        "Meaning":"mass media, media, medium"
+    },
+    {
+        "Traditional":"提高",
+        "Simplified":"提高",
+        "Pinyin":"tígāo",
+        "Meaning":"raise, heighten, enhance, increase, improve"
+    },
+    {
+        "Traditional":"代",
+        "Simplified":"代",
+        "Pinyin":"dài",
+        "Meaning":"period, generation dài"
+    },
+    {
+        "Traditional":"自然",
+        "Simplified":"自然",
+        "Pinyin":"zìrán",
+        "Meaning":"naturally, of course, in ordinary course of events"
+    },
+    {
+        "Traditional":"社區",
+        "Simplified":"社区",
+        "Pinyin":"shèqū",
+        "Meaning":"community"
+    },
+    {
+        "Traditional":"力量",
+        "Simplified":"力量",
+        "Pinyin":"lìliàng",
+        "Meaning":"fibre, strength, potency, ability, guts, kick, cogency, point, dint, energy, mightiness, physical strength, demon, force, punch, whiz, tooth, might, forcefulness, exercise, fiber, powerfulness, lift, pith, leverage, agency, push, muscle, power"
+    },
+    {
+        "Traditional":"啊",
+        "Simplified":"啊",
+        "Pinyin":"ā",
+        "Meaning":"indicating elation, indicating doubt or questioning, indicating puzzled surprise, indicating agreement\/approval ā"
+    },
+    {
+        "Traditional":"教育部",
+        "Simplified":"教育部",
+        "Pinyin":"jiàoyūbù",
+        "Meaning":"Education, Ministry of Education, Department of Education, Education Department"
+    },
+    {
+        "Traditional":"愈",
+        "Simplified":"愈",
+        "Pinyin":"yū",
+        "Meaning":"the more..."
+    },
+    {
+        "Traditional":"超過",
+        "Simplified":"超过",
+        "Pinyin":"chāoguò",
+        "Meaning":"overpass, overreach, outwalk, outstrip, overstep, outmarch, distance, pass, overstride, outpace, overtop, surpass, crown, exceed, overtake, preponderate, overrun, top, outrun, go_over, transcend, outrange, transgress, go past, break, excess, overhaul, overshine"
+    },
+    {
+        "Traditional":"維持",
+        "Simplified":"维持",
+        "Pinyin":"wéichí",
+        "Meaning":"keep, preserve"
+    },
+    {
+        "Traditional":"家長",
+        "Simplified":"家长",
+        "Pinyin":"jiāzhǎng",
+        "Meaning":"masterman, housemaster, graybeard, patriarch, parent of schoolchildren, patriarchal, goodman, patriarchate, paterfamilias, the head of a family, genearch, patriarchy, householder, head of household, the parent or guadian of a child"
+    },
+    {
+        "Traditional":"結合",
+        "Simplified":"结合",
+        "Pinyin":"jiéhé",
+        "Meaning":"combine, unite, integrate, link, be joined in wedlock"
+    },
+    {
+        "Traditional":"校長",
+        "Simplified":"校长",
+        "Pinyin":"xiàozhǎng",
+        "Meaning":"prexy, head, principal, headteacher, schoolmaster, master, warden, president, beak, rector, superintendent, director, head teacher, preceptor, headmaster, chancellor, school principal"
+    },
+    {
+        "Traditional":"通常",
+        "Simplified":"通常",
+        "Pinyin":"tōngcháng",
+        "Meaning":"normal, commonly, customarily, more often than not, general, usual, on average, as a rule, ordinarily, mostly, as usual, typically, generally, normally, by and large, unremarkably, on the average, usually"
+    },
+    {
+        "Traditional":"缺乏",
+        "Simplified":"缺乏",
+        "Pinyin":"quēfá",
+        "Meaning":"be short of, lack"
+    },
+    {
+        "Traditional":"委員",
+        "Simplified":"委员",
+        "Pinyin":"wěiyuán",
+        "Meaning":"commissar, committee man, committee, committee member, commissioner, committeeman, delegate, board member, commissary"
+    },
+    {
+        "Traditional":"特色",
+        "Simplified":"特色",
+        "Pinyin":"tèsè",
+        "Meaning":"motif, a character, a characteristic, manner, trait, differentiation, flavor, colour, singularity, distinction, characteristic, hue, stripe, physiognomy, a distinguishing feature, idiom, specialty, character, difference, particular, distinguishing feature, distinguishing feature\/quality, salience, coloration, distinguishing quality, specific, feature, peculiarity, artistic st"
+    },
+    {
+        "Traditional":"結果",
+        "Simplified":"结果",
+        "Pinyin":"jiéguǒ",
+        "Meaning":"finally"
+    },
+    {
+        "Traditional":"有時",
+        "Simplified":"有时",
+        "Pinyin":"yǒushí",
+        "Meaning":"now and then, at times, betweentimes, from time to time, sometimes"
+    },
+    {
+        "Traditional":"教師",
+        "Simplified":"教师",
+        "Pinyin":"jiàoshī",
+        "Meaning":"beak, don, school teacher, schoolman, teacher, schoolmaster, preceptor, professor, pedagogue, schoolteacher, coach, master, instructor, educator, preceptorship"
+    },
+    {
+        "Traditional":"之前",
+        "Simplified":"之前",
+        "Pinyin":"zhīqián",
+        "Meaning":"before, prior to, ago"
+    },
+    {
+        "Traditional":"遠",
+        "Simplified":"远",
+        "Pinyin":"yuǎn",
+        "Meaning":"far, distant (lit.\/fig.) yuǎn"
+    },
+    {
+        "Traditional":"控制",
+        "Simplified":"控制",
+        "Pinyin":"kòngzhì",
+        "Meaning":"control, dominate, command"
+    },
+    {
+        "Traditional":"本",
+        "Simplified":"本",
+        "Pinyin":"běn",
+        "Meaning":"m.[general] běn"
+    },
+    {
+        "Traditional":"否則",
+        "Simplified":"否则",
+        "Pinyin":"fǒuzé",
+        "Meaning":"conj.: otherwise, if not, or else"
+    },
+    {
+        "Traditional":"法",
+        "Simplified":"法",
+        "Pinyin":"fǎ",
+        "Meaning":"law, method, way, mode, standard, model, legalists, Legalist School, Buddhist doctrine, dharma, magic arts"
+    },
+    {
+        "Traditional":"少",
+        "Simplified":"少",
+        "Pinyin":"shǎo",
+        "Meaning":"lack, be deficient, lose, be missing shǎo"
+    },
+    {
+        "Traditional":"原則",
+        "Simplified":"原则",
+        "Pinyin":"yuánzé",
+        "Meaning":"god, rule, formula, regulation, principle, fundamental, axiom, basis, linguistic rule, faith, principium"
+    },
+    {
+        "Traditional":"要",
+        "Simplified":"要",
+        "Pinyin":"yào",
+        "Meaning":"demand, request yào"
+    },
+    {
+        "Traditional":"臉",
+        "Simplified":"脸",
+        "Pinyin":"liǎn",
+        "Meaning":"map, mug, kisser, puss, visage, snoot, frontispiece, pan, smiler, mazzard, mush, facial, countenance, phiz, figurehead, face, physiognomy, front, human face liǎn"
+    },
+    {
+        "Traditional":"通過",
+        "Simplified":"通过",
+        "Pinyin":"tōngguò",
+        "Meaning":"adopt, pass, carry (motion\/legislation)"
+    },
+    {
+        "Traditional":"建議",
+        "Simplified":"建议",
+        "Pinyin":"jiànyì",
+        "Meaning":"propose, suggest, recommend"
+    },
+    {
+        "Traditional":"工具",
+        "Simplified":"工具",
+        "Pinyin":"gōngjù",
+        "Meaning":"stock-in-trade, instrumentality, instrument, ministry, hand_tool, escalator, creature, utensil, material, gear, pawn, lobster-joint, cat's-paw, kit, apparatus, tool, appurtenances, paraphernalia, means, wood, tackle, implement, medium, lever, outfit"
+    },
+    {
+        "Traditional":"作業",
+        "Simplified":"作业",
+        "Pinyin":"zuòyè",
+        "Meaning":"school assignment, work, task, operation, production"
+    },
+    {
+        "Traditional":"達",
+        "Simplified":"达",
+        "Pinyin":"dá",
+        "Meaning":"lead, attain, extend, amount to, ryke, express, attainment, inform, reach"
+    },
+    {
+        "Traditional":"節目",
+        "Simplified":"节目",
+        "Pinyin":"jiémù",
+        "Meaning":"item, item (on program), programme, act, telecast, number, program"
+    },
+    {
+        "Traditional":"智慧",
+        "Simplified":"智慧",
+        "Pinyin":"zhìhuì",
+        "Meaning":"lore, sapiency, sconce, wit, intelligence, gumption, savvy, wiseness, soundness, wisdom, grey_matter, sapience"
+    },
+    {
+        "Traditional":"來自",
+        "Simplified":"来自",
+        "Pinyin":"láizì",
+        "Meaning":"come from, originate from, come, stem\/originate from, attach_to, stem, come\/stem\/originate from, hail"
+    },
+    {
+        "Traditional":"而",
+        "Simplified":"而",
+        "Pinyin":"ér",
+        "Meaning":"conj.: and ér"
+    },
+    {
+        "Traditional":"變化",
+        "Simplified":"变化",
+        "Pinyin":"biànhuà",
+        "Meaning":"change, transformation"
+    },
+    {
+        "Traditional":"同樣",
+        "Simplified":"同样",
+        "Pinyin":"tóngyàng",
+        "Meaning":"same, equal, similar"
+    },
+    {
+        "Traditional":"形式",
+        "Simplified":"形式",
+        "Pinyin":"xíngshì",
+        "Meaning":"circumstance, form, kind, modality, reading, interpretation, variety, shape, embodiment, species, mode, version, sort"
+    },
+    {
+        "Traditional":"站",
+        "Simplified":"站",
+        "Pinyin":"zhàn",
+        "Meaning":"to stand zhàn"
+    },
+    {
+        "Traditional":"以為",
+        "Simplified":"以为",
+        "Pinyin":"yǐwéi",
+        "Meaning":"imagine, think\/believe\/consider erroneously, treat, deem, believe, suspect, suppose, consider erroneously, repute, animadvert, esteem, trow, speak up, feel, count, believe\/consider erroneously, calculate, view as, guess, ween, look, expect, think erroneously, think, hold, opine, interpret, sound off, take_for, consider, take for"
+    },
+    {
+        "Traditional":"健康",
+        "Simplified":"健康",
+        "Pinyin":"jiànkāng",
+        "Meaning":"healthy, sound"
+    },
+    {
+        "Traditional":"擔任",
+        "Simplified":"担任",
+        "Pinyin":"dānrèn",
+        "Meaning":"hold the post of, take charge of, assume, take_charge, fill, shoulder, adopt, skipper, assume the office of, assume office of, act_as, take, act as, play, undertake, take over, take on"
+    },
+    {
+        "Traditional":"人口",
+        "Simplified":"人口",
+        "Pinyin":"rénkǒu",
+        "Meaning":"population"
+    },
+    {
+        "Traditional":"規劃",
+        "Simplified":"规划",
+        "Pinyin":"guīhuà",
+        "Meaning":"program, plan"
+    },
+    {
+        "Traditional":"剛",
+        "Simplified":"刚",
+        "Pinyin":"gāng",
+        "Meaning":"exactly, only a short while ago, just now, barely, only just, just gāng"
+    },
+    {
+        "Traditional":"特殊",
+        "Simplified":"特殊",
+        "Pinyin":"tèshū",
+        "Meaning":"exceptional, special, particular; peculiar, distinctive"
+    },
+    {
+        "Traditional":"原來",
+        "Simplified":"原来",
+        "Pinyin":"yuánlái",
+        "Meaning":"originally, formerly"
+    },
+    {
+        "Traditional":"道",
+        "Simplified":"道",
+        "Pinyin":"dào",
+        "Meaning":"say, speak, talk, think, suppose dào"
+    },
+    {
+        "Traditional":"分",
+        "Simplified":"分",
+        "Pinyin":"fēn",
+        "Meaning":"separate, distinguish, differentiate, discriminate fēn"
+    },
+    {
+        "Traditional":"傳統",
+        "Simplified":"传统",
+        "Pinyin":"chuántǒng",
+        "Meaning":"rule, patrimony, legacy, custom, heritage, convention, conventionality, routine, normal practice, common practice, tradition"
+    },
+    {
+        "Traditional":"總是",
+        "Simplified":"总是",
+        "Pinyin":"zǒngshì",
+        "Meaning":"always"
+    },
+    {
+        "Traditional":"前往",
+        "Simplified":"前往",
+        "Pinyin":"qiánwǎng",
+        "Meaning":"depart, cruise, go_to, go, leave, go to, proceed to, pay, seek, leave for"
+    },
+    {
+        "Traditional":"投資",
+        "Simplified":"投资",
+        "Pinyin":"tóuzī",
+        "Meaning":"investment"
+    },
+    {
+        "Traditional":"加強",
+        "Simplified":"加强",
+        "Pinyin":"jiāqiáng",
+        "Meaning":"strengthen, augment, reinforce"
+    },
+    {
+        "Traditional":"不斷",
+        "Simplified":"不断",
+        "Pinyin":"búduàn",
+        "Meaning":"unceasingly, continuously"
+    },
+    {
+        "Traditional":"對象",
+        "Simplified":"对象",
+        "Pinyin":"duìxiàng",
+        "Meaning":"boy\/girl friend, mate, fair game, boy friend, prey, boy, object, quarry, target, girl friend, catch, match"
+    },
+    {
+        "Traditional":"追求",
+        "Simplified":"追求",
+        "Pinyin":"zhuīqiú",
+        "Meaning":"seek, pursue, woo, court"
+    },
+    {
+        "Traditional":"加上",
+        "Simplified":"加上",
+        "Pinyin":"jiāshàng",
+        "Meaning":"conj.: in addition (to)"
+    },
+    {
+        "Traditional":"比",
+        "Simplified":"比",
+        "Pinyin":"bǐ",
+        "Meaning":"compare, contrast, emulate, draw analogy bǐ"
+    },
+    {
+        "Traditional":"思考",
+        "Simplified":"思考",
+        "Pinyin":"sīkǎo",
+        "Meaning":"ponder over, reflect on"
+    },
+    {
+        "Traditional":"製作",
+        "Simplified":"制作",
+        "Pinyin":"zhìzuò",
+        "Meaning":"make, manufacture"
+    },
+    {
+        "Traditional":"台北市",
+        "Simplified":"台北市",
+        "Pinyin":"táiběishì",
+        "Meaning":"capital of Republic of China on Taiwan"
+    },
+    {
+        "Traditional":"取得",
+        "Simplified":"取得",
+        "Pinyin":"qǔdé",
+        "Meaning":"gain, acquire, obtain"
+    },
+    {
+        "Traditional":"出來",
+        "Simplified":"出来",
+        "Pinyin":"chūlái",
+        "Meaning":"come forward, issue, come up, step up, step to the fore, out (toward one), come_out, pop out, come out, rise, come to the fore, step forward, emergence, come forth, emerge"
+    },
+    {
+        "Traditional":"加入",
+        "Simplified":"加入",
+        "Pinyin":"jiārù",
+        "Meaning":"join, accede to"
+    },
+    {
+        "Traditional":"台",
+        "Simplified":"台",
+        "Pinyin":"tái",
+        "Meaning":"short for Taiwan tái"
+    },
+    {
+        "Traditional":"安排",
+        "Simplified":"安排",
+        "Pinyin":"ānpái",
+        "Meaning":"arrange, plan, fix up, provide (meals\/etc.)"
+    },
+    {
+        "Traditional":"兒童",
+        "Simplified":"儿童",
+        "Pinyin":"értóng",
+        "Meaning":"kid, nipper, enfant, tyke, youngster, small fry, minor, shaver, nestling, tike, child, chit, fry, children, infant, tiddler, small-fry"
+    },
+    {
+        "Traditional":"國中",
+        "Simplified":"国中",
+        "Pinyin":"guózhōng",
+        "Meaning":"middle school, junior high school"
+    },
+    {
+        "Traditional":"範圍",
+        "Simplified":"范围",
+        "Pinyin":"fànwéi",
+        "Meaning":"demesne, latitude, shot, compass, extensity, panorama, parameter, boundary, arena, stretch, territory, radius, spectrum, scope, extension, sphere, orbit, circumscription, limits, purview, grasp, extent, region, space, limit, hemisphere, horizon, envelope, bounds, realm, terrain, tether, sphere of influence, range, circuit, domain, precinct, reach, area, length, spread, bailiwick, ambit, con"
+    },
+    {
+        "Traditional":"老人",
+        "Simplified":"老人",
+        "Pinyin":"lǎorén",
+        "Meaning":"oldster, ancient, old woman, crock, one's aged parents or grandparents, old man\/woman, one's aged parents\/grandparents, Sir, old person, gaffer, pop, one's aged parents, the aged\/old, old_man, senior_citizen, oldie, greybeard, old man, graybeard, old, grandparents, the old, the aged, senior citizen, old_boy, old boy, woman, old-timer, old man or woman, one's aged grandparents"
+    },
+    {
+        "Traditional":"雙方",
+        "Simplified":"双方",
+        "Pinyin":"shuāngfāng",
+        "Meaning":"both, the two parties, two parties, both sides"
+    },
+    {
+        "Traditional":"牠",
+        "Simplified":"牠",
+        "Pinyin":"tā",
+        "Meaning":"it (animal) tā"
+    },
+    {
+        "Traditional":"北京",
+        "Simplified":"北京",
+        "Pinyin":"běijīng",
+        "Meaning":"capital of Red China, Beijing, Peking, Beijing (Peking), Peiping"
+    },
+    {
+        "Traditional":"年輕",
+        "Simplified":"年轻",
+        "Pinyin":"niánqīng",
+        "Meaning":"junior, young"
+    },
+    {
+        "Traditional":"結束",
+        "Simplified":"结束",
+        "Pinyin":"jiéshù",
+        "Meaning":"end, close, conclude"
+    },
+    {
+        "Traditional":"教",
+        "Simplified":"教",
+        "Pinyin":"jiāo",
+        "Meaning":"teach jiāo"
+    },
+    {
+        "Traditional":"程式",
+        "Simplified":"程式",
+        "Pinyin":"chéngshì",
+        "Meaning":"formula, instruction, computer programme, pattern, form, modality, subprogram, routine, programme, course, function, subroutine, procedure, mode, order, sequence, computer program, program"
+    },
+    {
+        "Traditional":"婦女",
+        "Simplified":"妇女",
+        "Pinyin":"fùnǔ",
+        "Meaning":"feme, womankind, female, femininity, cummer, woman, femme, quean, bevy, matron, toots, womanhood, feminine, womenfolk, women"
+    },
+    {
+        "Traditional":"找到",
+        "Simplified":"找到",
+        "Pinyin":"zhǎodào",
+        "Meaning":"light upon, find, discover, run_down, founded, regain, strike, come upon, come across, run down, trace, turn_up, happen upon, get, chance on, chance upon"
+    },
+    {
+        "Traditional":"彼此",
+        "Simplified":"彼此",
+        "Pinyin":"bǐcǐ",
+        "Meaning":"each other, one another, I\/me too"
+    },
+    {
+        "Traditional":"全球",
+        "Simplified":"全球",
+        "Pinyin":"quánqiú",
+        "Meaning":"global, whole world"
+    },
+    {
+        "Traditional":"成本",
+        "Simplified":"成本",
+        "Pinyin":"chéngběn",
+        "Meaning":"cost"
+    },
+    {
+        "Traditional":"回到",
+        "Simplified":"回到",
+        "Pinyin":"huídào",
+        "Meaning":"remount, retour, recur, turn back, regress, regain, revert, go_back, return to, return, go back to"
+    },
+    {
+        "Traditional":"部",
+        "Simplified":"部",
+        "Pinyin":"bù",
+        "Meaning":"m.[general] bù"
+    },
+    {
+        "Traditional":"而已",
+        "Simplified":"而已",
+        "Pinyin":"éryǐ",
+        "Meaning":"particle: imparting finality (that's all)"
+    },
+    {
+        "Traditional":"之下",
+        "Simplified":"之下",
+        "Pinyin":"zhīxià",
+        "Meaning":"under the condition of, under, beneath, below"
+    },
+    {
+        "Traditional":"等",
+        "Simplified":"等",
+        "Pinyin":"děng",
+        "Meaning":"wait děng"
+    },
+    {
+        "Traditional":"變",
+        "Simplified":"变",
+        "Pinyin":"biàn",
+        "Meaning":"change, transform"
+    },
+    {
+        "Traditional":"期間",
+        "Simplified":"期间",
+        "Pinyin":"qíjiān",
+        "Meaning":"length, period, time period, amount of time, duration, course, interim, period of time, time, standing, chapter, tract, space, term, streak, efflux"
+    },
+    {
+        "Traditional":"非",
+        "Simplified":"非",
+        "Pinyin":"fēi",
+        "Meaning":"not fēi"
+    },
+    {
+        "Traditional":"小姐",
+        "Simplified":"小姐",
+        "Pinyin":"xiǎojiě",
+        "Meaning":"Signorina, Senorita, senorita, signorina, young_lady, damosel, Dona, mum, young lady, damoiselle, missy, tootsy, demoiselle, damsel, Miss, Fraulein, miss, sheila, sister, toots, senhorita, damozel, Ladyship, ladyship, Mademoiselle, mademoiselle"
+    },
+    {
+        "Traditional":"整體",
+        "Simplified":"整体",
+        "Pinyin":"zhěngtǐ",
+        "Meaning":"integrity, allness, entirety, integer, integral, monolith, entireness, ensemble, wholeness, entire, tout ensemble, whole, totality, unity"
+    },
+    {
+        "Traditional":"採用",
+        "Simplified":"采用",
+        "Pinyin":"cǎiyòng",
+        "Meaning":"invoke, admit, assume, adoptive, use, adopt, select for use, embrace, accept, employment, take, introduce, take up, take_on, take over, take on, borrow, employ, adoption"
+    },
+    {
+        "Traditional":"根本",
+        "Simplified":"根本",
+        "Pinyin":"gēnběn",
+        "Meaning":"at all, utterly"
+    },
+    {
+        "Traditional":"叫",
+        "Simplified":"叫",
+        "Pinyin":"jiào",
+        "Meaning":"to be called jiào"
+    },
+    {
+        "Traditional":"歐洲",
+        "Simplified":"欧洲",
+        "Pinyin":"ōuzhōu",
+        "Meaning":"Europe"
+    },
+    {
+        "Traditional":"正在",
+        "Simplified":"正在",
+        "Pinyin":"zhèngzài",
+        "Meaning":"course of, be, be in process"
+    },
+    {
+        "Traditional":"加以",
+        "Simplified":"加以",
+        "Pinyin":"jiāyǐ",
+        "Meaning":"handle; treat (used before polysyllabic verbs or verbal nouns)"
+    },
+    {
+        "Traditional":"充滿",
+        "Simplified":"充满",
+        "Pinyin":"chōngmǎn",
+        "Meaning":"swarm, be brimming, inhabit, be brimming with, teem, crawl, fill, lard, pullulate with, brim, be permeated with, bathe, be filled with, permeated with, abound in, implement, exuberate, fill up, flow, abound, burst, perfuse, foam, bristle, crackle, inform, pervade, be imbued with, simmer, glut, teem in, permeate, congest, be full of, reek, charge, suffuse, pullulate, overfill, swell"
+    },
+    {
+        "Traditional":"系列",
+        "Simplified":"系列",
+        "Pinyin":"xìliè",
+        "Meaning":"succession, set, spectrum, course, train, series"
+    },
+    {
+        "Traditional":"隨著",
+        "Simplified":"随着",
+        "Pinyin":"suízhe",
+        "Meaning":"along with, in the wake of, in pace with"
+    },
+    {
+        "Traditional":"早",
+        "Simplified":"早",
+        "Pinyin":"zǎo",
+        "Meaning":"early, long ago, in advance, beforehand, prematurely zǎo"
+    },
+    {
+        "Traditional":"等等",
+        "Simplified":"等等",
+        "Pinyin":"děngděng",
+        "Meaning":"conj.: and so on, etc"
+    },
+    {
+        "Traditional":"頗",
+        "Simplified":"颇",
+        "Pinyin":"pǒ",
+        "Meaning":"pretty, quite an, very, quite, jolly, fearfully, quite a, molto, middling, considerably, greatly"
+    },
+    {
+        "Traditional":"不足",
+        "Simplified":"不足",
+        "Pinyin":"bùzú",
+        "Meaning":"not be enough, not be worth (doing sth.), cannot, should not"
+    },
+    {
+        "Traditional":"總",
+        "Simplified":"总",
+        "Pinyin":"zǒng",
+        "Meaning":"always, invariably, anyway, after all, inevitably, sooner or later zǒng"
+    },
+    {
+        "Traditional":"分析",
+        "Simplified":"分析",
+        "Pinyin":"fēnxī",
+        "Meaning":"analyze"
+    },
+    {
+        "Traditional":"深",
+        "Simplified":"深",
+        "Pinyin":"shēn",
+        "Meaning":"deepen, penetrating, profound, deep, dark shēn"
+    },
+    {
+        "Traditional":"報告",
+        "Simplified":"报告",
+        "Pinyin":"bàogào",
+        "Meaning":"report, speech, (student) term paper"
+    },
+    {
+        "Traditional":"不錯",
+        "Simplified":"不错",
+        "Pinyin":"búcuò",
+        "Meaning":"not bad, pretty good;correct, right"
+    },
+    {
+        "Traditional":"在於",
+        "Simplified":"在于",
+        "Pinyin":"zàiyū",
+        "Meaning":"be at, on, lie, in, depend on, lie_in, rest with, lie in, be determined by, consist_in, consist in"
+    },
+    {
+        "Traditional":"旁",
+        "Simplified":"旁",
+        "Pinyin":"páng",
+        "Meaning":"side, by the side of, other páng"
+    },
+    {
+        "Traditional":"笑",
+        "Simplified":"笑",
+        "Pinyin":"xiào",
+        "Meaning":"smile, laugh xiào"
+    },
+    {
+        "Traditional":"故",
+        "Simplified":"故",
+        "Pinyin":"gù",
+        "Meaning":"conj.: hence, so, therefore, as a result"
+    },
+    {
+        "Traditional":"消費者",
+        "Simplified":"消费者",
+        "Pinyin":"xiāofèizhě",
+        "Meaning":"customer, buyer, consumer"
+    },
+    {
+        "Traditional":"意識",
+        "Simplified":"意识",
+        "Pinyin":"yìshì",
+        "Meaning":"consciousness, witting, sensibility, conscious, conscience, ideology, awareness, subconscious, mentality"
+    },
+    {
+        "Traditional":"公尺",
+        "Simplified":"公尺",
+        "Pinyin":"gōngchǐ",
+        "Meaning":"m.[standard]"
+    },
+    {
+        "Traditional":"民族",
+        "Simplified":"民族",
+        "Pinyin":"mínzú",
+        "Meaning":"tribe, citizenry, ethnos, ethnic minority\/group, race, nationality, group, Volk, nation, folk, people, ethnic group, ethnographer, family, ethnic minority"
+    },
+    {
+        "Traditional":"為主",
+        "Simplified":"为主",
+        "Pinyin":"wéizhǔ",
+        "Meaning":"give first place to"
+    },
+    {
+        "Traditional":"大眾",
+        "Simplified":"大众",
+        "Pinyin":"dàzhòng",
+        "Meaning":"the broad masses, roughscuff, the public, herd, concourse, commonality, riffraff, masses, commonness, the masses, throng, multitude, commonage, commonalty, plebeian, plebs, horde, the people\/masses, community, the people, million, mass, public"
+    },
+    {
+        "Traditional":"到底",
+        "Simplified":"到底",
+        "Pinyin":"dàodǐ",
+        "Meaning":"to the end, at last, after all"
+    },
+    {
+        "Traditional":"願",
+        "Simplified":"愿",
+        "Pinyin":"yuàn",
+        "Meaning":"will, wish, may, desire"
+    },
+    {
+        "Traditional":"度",
+        "Simplified":"度",
+        "Pinyin":"dù",
+        "Meaning":"m.[activity]"
+    },
+    {
+        "Traditional":"大概",
+        "Simplified":"大概",
+        "Pinyin":"dàgài",
+        "Meaning":"chiefly, if not, perchance, approximately, believably, maybe, presumably, plausibly, almost, conceivably, most likely, assumedly, ablings, likely, perhaps, probably, supposedly, ablins, credibly, assumably, belike"
+    },
+    {
+        "Traditional":"對方",
+        "Simplified":"对方",
+        "Pinyin":"duìfāng",
+        "Meaning":"other party, the other party, fellow, party, other side, adversary, other side\/party"
+    },
+    {
+        "Traditional":"官員",
+        "Simplified":"官员",
+        "Pinyin":"guānyuán",
+        "Meaning":"beg, official, mandarinate, administrative official, office-bearer, officer, bureaucrat, placeman, federal agent, government officials, agent, officialism, functionary, director, officeholder, officialdom, myrmidon"
+    },
+    {
+        "Traditional":"發表",
+        "Simplified":"发表",
+        "Pinyin":"fābiǎo",
+        "Meaning":"voice, enounce, enunciate, publish, free, sound, announce, pronounce, deliver, circulation, put_out, release, issue, vend, circularize, give, give_out, denote, present, circulate, publicize, blazon, promulgate, mouth"
+    },
+    {
+        "Traditional":"進一步",
+        "Simplified":"进一步",
+        "Pinyin":"jìnyībù",
+        "Meaning":"go step further"
+    },
+    {
+        "Traditional":"自由",
+        "Simplified":"自由",
+        "Pinyin":"zìyóu",
+        "Meaning":"free, unrestrained"
+    },
+    {
+        "Traditional":"正確",
+        "Simplified":"正确",
+        "Pinyin":"zhèngquè",
+        "Meaning":"correct, true, exact, proper, right"
+    },
+    {
+        "Traditional":"豐富",
+        "Simplified":"丰富",
+        "Pinyin":"fēngfù",
+        "Meaning":"rich, abundant, plentiful"
+    },
+    {
+        "Traditional":"國民黨",
+        "Simplified":"国民党",
+        "Pinyin":"guómíndǎng",
+        "Meaning":"Kuomintang, Nationalist Party, Kuomintang (KMT)"
+    },
+    {
+        "Traditional":"戰爭",
+        "Simplified":"战争",
+        "Pinyin":"zhànzhēng",
+        "Meaning":"war, warfare"
+    },
+    {
+        "Traditional":"怎麼樣",
+        "Simplified":"怎么样",
+        "Pinyin":"zěnmeyàng",
+        "Meaning":"How are things?"
+    },
+    {
+        "Traditional":"只好",
+        "Simplified":"只好",
+        "Pinyin":"zhǐhǎo",
+        "Meaning":"can only, have no choice but, have to, be forced to"
+    },
+    {
+        "Traditional":"明顯",
+        "Simplified":"明显",
+        "Pinyin":"míngxiǎn",
+        "Meaning":"clear, obvious"
+    },
+    {
+        "Traditional":"改革",
+        "Simplified":"改革",
+        "Pinyin":"gǎigé",
+        "Meaning":"reform"
+    },
+    {
+        "Traditional":"表達",
+        "Simplified":"表达",
+        "Pinyin":"biǎodá",
+        "Meaning":"express, convey, voice"
+    },
+    {
+        "Traditional":"肯定",
+        "Simplified":"肯定",
+        "Pinyin":"kěndìng",
+        "Meaning":"affirm, approve, regard as positive"
+    },
+    {
+        "Traditional":"強",
+        "Simplified":"强",
+        "Pinyin":"qiáng",
+        "Meaning":"strong, powerful, vigorous, better, slightly more than, plus qiáng"
+    },
+    {
+        "Traditional":"高興",
+        "Simplified":"高兴",
+        "Pinyin":"gāoxìng",
+        "Meaning":"glad, happy, cheerful, merry, pleased"
+    },
+    {
+        "Traditional":"哪",
+        "Simplified":"哪",
+        "Pinyin":"nǎ",
+        "Meaning":"det.: which nǎ"
+    },
+    {
+        "Traditional":"樹",
+        "Simplified":"树",
+        "Pinyin":"shù",
+        "Meaning":"wood, Ruptiliocarpon caracolito, tree, arbor, Surname, caracolito shù"
+    },
+    {
+        "Traditional":"適合",
+        "Simplified":"适合",
+        "Pinyin":"shìhé",
+        "Meaning":"qualify, conform, fit, go, befit, quadrate, will, accord, tailor, beseem, serve, comport, gee, answer, become, fit_in, service, pertain, like, accommodate, agree, belong, characterize, make, suit, match"
+    },
+    {
+        "Traditional":"茶",
+        "Simplified":"茶",
+        "Pinyin":"chá",
+        "Meaning":"tea chá"
+    },
+    {
+        "Traditional":"別",
+        "Simplified":"别",
+        "Pinyin":"bié",
+        "Meaning":"don't bié"
+    },
+    {
+        "Traditional":"國外",
+        "Simplified":"国外",
+        "Pinyin":"guówài",
+        "Meaning":"overseas"
+    },
+    {
+        "Traditional":"關心",
+        "Simplified":"关心",
+        "Pinyin":"guānxīn",
+        "Meaning":"be concerned about"
+    },
+    {
+        "Traditional":"蘇聯",
+        "Simplified":"苏联",
+        "Pinyin":"sūlián",
+        "Meaning":"Russia, Soviet, USSR, Soviet Union"
+    },
+    {
+        "Traditional":"成績",
+        "Simplified":"成绩",
+        "Pinyin":"chéngjī",
+        "Meaning":"execution, carrying into action, achievement, result, showing, carrying out, performance, grade, success, doing, batting average"
+    },
+    {
+        "Traditional":"人物",
+        "Simplified":"人物",
+        "Pinyin":"rénwù",
+        "Meaning":"character, persona, original, spirit, figure painting, character in literature, figure, person in literature, person, fish, personage, personality"
+    },
+    {
+        "Traditional":"聽到",
+        "Simplified":"听到",
+        "Pinyin":"tīngdào",
+        "Meaning":"hear"
+    },
+    {
+        "Traditional":"創造",
+        "Simplified":"创造",
+        "Pinyin":"chuàngzào",
+        "Meaning":"create, produce, bring about"
+    },
+    {
+        "Traditional":"不必",
+        "Simplified":"不必",
+        "Pinyin":"búbì",
+        "Meaning":"need not, not have to"
+    },
+    {
+        "Traditional":"不論",
+        "Simplified":"不论",
+        "Pinyin":"búlùn",
+        "Meaning":"conj.: no matter how\/who\/what\/etc."
+    },
+    {
+        "Traditional":"尚",
+        "Simplified":"尚",
+        "Pinyin":"shàng",
+        "Meaning":"still, yet, fairly, rather shàng"
+    },
+    {
+        "Traditional":"居民",
+        "Simplified":"居民",
+        "Pinyin":"jūmín",
+        "Meaning":"municipality, population, citizen, denizen, townie, people, dweller, populace, residenter, resident, towny, inhabitant, habitant, liver"
+    },
+    {
+        "Traditional":"不管",
+        "Simplified":"不管",
+        "Pinyin":"bùguǎn",
+        "Meaning":"conj.: no matter, regardless of"
+    },
+    {
+        "Traditional":"美麗",
+        "Simplified":"美丽",
+        "Pinyin":"měilì",
+        "Meaning":"beautiful"
+    },
+    {
+        "Traditional":"伊拉克",
+        "Simplified":"伊拉克",
+        "Pinyin":"yīlākè",
+        "Meaning":"Al-Iraq, Iraq, Irak"
+    },
+    {
+        "Traditional":"帶來",
+        "Simplified":"带来",
+        "Pinyin":"dàilái",
+        "Meaning":"bring, redound, impart, bring_on, bring on, express, fetch, lend, convey, contribute, bring about, bestow, carry, bring oneself, add, usher, incur, land"
+    },
+    {
+        "Traditional":"有",
+        "Simplified":"有",
+        "Pinyin":"yǒu",
+        "Meaning":"there is\/are"
+    },
+    {
+        "Traditional":"般",
+        "Simplified":"般",
+        "Pinyin":"bān",
+        "Meaning":"way, kind, variety, sort"
+    },
+    {
+        "Traditional":"永遠",
+        "Simplified":"永远",
+        "Pinyin":"yǒngyuǎn",
+        "Meaning":"e'er, always, for_good, evermore, ever, forever"
+    },
+    {
+        "Traditional":"感情",
+        "Simplified":"感情",
+        "Pinyin":"gǎnqíng",
+        "Meaning":"warmheartedness, reticence, sensation, affection, susceptibility, feeling, feelings, heart, affective, withers, expression, tenderness, emotion, sentiment, fondness, soul, affectionateness, soulfulness, passion"
+    },
+    {
+        "Traditional":"兒子",
+        "Simplified":"儿子",
+        "Pinyin":"érzi",
+        "Meaning":"son, male offspring, boy"
+    },
+    {
+        "Traditional":"這樣子",
+        "Simplified":"这样子",
+        "Pinyin":"zhèyàngzi",
+        "Meaning":"so, such, like this, this way"
+    },
+    {
+        "Traditional":"起",
+        "Simplified":"起",
+        "Pinyin":"qǐ",
+        "Meaning":"[aspect] qǐ"
+    },
+    {
+        "Traditional":"全部",
+        "Simplified":"全部",
+        "Pinyin":"quánbù",
+        "Meaning":"lot, aggregate, all, gross, entirety, allness, shebang, caboodle, complete, bunch, sum, total, gamut, entire, det.: all, totality, whole, everything"
+    }
+]

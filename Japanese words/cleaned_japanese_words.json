@@ -1,0 +1,3042 @@
+[
+    {
+        "Hiragana": "にんげん",
+        "Kanji": "人間",
+        "English": "human (ningen)"
+    },
+    {
+        "Hiragana": "じんるい",
+        "Kanji": "人類",
+        "English": "humanity (jinrui)"
+    },
+    {
+        "Hiragana": "ひと",
+        "Kanji": "人",
+        "English": "person (hito)"
+    },
+    {
+        "Hiragana": "おとこ",
+        "Kanji": "男",
+        "English": "male (otoko)"
+    },
+    {
+        "Hiragana": "おとこのひと",
+        "Kanji": "男の人",
+        "English": "man (otokonohito)"
+    },
+    {
+        "Hiragana": "おとこのこ",
+        "Kanji": "男の子",
+        "English": "boy (otokonoko)"
+    },
+    {
+        "Hiragana": "おんな",
+        "Kanji": "女",
+        "English": "female (onna)"
+    },
+    {
+        "Hiragana": "おんなのひと",
+        "Kanji": "女の人",
+        "English": "woman (onnanohito)"
+    },
+    {
+        "Hiragana": "おんなのこ",
+        "Kanji": "女の子",
+        "English": "girl (onnanoko)"
+    },
+    {
+        "Hiragana": "あかちゃん",
+        "Kanji": "赤ちゃん",
+        "English": "baby (akachan)"
+    },
+    {
+        "Hiragana": "わかもの",
+        "Kanji": "若者",
+        "English": "youth"
+    },
+    {
+        "Hiragana": "わたし",
+        "Kanji": "私",
+        "English": "I"
+    },
+    {
+        "Hiragana": "わたくし",
+        "Kanji": "私",
+        "English": "I"
+    },
+    {
+        "Hiragana": "ぼく",
+        "Kanji": "僕",
+        "English": "I"
+    },
+    {
+        "Hiragana": "おれ",
+        "Kanji": "俺",
+        "English": "I"
+    },
+    {
+        "Hiragana": "あたし",
+        "Kanji": "私",
+        "English": "I"
+    },
+    {
+        "Hiragana": "しょうじょ",
+        "Kanji": "少女",
+        "English": "girl (shoujo)"
+    },
+    {
+        "Hiragana": "しょうねん",
+        "Kanji": "少年",
+        "English": "boy (shounen)"
+    },
+    {
+        "Hiragana": "いしゃ",
+        "Kanji": "医者",
+        "English": "doctor (isha)"
+    },
+    {
+        "Hiragana": "かんごし",
+        "Kanji": "看護師",
+        "English": "nurse (kangoshi)"
+    },
+    {
+        "Hiragana": "かんごふ",
+        "Kanji": "看護婦",
+        "English": "female nurse (kangofu)"
+    },
+    {
+        "Hiragana": "しかい",
+        "Kanji": "歯科医、はいしゃ、歯医者",
+        "English": "dentist (shikai"
+    },
+    {
+        "Hiragana": "せいじか",
+        "Kanji": "政治家",
+        "English": "politician (seijika)"
+    },
+    {
+        "Hiragana": "べんごし",
+        "Kanji": "弁護士",
+        "English": "lawyer (bengoshi)"
+    },
+    {
+        "Hiragana": "しょうぼうし",
+        "Kanji": "消防士",
+        "English": "firefighter (shouboushi)"
+    },
+    {
+        "Hiragana": "けいさつかん",
+        "Kanji": "警察官",
+        "English": "police officer (keisatsukan)"
+    },
+    {
+        "Hiragana": "へいし",
+        "Kanji": "兵士",
+        "English": "soldier (heishi)"
+    },
+    {
+        "Hiragana": "けんちくか",
+        "Kanji": "建築家",
+        "English": "architect (kenchikuka)"
+    },
+    {
+        "Hiragana": "せんせい",
+        "Kanji": "先生",
+        "English": "teacher (sensei)"
+    },
+    {
+        "Hiragana": "きょうし",
+        "Kanji": "教師",
+        "English": "(academic) teacher (kyoushi)"
+    },
+    {
+        "Hiragana": "かしゅ",
+        "Kanji": "歌手",
+        "English": "singer (kashu)"
+    },
+    {
+        "Hiragana": "エンジニア",
+        "English": "engineer(enjinia)"
+    },
+    {
+        "Hiragana": "あし",
+        "Kanji": "足、脚",
+        "English": "foot"
+    },
+    {
+        "Hiragana": "かかと",
+        "Kanji": "踵",
+        "English": "heel (kakato)"
+    },
+    {
+        "Hiragana": "すね",
+        "Kanji": "脛",
+        "English": "shin (sune)"
+    },
+    {
+        "Hiragana": "ひざ",
+        "Kanji": "膝",
+        "English": "knee (hiza)"
+    },
+    {
+        "Hiragana": "もも",
+        "Kanji": "腿",
+        "English": "thigh (momo)"
+    },
+    {
+        "Hiragana": "あたま",
+        "Kanji": "頭",
+        "English": "head (atama)"
+    },
+    {
+        "Hiragana": "かお",
+        "Kanji": "顔",
+        "English": "face (kao)"
+    },
+    {
+        "Hiragana": "くち",
+        "Kanji": "口",
+        "English": "mouth (kuchi)"
+    },
+    {
+        "Hiragana": "くちびる",
+        "Kanji": "唇",
+        "English": "lips (kuchibiru)"
+    },
+    {
+        "Hiragana": "は",
+        "Kanji": "歯",
+        "English": "tooth (ha)"
+    },
+    {
+        "Hiragana": "はな",
+        "Kanji": "鼻",
+        "English": "nose (hana)"
+    },
+    {
+        "Hiragana": "め",
+        "Kanji": "目",
+        "English": "eye (me)"
+    },
+    {
+        "Hiragana": "ひげ",
+        "Kanji": "髭、鬚、髯",
+        "English": "moustache"
+    },
+    {
+        "Hiragana": "かみ",
+        "Kanji": "髪",
+        "English": "hair (kami)"
+    },
+    {
+        "Hiragana": "みみ",
+        "Kanji": "耳",
+        "English": "ear (mimi)"
+    },
+    {
+        "Hiragana": "おなか",
+        "Kanji": "御腹",
+        "English": "stomach (onaka)"
+    },
+    {
+        "Hiragana": "うで",
+        "Kanji": "腕",
+        "English": "arm (ude)"
+    },
+    {
+        "Hiragana": "ひじ",
+        "Kanji": "肘",
+        "English": "elbow (hiji)"
+    },
+    {
+        "Hiragana": "かた",
+        "Kanji": "肩",
+        "English": "shoulder (kata)"
+    },
+    {
+        "Hiragana": "つめ",
+        "Kanji": "爪",
+        "English": "nail (tsume)"
+    },
+    {
+        "Hiragana": "て",
+        "Kanji": "手",
+        "English": "hand (te)"
+    },
+    {
+        "Hiragana": "てくび",
+        "Kanji": "手首",
+        "English": "wrist (tekubi)"
+    },
+    {
+        "Hiragana": "てのひら",
+        "Kanji": "掌、手の平",
+        "English": "palm of hand (te-no-hira)"
+    },
+    {
+        "Hiragana": "ゆび",
+        "Kanji": "指",
+        "English": "finger"
+    },
+    {
+        "Hiragana": "しり",
+        "Kanji": "尻",
+        "English": "buttocks (shiri)"
+    },
+    {
+        "Hiragana": "おなか",
+        "Kanji": "お腹 （はら、腹）",
+        "English": "abdomen (o-naka)"
+    },
+    {
+        "Hiragana": "かんぞう",
+        "Kanji": "肝臓",
+        "English": "liver (kanzō)"
+    },
+    {
+        "Hiragana": "きも",
+        "Kanji": "肝",
+        "English": "liver (kimo)"
+    },
+    {
+        "Hiragana": "きんにく",
+        "Kanji": "筋肉",
+        "English": "muscle (kin'niku)"
+    },
+    {
+        "Hiragana": "くび",
+        "Kanji": "首",
+        "English": "neck (kubi)"
+    },
+    {
+        "Hiragana": "こころ",
+        "Kanji": "心",
+        "English": "heart [as in feelings] (kokoro)"
+    },
+    {
+        "Hiragana": "こし",
+        "Kanji": "腰",
+        "English": "waist"
+    },
+    {
+        "Hiragana": "しんぞう",
+        "Kanji": "心臓",
+        "English": "heart (shinzō)"
+    },
+    {
+        "Hiragana": "せなか",
+        "Kanji": "背中",
+        "English": "back (senaka)"
+    },
+    {
+        "Hiragana": "ち",
+        "Kanji": "血",
+        "English": "blood (chi)"
+    },
+    {
+        "Hiragana": "にく",
+        "Kanji": "肉",
+        "English": "meat (niku)"
+    },
+    {
+        "Hiragana": "はだ",
+        "Kanji": "肌、膚",
+        "English": "skin (hada)"
+    },
+    {
+        "Hiragana": "ひふ",
+        "Kanji": "皮膚",
+        "English": "skin (hifu)"
+    },
+    {
+        "Hiragana": "ほね",
+        "Kanji": "骨",
+        "English": "bone (hone)"
+    },
+    {
+        "Hiragana": "むね",
+        "Kanji": "胸",
+        "English": "chest (mune)"
+    },
+    {
+        "Hiragana": "かぜ",
+        "Kanji": "風邪",
+        "English": "cold [illness] (kaze)"
+    },
+    {
+        "Hiragana": "げり",
+        "Kanji": "下痢",
+        "English": "diarrhea (geri)"
+    },
+    {
+        "Hiragana": "びょうき",
+        "Kanji": "病気",
+        "English": "illness (byōki)"
+    },
+    {
+        "Hiragana": "かぞく",
+        "Kanji": "家族",
+        "English": "family (kazoku)"
+    },
+    {
+        "Hiragana": "りょうしん",
+        "Kanji": "両親",
+        "English": "parents (ryoushin)"
+    },
+    {
+        "Hiragana": "こども",
+        "Kanji": "子供",
+        "English": "children"
+    },
+    {
+        "Hiragana": "ちち",
+        "Kanji": "父",
+        "English": "father (chichi)(\"otou-san\")"
+    },
+    {
+        "Hiragana": "はは",
+        "Kanji": "母",
+        "English": "mother (haha)(\"okaa-san\")"
+    },
+    {
+        "Hiragana": "つま",
+        "Kanji": "妻",
+        "English": "wife (tsuma)"
+    },
+    {
+        "Hiragana": "おっと",
+        "Kanji": "夫",
+        "English": "husband (otto)"
+    },
+    {
+        "Hiragana": "あに",
+        "Kanji": "兄",
+        "English": "older brother (ani) (onī-san)"
+    },
+    {
+        "Hiragana": "あね",
+        "Kanji": "姉",
+        "English": "older sister (ane) (onē-san)"
+    },
+    {
+        "Hiragana": "おとうと",
+        "Kanji": "弟",
+        "English": "younger brother (otōto)"
+    },
+    {
+        "Hiragana": "いもうと",
+        "Kanji": "妹",
+        "English": "younger sister (imōto)"
+    },
+    {
+        "Hiragana": "きょうだい",
+        "Kanji": "兄弟",
+        "English": "brothers"
+    },
+    {
+        "Hiragana": "しまい",
+        "Kanji": "姉妹",
+        "English": "sisters (shimai)"
+    },
+    {
+        "Hiragana": "そふ",
+        "Kanji": "祖父",
+        "English": "grandfather (sofu) (ojii-san)"
+    },
+    {
+        "Hiragana": "そぼ",
+        "Kanji": "祖母",
+        "English": "grandmother (sobo) (obaa-san)"
+    },
+    {
+        "Hiragana": "まご",
+        "Kanji": "孫",
+        "English": "grandchild (mago)"
+    },
+    {
+        "Hiragana": "おじ",
+        "Kanji": "伯父、叔父",
+        "English": "uncle (oji) (oji-san)"
+    },
+    {
+        "Hiragana": "おば",
+        "Kanji": "伯母、叔母",
+        "English": "aunt (oba) (oba-san)"
+    },
+    {
+        "Hiragana": "いとこ",
+        "Kanji": "従兄弟、従姉妹、従兄、従弟、従姉、従妹",
+        "English": "cousin (itoko)"
+    },
+    {
+        "Hiragana": "めい",
+        "Kanji": "姪",
+        "English": "niece (mei)"
+    },
+    {
+        "Hiragana": "おい",
+        "Kanji": "甥",
+        "English": "nephew (oi)"
+    },
+    {
+        "Hiragana": "いきもの",
+        "Kanji": "生き物",
+        "English": "living creatures (ikimono)"
+    },
+    {
+        "Hiragana": "ばけもの",
+        "Kanji": "化け物",
+        "English": "monster (bakemono)"
+    },
+    {
+        "Hiragana": "どうぶつ",
+        "Kanji": "動物",
+        "English": "animal (dōbutsu)"
+    },
+    {
+        "Hiragana": "チーター",
+        "English": "cheetah (chītā)"
+    },
+    {
+        "Hiragana": "いぬ",
+        "Kanji": "犬",
+        "English": "dog (inu)"
+    },
+    {
+        "Hiragana": "ねこ",
+        "Kanji": "猫",
+        "English": "cat (neko)"
+    },
+    {
+        "Hiragana": "うし",
+        "Kanji": "牛",
+        "English": "cow (ushi)"
+    },
+    {
+        "Hiragana": "ぶた",
+        "Kanji": "豚",
+        "English": "pig (buta)"
+    },
+    {
+        "Hiragana": "うま",
+        "Kanji": "馬",
+        "English": "horse (uma)"
+    },
+    {
+        "Hiragana": "ひつじ",
+        "Kanji": "羊",
+        "English": "sheep (hitsuji)"
+    },
+    {
+        "Hiragana": "さる",
+        "Kanji": "猿",
+        "English": "monkey (saru)"
+    },
+    {
+        "Hiragana": "ねずみ",
+        "Kanji": "鼠",
+        "English": "mouse"
+    },
+    {
+        "Hiragana": "とら",
+        "Kanji": "虎",
+        "English": "tiger (tora)"
+    },
+    {
+        "Hiragana": "オオカミ",
+        "Kanji": "狼",
+        "English": "wolf (ōkami)"
+    },
+    {
+        "Hiragana": "うさぎ",
+        "Kanji": "兎",
+        "English": "rabbit (usagi)"
+    },
+    {
+        "Hiragana": "りゅう",
+        "Kanji": "たつ、竜",
+        "English": "dragon (ryū"
+    },
+    {
+        "Hiragana": "しか",
+        "Kanji": "鹿",
+        "English": "deer (shika)"
+    },
+    {
+        "Hiragana": "かえる",
+        "Kanji": "蛙",
+        "English": "frog (kaeru)"
+    },
+    {
+        "Hiragana": "がま",
+        "Kanji": "蟇",
+        "English": "toad (gama)"
+    },
+    {
+        "Hiragana": "しし",
+        "Kanji": "獅子",
+        "English": "lion (shishi)"
+    },
+    {
+        "Hiragana": "キリン",
+        "Kanji": "麒麟",
+        "English": "giraffe (kirin)"
+    },
+    {
+        "Hiragana": "ぞう",
+        "Kanji": "象",
+        "English": "elephant (zō)"
+    },
+    {
+        "Hiragana": "とり",
+        "Kanji": "鳥",
+        "English": "bird (tori)"
+    },
+    {
+        "Hiragana": "にわとり",
+        "Kanji": "鶏",
+        "English": "chicken (niwatori)"
+    },
+    {
+        "Hiragana": "すずめ",
+        "Kanji": "雀",
+        "English": "sparrow (suzume)"
+    },
+    {
+        "Hiragana": "からす",
+        "Kanji": "烏",
+        "English": "crow"
+    },
+    {
+        "Hiragana": "わし",
+        "Kanji": "鷲",
+        "English": "eagle (washi)"
+    },
+    {
+        "Hiragana": "たか",
+        "Kanji": "鷹",
+        "English": "hawk"
+    },
+    {
+        "Hiragana": "さかな",
+        "Kanji": "魚",
+        "English": "fish (sakana)"
+    },
+    {
+        "Hiragana": "たい",
+        "Kanji": "鯛",
+        "English": "red snapper (tai)"
+    },
+    {
+        "Hiragana": "えび",
+        "Kanji": "海老",
+        "English": "shrimp"
+    },
+    {
+        "Hiragana": "いわし",
+        "Kanji": "鰯",
+        "English": "sardine (iwashi)"
+    },
+    {
+        "Hiragana": "まぐろ",
+        "Kanji": "鮪",
+        "English": "tuna (maguro)"
+    },
+    {
+        "Hiragana": "かつお",
+        "Kanji": "鰹",
+        "English": "bonito (katsuo)"
+    },
+    {
+        "Hiragana": "さんま",
+        "Kanji": "秋刀魚",
+        "English": "pike (sanma)"
+    },
+    {
+        "Hiragana": "あじ",
+        "Kanji": "鰺",
+        "English": "horse mackerel (aji)"
+    },
+    {
+        "Hiragana": "さば",
+        "Kanji": "鯖",
+        "English": "mackerel (saba)"
+    },
+    {
+        "Hiragana": "イカ",
+        "Kanji": "烏賊",
+        "English": "squid (ika)"
+    },
+    {
+        "Hiragana": "タコ",
+        "Kanji": "蛸、章魚",
+        "English": "octopus (tako)"
+    },
+    {
+        "Hiragana": "むし",
+        "Kanji": "虫",
+        "English": "insect (mushi)"
+    },
+    {
+        "Hiragana": "ちょう",
+        "Kanji": "蝶",
+        "English": "butterfly (chō)"
+    },
+    {
+        "Hiragana": "ガ",
+        "Kanji": "蛾",
+        "English": "moth (ga)"
+    },
+    {
+        "Hiragana": "せみ",
+        "Kanji": "蝉",
+        "English": "cicada (semi)"
+    },
+    {
+        "Hiragana": "トンボ",
+        "Kanji": "蜻蛉",
+        "English": "dragonfly (tonbo)"
+    },
+    {
+        "Hiragana": "バッタ",
+        "Kanji": "飛蝗",
+        "English": "grasshopper (batta)"
+    },
+    {
+        "Hiragana": "クモ",
+        "Kanji": "蜘蛛",
+        "English": "spider (kumo)"
+    },
+    {
+        "Hiragana": "ホタル",
+        "Kanji": "蛍",
+        "English": "firefly (hotaru)"
+    },
+    {
+        "Hiragana": "ハエ",
+        "Kanji": "蝿、蠅",
+        "English": "housefly (hae)"
+    },
+    {
+        "Hiragana": "カ",
+        "Kanji": "蚊",
+        "English": "mosquito"
+    },
+    {
+        "Hiragana": "ゴキブリ",
+        "Kanji": "蜚蠊",
+        "English": "cockroach (gokiburi)"
+    },
+    {
+        "Hiragana": "カタツムリ",
+        "Kanji": "蝸牛",
+        "English": "snail (katatsumuri)"
+    },
+    {
+        "Hiragana": "ナメクジ",
+        "Kanji": "蛞蝓",
+        "English": "slug (namekuji)"
+    },
+    {
+        "Hiragana": "ミミズ",
+        "Kanji": "蚯蚓",
+        "English": "earthworm (mimizu)"
+    },
+    {
+        "Hiragana": "かい",
+        "Kanji": "貝",
+        "English": "shellfish (kai)"
+    },
+    {
+        "Hiragana": "かいがら",
+        "Kanji": "貝殻",
+        "English": "shell (kaigara)"
+    },
+    {
+        "Hiragana": "トカゲ",
+        "Kanji": "蜥蜴",
+        "English": "lizard (tokage)"
+    },
+    {
+        "Hiragana": "へび",
+        "Kanji": "蛇",
+        "English": "snake (hebi)"
+    },
+    {
+        "Hiragana": "くま",
+        "Kanji": "熊",
+        "English": "bear(kuma)"
+    },
+    {
+        "Hiragana": "こめ",
+        "Kanji": "米",
+        "English": "uncooked rice (kome)"
+    },
+    {
+        "Hiragana": "いね",
+        "Kanji": "稲",
+        "English": "rice growing in a field (ine)"
+    },
+    {
+        "Hiragana": "むぎ",
+        "Kanji": "麦",
+        "English": "wheat"
+    },
+    {
+        "Hiragana": "やさい",
+        "Kanji": "野菜",
+        "English": "vegetable (yasai)"
+    },
+    {
+        "Hiragana": "くだもの",
+        "Kanji": "果物",
+        "English": "fruit for eating (kudamono)"
+    },
+    {
+        "Hiragana": "いも",
+        "Kanji": "芋",
+        "English": "yam"
+    },
+    {
+        "Hiragana": "まめ",
+        "Kanji": "豆",
+        "English": "beans"
+    },
+    {
+        "Hiragana": "だいこん",
+        "Kanji": "大根",
+        "English": "Japanese white radish (daikon)"
+    },
+    {
+        "Hiragana": "にんじん",
+        "Kanji": "人参",
+        "English": "carrot (ninjin)"
+    },
+    {
+        "Hiragana": "リンゴ",
+        "Kanji": "林檎",
+        "English": "apple (ringo)"
+    },
+    {
+        "Hiragana": "ミカン",
+        "Kanji": "蜜柑",
+        "English": "mandarin orange (mikan)"
+    },
+    {
+        "Hiragana": "バナナ",
+        "Kanji": "かんしょう、甘蕉",
+        "English": "banana (banana"
+    },
+    {
+        "Hiragana": "ナシ",
+        "Kanji": "梨",
+        "English": "pear (nashi)"
+    },
+    {
+        "Hiragana": "クリ",
+        "Kanji": "栗",
+        "English": "chestnut tree (kuri)"
+    },
+    {
+        "Hiragana": "モモ",
+        "Kanji": "桃",
+        "English": "peach (momo)"
+    },
+    {
+        "Hiragana": "トマト",
+        "Kanji": "ばんか、蕃茄",
+        "English": "tomato (tomato"
+    },
+    {
+        "Hiragana": "スイカ",
+        "Kanji": "西瓜",
+        "English": "watermelon (suika)"
+    },
+    {
+        "Hiragana": "じかん",
+        "Kanji": "時間",
+        "English": "time (jikan)"
+    },
+    {
+        "Hiragana": "とき",
+        "Kanji": "じ、時",
+        "English": "~hours (toki"
+    },
+    {
+        "Hiragana": "こよみ",
+        "Kanji": "カレンダー、暦",
+        "English": "calendar (koyomi"
+    },
+    {
+        "Hiragana": "ふん",
+        "Kanji": "分",
+        "English": "minute (fun)"
+    },
+    {
+        "Hiragana": "びょう",
+        "Kanji": "秒",
+        "English": "second (byō)"
+    },
+    {
+        "Hiragana": "ひ",
+        "Kanji": "にち、日",
+        "English": "day (hi"
+    },
+    {
+        "Hiragana": "つき",
+        "Kanji": "がつ、月",
+        "English": "month (tsuki"
+    },
+    {
+        "Hiragana": "とし",
+        "Kanji": "ねん、年",
+        "English": "year (toshi"
+    },
+    {
+        "Hiragana": "きのう",
+        "Kanji": "さくじつ、昨日",
+        "English": "yesterday (kinō"
+    },
+    {
+        "Hiragana": "きょう",
+        "Kanji": "今日",
+        "English": "today (kyō)"
+    },
+    {
+        "Hiragana": "あした",
+        "Kanji": "あす、みょうにち、明日",
+        "English": "tomorrow (ashita"
+    },
+    {
+        "Hiragana": "あさ",
+        "Kanji": "朝",
+        "English": "morning (asa)"
+    },
+    {
+        "Hiragana": "ひる",
+        "Kanji": "昼",
+        "English": "afternoon (hiru)"
+    },
+    {
+        "Hiragana": "ゆうがた",
+        "Kanji": "夕方",
+        "English": "evening (yūgata)"
+    },
+    {
+        "Hiragana": "ばん",
+        "Kanji": "晩",
+        "English": "evening (ban)"
+    },
+    {
+        "Hiragana": "よる",
+        "Kanji": "夜",
+        "English": "evening"
+    },
+    {
+        "Hiragana": "ようび",
+        "Kanji": "曜日",
+        "English": "~day (yōbi)"
+    },
+    {
+        "Hiragana": "しゅう",
+        "Kanji": "週",
+        "English": "week (shū)"
+    },
+    {
+        "Hiragana": "いっしゅうかん",
+        "Kanji": "一週間",
+        "English": "one week (isshūkan)"
+    },
+    {
+        "Hiragana": "にちようび",
+        "Kanji": "日曜日",
+        "English": "Sunday (nichi-yōbi)"
+    },
+    {
+        "Hiragana": "げつようび",
+        "Kanji": "月曜日",
+        "English": "Monday (getsu-yōbi)"
+    },
+    {
+        "Hiragana": "かようび",
+        "Kanji": "火曜日",
+        "English": "Tuesday (ka-yōbi)"
+    },
+    {
+        "Hiragana": "すいようび",
+        "Kanji": "水曜日",
+        "English": "Wednesday (sui-yōbi)"
+    },
+    {
+        "Hiragana": "もくようび",
+        "Kanji": "木曜日",
+        "English": "Thursday (moku-yōbi)"
+    },
+    {
+        "Hiragana": "きんようび",
+        "Kanji": "金曜日",
+        "English": "Friday (kin-yōbi)"
+    },
+    {
+        "Hiragana": "どようび",
+        "Kanji": "土曜日",
+        "English": "Saturday (do-yōbi)"
+    },
+    {
+        "Hiragana": "たいよう",
+        "Kanji": "太陽",
+        "English": "sun (taiyō)"
+    },
+    {
+        "Hiragana": "つき",
+        "Kanji": "月",
+        "English": "moon (tsuki)"
+    },
+    {
+        "Hiragana": "ほし",
+        "Kanji": "星",
+        "English": "star (hoshi)"
+    },
+    {
+        "Hiragana": "てんき",
+        "Kanji": "天気",
+        "English": "weather (tenki)"
+    },
+    {
+        "Hiragana": "はれ",
+        "Kanji": "晴れ",
+        "English": "clear weather (hare)"
+    },
+    {
+        "Hiragana": "あめ",
+        "Kanji": "雨",
+        "English": "rain (ame)"
+    },
+    {
+        "Hiragana": "くもり",
+        "Kanji": "曇り",
+        "English": "cloudy (kumori)"
+    },
+    {
+        "Hiragana": "ゆき",
+        "Kanji": "雪",
+        "English": "snow (yuki)"
+    },
+    {
+        "Hiragana": "かぜ",
+        "Kanji": "風",
+        "English": "wind (kaze)"
+    },
+    {
+        "Hiragana": "かみなり",
+        "Kanji": "雷",
+        "English": "thunder"
+    },
+    {
+        "Hiragana": "たいふう",
+        "Kanji": "台風",
+        "English": "typhoon (taifū)"
+    },
+    {
+        "Hiragana": "あらし",
+        "Kanji": "嵐",
+        "English": "storm (arashi)"
+    },
+    {
+        "Hiragana": "そら",
+        "Kanji": "空",
+        "English": "sky (sora)"
+    },
+    {
+        "Hiragana": "きた",
+        "Kanji": "北",
+        "English": "north (kita)"
+    },
+    {
+        "Hiragana": "ひがし",
+        "Kanji": "東",
+        "English": "east (higashi)"
+    },
+    {
+        "Hiragana": "みなみ",
+        "Kanji": "南",
+        "English": "south (minami)"
+    },
+    {
+        "Hiragana": "にし",
+        "Kanji": "西",
+        "English": "west (nishi)"
+    },
+    {
+        "Hiragana": "ここ",
+        "English": "here (koko)"
+    },
+    {
+        "Hiragana": "そこ",
+        "English": "there (soko)"
+    },
+    {
+        "Hiragana": "あそこ",
+        "English": "over there (asoko)"
+    },
+    {
+        "Hiragana": "みぎ",
+        "Kanji": "右",
+        "English": "right (migi)"
+    },
+    {
+        "Hiragana": "ひだり",
+        "Kanji": "左",
+        "English": "left (hidari)"
+    },
+    {
+        "Hiragana": "うえ",
+        "Kanji": "上",
+        "English": "above"
+    },
+    {
+        "Hiragana": "した",
+        "Kanji": "下",
+        "English": "below"
+    },
+    {
+        "Hiragana": "まえ",
+        "Kanji": "前",
+        "English": "front (mae)"
+    },
+    {
+        "Hiragana": "うしろ",
+        "Kanji": "後",
+        "English": "behind (ushiro)"
+    },
+    {
+        "Hiragana": "むこう",
+        "Kanji": "向こう",
+        "English": "the other side"
+    },
+    {
+        "Hiragana": "ななめ",
+        "Kanji": "斜め",
+        "English": "diagonal (naname)"
+    },
+    {
+        "Hiragana": "てまえ",
+        "Kanji": "手前",
+        "English": "nearer"
+    },
+    {
+        "Hiragana": "とおい",
+        "Kanji": "遠い",
+        "English": "far (tooi)"
+    },
+    {
+        "Hiragana": "ちかい",
+        "Kanji": "近い",
+        "English": "near"
+    },
+    {
+        "Hiragana": "みず",
+        "Kanji": "水",
+        "English": "water (mizu)"
+    },
+    {
+        "Hiragana": "ゆ",
+        "Kanji": "湯",
+        "English": "hot water (yu)"
+    },
+    {
+        "Hiragana": "こおり",
+        "Kanji": "氷",
+        "English": "ice (kōri)"
+    },
+    {
+        "Hiragana": "ゆげ",
+        "Kanji": "湯気",
+        "English": "steam (yuge)"
+    },
+    {
+        "Hiragana": "ひ",
+        "Kanji": "火",
+        "English": "fire (hi)"
+    },
+    {
+        "Hiragana": "ガス",
+        "English": "gas (gasu)"
+    },
+    {
+        "Hiragana": "くうき",
+        "Kanji": "空気",
+        "English": "air"
+    },
+    {
+        "Hiragana": "つち",
+        "Kanji": "土",
+        "English": "earth"
+    },
+    {
+        "Hiragana": "きんぞく",
+        "Kanji": "金属",
+        "English": "metal"
+    },
+    {
+        "Hiragana": "どろ",
+        "Kanji": "泥",
+        "English": "mud"
+    },
+    {
+        "Hiragana": "けむり",
+        "Kanji": "煙",
+        "English": "smoke"
+    },
+    {
+        "Hiragana": "てつ",
+        "Kanji": "鉄",
+        "English": "iron [Fe] (tetsu)"
+    },
+    {
+        "Hiragana": "どう",
+        "Kanji": "銅",
+        "English": "copper [Cu] (dō)"
+    },
+    {
+        "Hiragana": "きん",
+        "Kanji": "金",
+        "English": "gold [Au]; money (kin)"
+    },
+    {
+        "Hiragana": "ぎん",
+        "Kanji": "銀",
+        "English": "silver [Ag]; wealth (gin)"
+    },
+    {
+        "Hiragana": "なまり",
+        "Kanji": "鉛",
+        "English": "lead [Pb] (namari)"
+    },
+    {
+        "Hiragana": "しお",
+        "Kanji": "塩",
+        "English": "salt [NaCl] (shio)"
+    },
+    {
+        "Hiragana": "メートル",
+        "English": "meter (mētoru)"
+    },
+    {
+        "Hiragana": "リットル",
+        "English": "litre (rittoru)"
+    },
+    {
+        "Hiragana": "グラム",
+        "English": "gram (guramu)"
+    },
+    {
+        "Hiragana": "キロ",
+        "English": "kilo- (kiro)"
+    },
+    {
+        "Hiragana": "ミリ",
+        "English": "milli- (miri)"
+    },
+    {
+        "Hiragana": "センチメートル",
+        "Kanji": "センチ",
+        "English": "centimeter (senchi)"
+    },
+    {
+        "Hiragana": "インチ",
+        "English": "inch (inchi)"
+    },
+    {
+        "Hiragana": "しゃかい",
+        "Kanji": "社会",
+        "English": "society (shakai)"
+    },
+    {
+        "Hiragana": "けいざい",
+        "Kanji": "経済",
+        "English": "economy"
+    },
+    {
+        "Hiragana": "かいしゃ",
+        "Kanji": "会社",
+        "English": "company (kaisha)"
+    },
+    {
+        "Hiragana": "かいぎ",
+        "Kanji": "会議",
+        "English": "meeting (kaigi)"
+    },
+    {
+        "Hiragana": "がっこう",
+        "Kanji": "学校",
+        "English": "school (gakkō)"
+    },
+    {
+        "Hiragana": "やくしょ",
+        "Kanji": "役所",
+        "English": "local government office (yakusho)"
+    },
+    {
+        "Hiragana": "みせ",
+        "Kanji": "店",
+        "English": "store (mise)"
+    },
+    {
+        "Hiragana": "ホテル",
+        "English": "hotel (hoteru)"
+    },
+    {
+        "Hiragana": "こうじょう",
+        "Kanji": "工場",
+        "English": "factory (kōjō)"
+    },
+    {
+        "Hiragana": "かね",
+        "Kanji": "金",
+        "English": "money (kane"
+    },
+    {
+        "Hiragana": "さつ",
+        "Kanji": "札",
+        "English": "bill [of money"
+    },
+    {
+        "Hiragana": "こぜに",
+        "Kanji": "小銭",
+        "English": "small change (kozeni)"
+    },
+    {
+        "Hiragana": "つりせん",
+        "Kanji": "釣り銭、おつり、お釣り",
+        "English": "change (tsurisen)"
+    },
+    {
+        "Hiragana": "じどうはんばいき",
+        "Kanji": "自動販売機",
+        "English": "vending machine"
+    },
+    {
+        "Hiragana": "きっぷ",
+        "Kanji": "切符",
+        "English": "ticket (public transport"
+    },
+    {
+        "Hiragana": "きって",
+        "Kanji": "切手",
+        "English": "stamp (kitte)"
+    },
+    {
+        "Hiragana": "つくえ",
+        "Kanji": "机",
+        "English": "desk (tsukue)"
+    },
+    {
+        "Hiragana": "いす",
+        "Kanji": "椅子",
+        "English": "chair"
+    },
+    {
+        "Hiragana": "たたみ",
+        "Kanji": "畳",
+        "English": "a tatami mat (tatami)"
+    },
+    {
+        "Hiragana": "と",
+        "Kanji": "戸",
+        "English": "door"
+    },
+    {
+        "Hiragana": "とびら",
+        "Kanji": "扉",
+        "English": "door panel (tobira)"
+    },
+    {
+        "Hiragana": "ドア",
+        "English": "door (doa)"
+    },
+    {
+        "Hiragana": "まど",
+        "Kanji": "窓",
+        "English": "window (mado)"
+    },
+    {
+        "Hiragana": "ふとん",
+        "Kanji": "布団",
+        "English": "futon (futon)"
+    },
+    {
+        "Hiragana": "げんかん",
+        "Kanji": "玄関",
+        "English": "entrance (genkan)"
+    },
+    {
+        "Hiragana": "いえ",
+        "Kanji": "家",
+        "English": "house"
+    },
+    {
+        "Hiragana": "エレベーター",
+        "English": "elevator (erebētā)"
+    },
+    {
+        "Hiragana": "エスカレーター",
+        "English": "escalator (esukarētā)"
+    },
+    {
+        "Hiragana": "でんき",
+        "Kanji": "電気",
+        "English": "electricity (denki)"
+    },
+    {
+        "Hiragana": "くぎ",
+        "Kanji": "釘",
+        "English": "nail"
+    },
+    {
+        "Hiragana": "ひも",
+        "Kanji": "紐",
+        "English": "string"
+    },
+    {
+        "Hiragana": "なわ",
+        "Kanji": "縄",
+        "English": "rope"
+    },
+    {
+        "Hiragana": "ふくろ",
+        "Kanji": "袋",
+        "English": "pocket"
+    },
+    {
+        "Hiragana": "かばん",
+        "Kanji": "鞄",
+        "English": "leather bag (kaban)"
+    },
+    {
+        "Hiragana": "かさ",
+        "Kanji": "傘",
+        "English": "umbrella"
+    },
+    {
+        "Hiragana": "かぎ",
+        "Kanji": "鍵",
+        "English": "door bolt"
+    },
+    {
+        "Hiragana": "ちょうこく",
+        "Kanji": "彫刻",
+        "English": "sculpture"
+    },
+    {
+        "Hiragana": "ぶんぼうぐ",
+        "Kanji": "文房具",
+        "English": "stationery ​(bunbōgu)"
+    },
+    {
+        "Hiragana": "インク",
+        "English": "ink (inku)"
+    },
+    {
+        "Hiragana": "ペン",
+        "English": "pen (pen)"
+    },
+    {
+        "Hiragana": "ボールペン",
+        "English": "ball-point pen (bōrupen)"
+    },
+    {
+        "Hiragana": "まんねんひつ",
+        "Kanji": "万年筆",
+        "English": "fountain pen (mannenhitsu)"
+    },
+    {
+        "Hiragana": "えんぴつ",
+        "Kanji": "鉛筆",
+        "English": "pencil (enpitsu)"
+    },
+    {
+        "Hiragana": "ふで",
+        "Kanji": "筆",
+        "English": "brush for writing or painting (fude)"
+    },
+    {
+        "Hiragana": "チョーク",
+        "English": "chalk (chōku)"
+    },
+    {
+        "Hiragana": "けしゴム",
+        "Kanji": "消しゴム",
+        "English": "eraser (keshigomu)"
+    },
+    {
+        "Hiragana": "えんぴつけずり",
+        "Kanji": "鉛筆削り",
+        "English": "pencil sharpener (enpitsu-kezuri)"
+    },
+    {
+        "Hiragana": "じょうぎ",
+        "Kanji": "定規",
+        "English": "ruler (jōgi)"
+    },
+    {
+        "Hiragana": "ノート",
+        "English": "notebook (nōto)"
+    },
+    {
+        "Hiragana": "にっき",
+        "Kanji": "日記",
+        "English": "diary (nikki)"
+    },
+    {
+        "Hiragana": "カバー",
+        "English": "book cover (kabā)"
+    },
+    {
+        "Hiragana": "ふうとう",
+        "Kanji": "封筒",
+        "English": "envelope (fūtō)"
+    },
+    {
+        "Hiragana": "はさみ",
+        "Kanji": "鋏",
+        "English": "scissors (hasami)"
+    },
+    {
+        "Hiragana": "ホッチキス",
+        "English": "stapler (hotchikisu)"
+    },
+    {
+        "Hiragana": "ふく",
+        "Kanji": "服",
+        "English": "clothes (fuku)"
+    },
+    {
+        "Hiragana": "ようふく",
+        "Kanji": "洋服",
+        "English": "western clothing (yōfuku)"
+    },
+    {
+        "Hiragana": "きもの",
+        "Kanji": "着物",
+        "English": "kimono (kimono)"
+    },
+    {
+        "Hiragana": "わふく",
+        "Kanji": "和服",
+        "English": "Japanese clothing (wafuku)"
+    },
+    {
+        "Hiragana": "そで",
+        "Kanji": "袖",
+        "English": "sleeve (sode)"
+    },
+    {
+        "Hiragana": "えり",
+        "Kanji": "襟",
+        "English": "lapel"
+    },
+    {
+        "Hiragana": "ボタン",
+        "English": "button (botan)"
+    },
+    {
+        "Hiragana": "チャック",
+        "Kanji": "ファスナー、ジッパー",
+        "English": "zipper"
+    },
+    {
+        "Hiragana": "ベルト",
+        "English": "belt (beruto)"
+    },
+    {
+        "Hiragana": "くつ",
+        "Kanji": "靴",
+        "English": "shoe (kutsu)"
+    },
+    {
+        "Hiragana": "くつした",
+        "Kanji": "靴下",
+        "English": "sock (kutsushita)"
+    },
+    {
+        "Hiragana": "めがね",
+        "Kanji": "眼鏡",
+        "English": "glasses (megane)"
+    },
+    {
+        "Hiragana": "てつどう",
+        "Kanji": "鉄道",
+        "English": "railway (tetsudō)"
+    },
+    {
+        "Hiragana": "えき",
+        "Kanji": "駅",
+        "English": "station (eki)"
+    },
+    {
+        "Hiragana": "ひこうき",
+        "Kanji": "飛行機",
+        "English": "airplane (hikōki)"
+    },
+    {
+        "Hiragana": "くうこう",
+        "Kanji": "空港 （ひこうじょう、飛行場）",
+        "English": "airport (kūkō"
+    },
+    {
+        "Hiragana": "みち",
+        "Kanji": "道",
+        "English": "street"
+    },
+    {
+        "Hiragana": "どうろ",
+        "Kanji": "道路",
+        "English": "road (dōro)"
+    },
+    {
+        "Hiragana": "バスてい",
+        "Kanji": "バス停",
+        "English": "bus-stop (basutei)"
+    },
+    {
+        "Hiragana": "とおり",
+        "Kanji": "通り",
+        "English": "avenue (tōri)"
+    },
+    {
+        "Hiragana": "でんしゃ",
+        "Kanji": "電車",
+        "English": "train (densha)"
+    },
+    {
+        "Hiragana": "くるま",
+        "Kanji": "車 (じどうしゃ、自動車)",
+        "English": "car (kuruma"
+    },
+    {
+        "Hiragana": "もじ",
+        "Kanji": "文字",
+        "English": "letter"
+    },
+    {
+        "Hiragana": "じ",
+        "Kanji": "字",
+        "English": "a letter"
+    },
+    {
+        "Hiragana": "かんじ",
+        "Kanji": "漢字",
+        "English": "Chinese character (kanji)"
+    },
+    {
+        "Hiragana": "ひらがな",
+        "Kanji": "平仮名",
+        "English": "hiragana syllabary characters (hiragana)"
+    },
+    {
+        "Hiragana": "カタカナ",
+        "Kanji": "片仮名",
+        "English": "katakana syllabary characters (katakana)"
+    },
+    {
+        "Hiragana": "すうじ",
+        "Kanji": "数字",
+        "English": "numbers (sūji)"
+    },
+    {
+        "Hiragana": "アルファベット",
+        "English": "alphabet (arufabetto)"
+    },
+    {
+        "Hiragana": "ローマ字",
+        "English": "Roman characters"
+    },
+    {
+        "Hiragana": "がいこくご",
+        "Kanji": "外国語",
+        "English": "foreign language (gaikokugo)"
+    },
+    {
+        "Hiragana": "にほんご",
+        "Kanji": "日本語 （こくご、国語）",
+        "English": "Japanese [language] (nihongo)"
+    },
+    {
+        "Hiragana": "えいご",
+        "Kanji": "英語",
+        "English": "English [language] (eigo)"
+    },
+    {
+        "Hiragana": "ちゅうごくご",
+        "Kanji": "中国語",
+        "English": "Chinese [language] (chūgokugo)"
+    },
+    {
+        "Hiragana": "どいつご",
+        "Kanji": "ドイツ語",
+        "English": "German [language] (doitsugo)"
+    },
+    {
+        "Hiragana": "すぺいんご",
+        "Kanji": "スペイン語",
+        "English": "Spanish [language] (supeingo)"
+    },
+    {
+        "Hiragana": "ふらんすご",
+        "Kanji": "フランス語",
+        "English": "French [language] (furansugo)"
+    },
+    {
+        "Hiragana": "ちょうせんご",
+        "Kanji": "朝鮮語、かんこくご、韓国語",
+        "English": "Korean [language]"
+    },
+    {
+        "Hiragana": "ほん",
+        "Kanji": "本",
+        "English": "book (hon)"
+    },
+    {
+        "Hiragana": "かみ",
+        "Kanji": "紙",
+        "English": "paper (kami)"
+    },
+    {
+        "Hiragana": "てがみ",
+        "Kanji": "手紙",
+        "English": "letter (tegami)"
+    },
+    {
+        "Hiragana": "しんぶん",
+        "Kanji": "新聞",
+        "English": "newspaper (shinbun)"
+    },
+    {
+        "Hiragana": "じしょ",
+        "Kanji": "辞書",
+        "English": "dictionary (jisho)"
+    },
+    {
+        "Hiragana": "パソコン",
+        "English": "personal computer (pasokon)"
+    },
+    {
+        "Hiragana": "いろ",
+        "Kanji": "色",
+        "English": "color (iro"
+    },
+    {
+        "Hiragana": "あか",
+        "Kanji": "赤",
+        "English": "red (aka)"
+    },
+    {
+        "Hiragana": "きいろ",
+        "Kanji": "黄色",
+        "English": "yellow (kiiro)"
+    },
+    {
+        "Hiragana": "みどり",
+        "Kanji": "緑",
+        "English": "green (midori)"
+    },
+    {
+        "Hiragana": "あお",
+        "Kanji": "青",
+        "English": "blue (ao)"
+    },
+    {
+        "Hiragana": "むらさき",
+        "Kanji": "紫",
+        "English": "purple (murasaki"
+    },
+    {
+        "Hiragana": "しろ",
+        "Kanji": "白",
+        "English": "white (shiro)"
+    },
+    {
+        "Hiragana": "くろ",
+        "Kanji": "黒",
+        "English": "black (kuro)"
+    },
+    {
+        "Hiragana": "ピンク",
+        "English": "pink (pinku)"
+    },
+    {
+        "Hiragana": "ちゃいろ",
+        "Kanji": "茶色",
+        "English": "brown (chairo)"
+    },
+    {
+        "Hiragana": "はいいろ",
+        "Kanji": "灰色、ねずみいろ、鼠色",
+        "English": "grey (haiiro"
+    },
+    {
+        "Hiragana": "オレンジ",
+        "English": "orange (orenji)"
+    },
+    {
+        "Hiragana": "え",
+        "Kanji": "絵",
+        "English": "picture (e)"
+    },
+    {
+        "Hiragana": "おんがく",
+        "Kanji": "音楽",
+        "English": "music (ongaku)"
+    },
+    {
+        "Hiragana": "りか",
+        "Kanji": "理科",
+        "English": "science (rika)"
+    },
+    {
+        "Hiragana": "さんすう",
+        "Kanji": "算数",
+        "English": "arithmetic (sansū)"
+    },
+    {
+        "Hiragana": "れきし",
+        "Kanji": "歴史",
+        "English": "history (rekishi)"
+    },
+    {
+        "Hiragana": "ちり",
+        "Kanji": "地理",
+        "English": "geography (chiri)"
+    },
+    {
+        "Hiragana": "たいいく",
+        "Kanji": "体育",
+        "English": "physical education (taiiku)"
+    },
+    {
+        "Hiragana": "スポーツ",
+        "English": "sport (supōtsu)"
+    },
+    {
+        "Hiragana": "システム",
+        "English": "system (shisutemu)"
+    },
+    {
+        "Hiragana": "じょうほう",
+        "Kanji": "情報",
+        "English": "information"
+    },
+    {
+        "Hiragana": "ひつよう",
+        "Kanji": "必要",
+        "English": "necessity (hitsuyō)"
+    },
+    {
+        "Hiragana": "べんきょう",
+        "Kanji": "勉強",
+        "English": "study (benkyō)"
+    },
+    {
+        "Hiragana": "いらい",
+        "Kanji": "依頼",
+        "English": "request (irai)"
+    },
+    {
+        "Hiragana": "れい",
+        "Kanji": "ゼロ、零",
+        "English": "zero (rei"
+    },
+    {
+        "Hiragana": "いち",
+        "Kanji": "一",
+        "English": "one (ichi)"
+    },
+    {
+        "Hiragana": "に",
+        "Kanji": "二",
+        "English": "two (ni)"
+    },
+    {
+        "Hiragana": "さん",
+        "Kanji": "三",
+        "English": "three (san)"
+    },
+    {
+        "Hiragana": "よん",
+        "Kanji": "し、四",
+        "English": "four (yon"
+    },
+    {
+        "Hiragana": "ご",
+        "Kanji": "五",
+        "English": "five (go)"
+    },
+    {
+        "Hiragana": "ろく",
+        "Kanji": "六",
+        "English": "six (roku)"
+    },
+    {
+        "Hiragana": "なな",
+        "Kanji": "しち、七",
+        "English": "seven (nana"
+    },
+    {
+        "Hiragana": "はち",
+        "Kanji": "八",
+        "English": "eight (hachi)"
+    },
+    {
+        "Hiragana": "きゅう",
+        "Kanji": "く、九",
+        "English": "nine (kyū"
+    },
+    {
+        "Hiragana": "じゅう",
+        "Kanji": "十",
+        "English": "ten (jū)"
+    },
+    {
+        "Hiragana": "ひゃく",
+        "Kanji": "百",
+        "English": "hundred (hyaku)"
+    },
+    {
+        "Hiragana": "せん",
+        "Kanji": "千",
+        "English": "thousand (sen)"
+    },
+    {
+        "Hiragana": "まん",
+        "Kanji": "万",
+        "English": "ten thousand (man)"
+    },
+    {
+        "Hiragana": "おく",
+        "Kanji": "億",
+        "English": "one hundred million (oku)"
+    },
+    {
+        "Hiragana": "ひとつ",
+        "Kanji": "一つ",
+        "English": "one"
+    },
+    {
+        "Hiragana": "ふたつ",
+        "Kanji": "二つ",
+        "English": "two"
+    },
+    {
+        "Hiragana": "みっつ",
+        "Kanji": "三つ",
+        "English": "three"
+    },
+    {
+        "Hiragana": "よっつ",
+        "Kanji": "四つ",
+        "English": "four"
+    },
+    {
+        "Hiragana": "いつつ",
+        "Kanji": "五つ",
+        "English": "five"
+    },
+    {
+        "Hiragana": "むっつ",
+        "Kanji": "六つ",
+        "English": "six"
+    },
+    {
+        "Hiragana": "ななつ",
+        "Kanji": "七つ",
+        "English": "seven"
+    },
+    {
+        "Hiragana": "やっつ",
+        "Kanji": "八つ",
+        "English": "eight"
+    },
+    {
+        "Hiragana": "ここのつ",
+        "Kanji": "九つ",
+        "English": "nine"
+    },
+    {
+        "Hiragana": "とお",
+        "Kanji": "十",
+        "English": "ten"
+    },
+    {
+        "Hiragana": "これ",
+        "English": "this"
+    },
+    {
+        "Hiragana": "それ",
+        "English": "that (sore)"
+    },
+    {
+        "Hiragana": "あれ",
+        "English": "that over there (are)"
+    },
+    {
+        "Hiragana": "どれ",
+        "English": "which (dore)"
+    },
+    {
+        "Hiragana": "こちら",
+        "Kanji": "こっち",
+        "English": "this direction"
+    },
+    {
+        "Hiragana": "そちら",
+        "Kanji": "そっち",
+        "English": "that direction"
+    },
+    {
+        "Hiragana": "あちら",
+        "Kanji": "あっち",
+        "English": "that direction"
+    },
+    {
+        "Hiragana": "どちら",
+        "Kanji": "どっち",
+        "English": "which direction"
+    },
+    {
+        "Hiragana": "ひみつ",
+        "Kanji": "秘密",
+        "English": "secret (himitsu)"
+    },
+    {
+        "Hiragana": "じどう",
+        "Kanji": "自動",
+        "English": "automatic (jidō)"
+    },
+    {
+        "Hiragana": "ないよう",
+        "Kanji": "内容",
+        "English": "content (naiyō)"
+    },
+    {
+        "Hiragana": "はば",
+        "Kanji": "幅",
+        "English": "width"
+    },
+    {
+        "Hiragana": "せいしき",
+        "Kanji": "正式",
+        "English": "formality (seishiki)"
+    },
+    {
+        "Hiragana": "けっこん",
+        "Kanji": "結婚",
+        "English": "marriage (kekkon)"
+    },
+    {
+        "Hiragana": "げんざい",
+        "Kanji": "現在",
+        "English": "now (genzai)"
+    },
+    {
+        "Hiragana": "いま",
+        "Kanji": "今",
+        "English": "now (ima)"
+    },
+    {
+        "Hiragana": "かこ",
+        "Kanji": "過去",
+        "English": "past (kako)"
+    },
+    {
+        "Hiragana": "みらい",
+        "Kanji": "未来",
+        "English": "future (mirai)"
+    },
+    {
+        "Hiragana": "いい",
+        "Kanji": "よい、良い",
+        "English": "good (ii"
+    },
+    {
+        "Hiragana": "すごい",
+        "Kanji": "凄い",
+        "English": "amazing (sugoi)"
+    },
+    {
+        "Hiragana": "すばらしい",
+        "Kanji": "素晴らしい",
+        "English": "wonderful (subarashii)"
+    },
+    {
+        "Hiragana": "わるい",
+        "Kanji": "悪い",
+        "English": "bad"
+    },
+    {
+        "Hiragana": "たかい",
+        "Kanji": "高い",
+        "English": "expensive"
+    },
+    {
+        "Hiragana": "ひくい",
+        "Kanji": "低い",
+        "English": "low (hikui)"
+    },
+    {
+        "Hiragana": "やすい",
+        "Kanji": "安い",
+        "English": "cheap (yasui)"
+    },
+    {
+        "Hiragana": "おおきい",
+        "Kanji": "大きい",
+        "English": "big (ōkii)"
+    },
+    {
+        "Hiragana": "ちいさい",
+        "Kanji": "小さい",
+        "English": "small (chiisai)"
+    },
+    {
+        "Hiragana": "ほそい",
+        "Kanji": "細い",
+        "English": "thin (hosoi)"
+    },
+    {
+        "Hiragana": "ふとい",
+        "Kanji": "太い",
+        "English": "thick (futoi)"
+    },
+    {
+        "Hiragana": "ふるい",
+        "Kanji": "古い",
+        "English": "old (furui)"
+    },
+    {
+        "Hiragana": "あたらしい",
+        "Kanji": "新しい",
+        "English": "new (atarashii)"
+    },
+    {
+        "Hiragana": "わかい",
+        "Kanji": "若い",
+        "English": "young (wakai)"
+    },
+    {
+        "Hiragana": "かるい",
+        "Kanji": "軽い",
+        "English": "light"
+    },
+    {
+        "Hiragana": "おもい",
+        "Kanji": "重い",
+        "English": "heavy (omoi)"
+    },
+    {
+        "Hiragana": "やさしい",
+        "Kanji": "易しい",
+        "English": "easy"
+    },
+    {
+        "Hiragana": "むずかしい",
+        "Kanji": "難しい",
+        "English": "difficult (muzukashii)"
+    },
+    {
+        "Hiragana": "やわらかい",
+        "Kanji": "柔らかい",
+        "English": "soft (yawarakai)"
+    },
+    {
+        "Hiragana": "かたい",
+        "Kanji": "硬い、堅い",
+        "English": "hard (katai)"
+    },
+    {
+        "Hiragana": "あつい",
+        "Kanji": "熱い、暑い",
+        "English": "hot (atsui)"
+    },
+    {
+        "Hiragana": "つめたい",
+        "Kanji": "冷たい",
+        "English": "cold (tsumetai)"
+    },
+    {
+        "Hiragana": "さむい",
+        "Kanji": "寒い",
+        "English": "cold (samui) as in cold weather"
+    },
+    {
+        "Hiragana": "おいしい",
+        "Kanji": "美味しい",
+        "English": "delicious (oishii)"
+    },
+    {
+        "Hiragana": "うまい",
+        "Kanji": "美味い、旨い",
+        "English": "delicious"
+    },
+    {
+        "Hiragana": "まずい",
+        "Kanji": "不味い",
+        "English": "tastes awful (mazui)"
+    },
+    {
+        "Hiragana": "あまい",
+        "Kanji": "甘い",
+        "English": "sweet (amai)"
+    },
+    {
+        "Hiragana": "からい",
+        "Kanji": "辛い",
+        "English": "hot [spicy] (karai)"
+    },
+    {
+        "Hiragana": "しょっぱい",
+        "Kanji": "塩っぱい",
+        "English": "salty (shoppai)"
+    },
+    {
+        "Hiragana": "にがい",
+        "Kanji": "苦い",
+        "English": "bitter (nigai)"
+    },
+    {
+        "Hiragana": "うつくしい",
+        "Kanji": "美しい",
+        "English": "beautiful (utsukushii)"
+    },
+    {
+        "Hiragana": "うれしい",
+        "Kanji": "嬉しい",
+        "English": "happy (ureshii)"
+    },
+    {
+        "Hiragana": "たのしい",
+        "Kanji": "楽しい",
+        "English": "fun (tanoshii)"
+    },
+    {
+        "Hiragana": "かなしい",
+        "Kanji": "悲しい",
+        "English": "sad (kanashii)"
+    },
+    {
+        "Hiragana": "さびしい",
+        "Kanji": "寂しい、淋しい",
+        "English": "lonely (sabishii)"
+    },
+    {
+        "Hiragana": "こわい",
+        "Kanji": "怖い、恐い",
+        "English": "scary (kowai)"
+    },
+    {
+        "Hiragana": "いたい",
+        "Kanji": "痛い",
+        "English": "painful (itai)"
+    },
+    {
+        "Hiragana": "かゆい",
+        "Kanji": "痒い",
+        "English": "itchy (kayui)"
+    },
+    {
+        "Hiragana": "くさい",
+        "Kanji": "臭い",
+        "English": "stinky (kusai)"
+    },
+    {
+        "Hiragana": "つらい",
+        "Kanji": "辛い",
+        "English": "painful"
+    },
+    {
+        "Hiragana": "する",
+        "English": "to do (suru)"
+    },
+    {
+        "Hiragana": "やる",
+        "English": "to do (yaru)"
+    },
+    {
+        "Hiragana": "いる",
+        "English": "to exist [for animate objects] (iru)"
+    },
+    {
+        "Hiragana": "ある",
+        "English": "to exist [for inanimate objects] (aru)"
+    },
+    {
+        "Hiragana": "なる",
+        "English": "to become (naru)"
+    },
+    {
+        "Hiragana": "おこる",
+        "Kanji": "起こる、興る",
+        "English": "to occur (okoru)"
+    },
+    {
+        "Hiragana": "あらわれる",
+        "Kanji": "現れる",
+        "English": "to appear (arawareru)"
+    },
+    {
+        "Hiragana": "いきる",
+        "Kanji": "生きる",
+        "English": "to live (ikiru)"
+    },
+    {
+        "Hiragana": "うむ",
+        "Kanji": "生む、産む",
+        "English": "to give birth (umu)"
+    },
+    {
+        "Hiragana": "しぬ",
+        "Kanji": "死ぬ",
+        "English": "to die (shinu)"
+    },
+    {
+        "Hiragana": "こわれる",
+        "Kanji": "壊れる",
+        "English": "to breakin (kowareru)"
+    },
+    {
+        "Hiragana": "いく",
+        "Kanji": "行く",
+        "English": "to go (iku)"
+    },
+    {
+        "Hiragana": "くる",
+        "Kanji": "来る",
+        "English": "to come (kuru)"
+    },
+    {
+        "Hiragana": "かえる",
+        "Kanji": "帰る、返る",
+        "English": "to return (kaeru)"
+    },
+    {
+        "Hiragana": "あるく",
+        "Kanji": "歩く",
+        "English": "to walk (aruku)"
+    },
+    {
+        "Hiragana": "とぶ",
+        "Kanji": "飛ぶ",
+        "English": "to jump"
+    },
+    {
+        "Hiragana": "およぐ",
+        "Kanji": "泳ぐ",
+        "English": "to swim (oyogu)"
+    },
+    {
+        "Hiragana": "うごく",
+        "Kanji": "動く",
+        "English": "to movein (ugoku)"
+    },
+    {
+        "Hiragana": "おどる",
+        "Kanji": "踊る",
+        "English": "to dance (odoru)"
+    },
+    {
+        "Hiragana": "ねる",
+        "Kanji": "寝る",
+        "English": "to sleep (neru)"
+    },
+    {
+        "Hiragana": "うたう",
+        "Kanji": "歌う",
+        "English": "to sing (utau)"
+    },
+    {
+        "Hiragana": "かむ",
+        "Kanji": "噛む",
+        "English": "to bite (kamu)"
+    },
+    {
+        "Hiragana": "たべる",
+        "Kanji": "食べる",
+        "English": "to eat (taberu)"
+    },
+    {
+        "Hiragana": "のむ",
+        "Kanji": "飲む",
+        "English": "to drink (nomu)"
+    },
+    {
+        "Hiragana": "さわる",
+        "Kanji": "触る",
+        "English": "to touch (sawaru)"
+    },
+    {
+        "Hiragana": "なげる",
+        "Kanji": "投げる",
+        "English": "to throw (nageru)"
+    },
+    {
+        "Hiragana": "もつ",
+        "Kanji": "持つ",
+        "English": "to hold (motsu)"
+    },
+    {
+        "Hiragana": "うつ",
+        "Kanji": "打つ",
+        "English": "to hit"
+    },
+    {
+        "Hiragana": "なぐる",
+        "Kanji": "殴る",
+        "English": "to hit"
+    },
+    {
+        "Hiragana": "さす",
+        "Kanji": "指す",
+        "English": "to point (sasu)"
+    },
+    {
+        "Hiragana": "さす",
+        "Kanji": "刺す",
+        "English": "to stab (sasu)"
+    },
+    {
+        "Hiragana": "さす",
+        "Kanji": "差す",
+        "English": "to raise or extend one's hands (sasu)"
+    },
+    {
+        "Hiragana": "ける",
+        "Kanji": "蹴る",
+        "English": "to kick (keru)"
+    },
+    {
+        "Hiragana": "すわる",
+        "Kanji": "座る",
+        "English": "to sit (suwaru)"
+    },
+    {
+        "Hiragana": "たつ",
+        "Kanji": "立つ",
+        "English": "to stand (tatsu)"
+    },
+    {
+        "Hiragana": "はしる",
+        "Kanji": "走る",
+        "English": "to run (hashiru)"
+    },
+    {
+        "Hiragana": "あく",
+        "Kanji": "空く",
+        "English": "to become unoccupied (aku)"
+    },
+    {
+        "Hiragana": "こむ",
+        "Kanji": "込む",
+        "English": "to be crowded (komu)"
+    },
+    {
+        "Hiragana": "いる",
+        "Kanji": "要る",
+        "English": "to need (iru)"
+    },
+    {
+        "Hiragana": "かわく",
+        "Kanji": "乾く",
+        "English": "to become dry (kawaku)"
+    },
+    {
+        "Hiragana": "みる",
+        "Kanji": "見る",
+        "English": "to see (miru)"
+    },
+    {
+        "Hiragana": "きく",
+        "Kanji": "聞く、聴く",
+        "English": "to hear"
+    },
+    {
+        "Hiragana": "さわる",
+        "Kanji": "触る",
+        "English": "to touch"
+    },
+    {
+        "Hiragana": "かぐ",
+        "Kanji": "嗅ぐ",
+        "English": "to smell (kagu)"
+    },
+    {
+        "Hiragana": "いう",
+        "Kanji": "言う",
+        "English": "to say (iu)"
+    },
+    {
+        "Hiragana": "はなす",
+        "Kanji": "話す",
+        "English": "to speak (hanasu)"
+    },
+    {
+        "Hiragana": "かたる",
+        "Kanji": "語る",
+        "English": "to tell (kataru)"
+    },
+    {
+        "Hiragana": "かく",
+        "Kanji": "書く",
+        "English": "to write (kaku)"
+    },
+    {
+        "Hiragana": "よむ",
+        "Kanji": "読む",
+        "English": "to read (yomu)"
+    },
+    {
+        "Hiragana": "つかう",
+        "Kanji": "使う",
+        "English": "to use (tsukau)"
+    },
+    {
+        "Hiragana": "つくる",
+        "Kanji": "作る、造る、創る",
+        "English": "to make (tsukuru)"
+    },
+    {
+        "Hiragana": "なおす",
+        "Kanji": "直す、治す",
+        "English": "to fix"
+    },
+    {
+        "Hiragana": "すてる",
+        "Kanji": "捨てる",
+        "English": "to discard"
+    },
+    {
+        "Hiragana": "とる",
+        "Kanji": "取る、撮る、採る",
+        "English": "to take (toru)"
+    },
+    {
+        "Hiragana": "おく",
+        "Kanji": "置く",
+        "English": "to put (oku)"
+    },
+    {
+        "Hiragana": "かなしむ",
+        "Kanji": "悲しむ、哀しむ",
+        "English": "to be sad (kanashimu)"
+    },
+    {
+        "Hiragana": "なく",
+        "Kanji": "泣く",
+        "English": "to cry (naku)"
+    },
+    {
+        "Hiragana": "わらう",
+        "Kanji": "笑う",
+        "English": "to laugh (warau)"
+    },
+    {
+        "Hiragana": "おこる",
+        "Kanji": "怒る",
+        "English": "to be angry (okoru)"
+    },
+    {
+        "Hiragana": "ほめる",
+        "Kanji": "褒める",
+        "English": "to encourage (homeru)"
+    },
+    {
+        "Hiragana": "しかる",
+        "Kanji": "叱る",
+        "English": "to scold (shikaru)"
+    },
+    {
+        "Hiragana": "よろこぶ",
+        "Kanji": "喜ぶ",
+        "English": "to celebrate"
+    },
+    {
+        "Hiragana": "よろこび",
+        "Kanji": "喜び",
+        "English": "joy"
+    },
+    {
+        "Hiragana": "なぐさめる",
+        "Kanji": "慰める",
+        "English": "to console"
+    },
+    {
+        "Hiragana": "あきる",
+        "Kanji": "飽きる",
+        "English": "to be disinterested"
+    },
+    {
+        "Hiragana": "おどろく",
+        "Kanji": "驚く",
+        "English": "to be astonished"
+    },
+    {
+        "Hiragana": "あう",
+        "Kanji": "会う",
+        "English": "to meet"
+    },
+    {
+        "Hiragana": "あける",
+        "Kanji": "開ける",
+        "English": "to opentr"
+    },
+    {
+        "Hiragana": "あそぶ",
+        "Kanji": "遊ぶ",
+        "English": "to play (asobu)"
+    },
+    {
+        "Hiragana": "あつまる",
+        "Kanji": "集まる",
+        "English": "to gatherin (atsumaru)"
+    },
+    {
+        "Hiragana": "うる",
+        "Kanji": "売る",
+        "English": "to sell (uru)"
+    },
+    {
+        "Hiragana": "える",
+        "Kanji": "得る",
+        "English": "to obtain [some benefit or knowledge] (eru)"
+    },
+    {
+        "Hiragana": "おる",
+        "Kanji": "折る",
+        "English": "to breaktr"
+    },
+    {
+        "Hiragana": "かう",
+        "Kanji": "買う",
+        "English": "to buy (kau)"
+    },
+    {
+        "Hiragana": "きる",
+        "Kanji": "切る",
+        "English": "to cut (kiru)†"
+    },
+    {
+        "Hiragana": "きる",
+        "Kanji": "着る",
+        "English": "to wear [on the upper body] (kiru)"
+    },
+    {
+        "Hiragana": "はく",
+        "Kanji": "履く",
+        "English": "to wear [on the lower body] (haku)"
+    },
+    {
+        "Hiragana": "かえる",
+        "Kanji": "変える",
+        "English": "to changetr (kaeru)"
+    },
+    {
+        "Hiragana": "かえる",
+        "Kanji": "代える",
+        "English": "to exchange"
+    },
+    {
+        "Hiragana": "しめる",
+        "Kanji": "閉める",
+        "English": "to closetr (shimeru)"
+    },
+    {
+        "Hiragana": "しめる",
+        "Kanji": "締める",
+        "English": "to tie"
+    },
+    {
+        "Hiragana": "しめる",
+        "Kanji": "占める",
+        "English": "to comprise"
+    },
+    {
+        "Hiragana": "しる",
+        "Kanji": "知る",
+        "English": "to know (shiru)†"
+    },
+    {
+        "Hiragana": "つかれる",
+        "Kanji": "疲れる",
+        "English": "to get tired (tsukareru)"
+    },
+    {
+        "Hiragana": "でかける",
+        "Kanji": "出掛ける",
+        "English": "to go out"
+    },
+    {
+        "Hiragana": "はたらく",
+        "Kanji": "働く",
+        "English": "to work [e.g."
+    },
+    {
+        "Hiragana": "はなす",
+        "Kanji": "放す、離す",
+        "English": "to let go of (hanasu)"
+    },
+    {
+        "Hiragana": "やすむ",
+        "Kanji": "休む",
+        "English": "to rest"
+    },
+    {
+        "Hiragana": "わかれる",
+        "Kanji": "分かれる",
+        "English": "to split intoin"
+    },
+    {
+        "Hiragana": "わかれる",
+        "Kanji": "別れる",
+        "English": "to partin"
+    },
+    {
+        "Hiragana": "もう",
+        "English": "already (mō)"
+    },
+    {
+        "Hiragana": "まだ",
+        "English": "still"
+    },
+    {
+        "Hiragana": "ずっと",
+        "English": "always (zutto)"
+    },
+    {
+        "Hiragana": "とても",
+        "English": "very (totemo)"
+    },
+    {
+        "Hiragana": "こう",
+        "English": "like this (kō)"
+    },
+    {
+        "Hiragana": "そう",
+        "English": "like that (sō)"
+    },
+    {
+        "Hiragana": "ああ",
+        "English": "in that other way (ā)"
+    },
+    {
+        "Hiragana": "どう",
+        "English": "how (dō)"
+    },
+    {
+        "Hiragana": "しばしば",
+        "English": "often (shibashiba)"
+    },
+    {
+        "Hiragana": "この",
+        "English": "this (kono)"
+    },
+    {
+        "Hiragana": "その",
+        "English": "that (sono)"
+    },
+    {
+        "Hiragana": "あの",
+        "English": "that (ano)"
+    },
+    {
+        "Hiragana": "どの",
+        "English": "which (dono)"
+    },
+    {
+        "Hiragana": "はい",
+        "English": "yes (hai)"
+    },
+    {
+        "Hiragana": "いいえ",
+        "English": "no (iie)"
+    },
+    {
+        "Hiragana": "しかし",
+        "English": "but"
+    },
+    {
+        "Hiragana": "そして",
+        "English": "and then"
+    },
+    {
+        "Hiragana": "それに",
+        "English": "besides (soreni)"
+    },
+    {
+        "Hiragana": "なぜなら",
+        "English": "that is because"
+    },
+    {
+        "Hiragana": "う",
+        "Kanji": "よう",
+        "English": "volitional ending [う for u-verbs"
+    },
+    {
+        "Hiragana": "せる",
+        "Kanji": "させる",
+        "English": "causative ending [せる for u-verbs"
+    },
+    {
+        "Hiragana": "れる",
+        "Kanji": "られる",
+        "English": "passive verb ending [れる for u-verbs"
+    },
+    {
+        "Hiragana": "そうだ",
+        "English": "indicates that it seems the verb occurs [e.g."
+    },
+    {
+        "Hiragana": "た",
+        "English": "informal past-tense (ta)"
+    },
+    {
+        "Hiragana": "たい",
+        "English": "indicates desire to perform verb (tai)"
+    },
+    {
+        "Hiragana": "だろう",
+        "English": "indicates that it seems the verb occurs; also used to ask whether the verb occurs (darō)"
+    },
+    {
+        "Hiragana": "ない",
+        "Kanji": "ん",
+        "English": "informal negative (nai"
+    },
+    {
+        "Hiragana": "ぬ",
+        "English": "archaic informal negative [\"he hath\""
+    },
+    {
+        "Hiragana": "ます",
+        "English": "formal non-past ending (masu)"
+    },
+    {
+        "Hiragana": "が",
+        "English": "subject marker"
+    },
+    {
+        "Hiragana": "で",
+        "English": "at"
+    },
+    {
+        "Hiragana": "と",
+        "English": "and"
+    },
+    {
+        "Hiragana": "に",
+        "English": "indirect object marker (ni)"
+    },
+    {
+        "Hiragana": "の",
+        "English": "possession marker"
+    },
+    {
+        "Hiragana": "へ",
+        "English": "to (e) [Note: へ is normally read he"
+    },
+    {
+        "Hiragana": "まで",
+        "English": "to (made)"
+    },
+    {
+        "Hiragana": "から",
+        "English": "from (kara)"
+    },
+    {
+        "Hiragana": "より",
+        "English": "than (yori)"
+    },
+    {
+        "Hiragana": "を",
+        "English": "direct object marker (o)"
+    },
+    {
+        "Hiragana": "および",
+        "Kanji": "及び",
+        "English": "and; as well as (oyobi)"
+    },
+    {
+        "Hiragana": "か",
+        "English": "whether (ka)"
+    },
+    {
+        "Hiragana": "かも",
+        "English": "might be"
+    },
+    {
+        "Hiragana": "そして",
+        "English": "and then (soshite)"
+    },
+    {
+        "Hiragana": "それとも",
+        "English": "or (soretomo)"
+    },
+    {
+        "Hiragana": "だの",
+        "English": "things like <list of things>"
+    },
+    {
+        "Hiragana": "つつ",
+        "English": "ongoing occurrence (tsutsu) [similar to ながら but has different tone"
+    },
+    {
+        "Hiragana": "て",
+        "English": "te form of verb or adjective [see explanation]"
+    },
+    {
+        "Hiragana": "と",
+        "English": "when"
+    },
+    {
+        "Hiragana": "ながら",
+        "English": "while"
+    },
+    {
+        "Hiragana": "ならびに",
+        "English": "as well as (narabini)"
+    },
+    {
+        "Hiragana": "なり",
+        "English": "whether or not (nari)"
+    },
+    {
+        "Hiragana": "に",
+        "English": "to <somewhere>"
+    },
+    {
+        "Hiragana": "の",
+        "English": "possession (no)"
+    },
+    {
+        "Hiragana": "ので",
+        "English": "so (node)"
+    },
+    {
+        "Hiragana": "また",
+        "Kanji": "又",
+        "English": "also"
+    },
+    {
+        "Hiragana": "または",
+        "Kanji": "又は",
+        "English": "or alternatively (matawa)"
+    },
+    {
+        "Hiragana": "も",
+        "English": "also"
+    },
+    {
+        "Hiragana": "や",
+        "English": "and (ya)"
+    },
+    {
+        "Hiragana": "ね",
+        "English": "emphasis and question marker"
+    },
+    {
+        "Hiragana": "か",
+        "English": "question marker (ka)"
+    },
+    {
+        "Hiragana": "な",
+        "English": "the copula particle used after quasi-adjectives (na)"
+    },
+    {
+        "Hiragana": "かしら",
+        "English": "I wonder (kashira)"
+    },
+    {
+        "Hiragana": "さ",
+        "English": "-ness (sa)"
+    },
+    {
+        "Hiragana": "っけ",
+        "English": "particle indicating that the speaker is trying to recall some information [\"What class is next -kke?\"] (-kke)"
+    },
+    {
+        "Hiragana": "こそ",
+        "English": "emphasis (koso)"
+    },
+    {
+        "Hiragana": "さえ",
+        "English": "even (sae)"
+    },
+    {
+        "Hiragana": "しか",
+        "English": "only (shika)"
+    },
+    {
+        "Hiragana": "すら",
+        "English": "even (sura)"
+    },
+    {
+        "Hiragana": "くらい",
+        "Kanji": "ぐらい",
+        "English": "approximately"
+    },
+    {
+        "Hiragana": "だけ",
+        "English": "only"
+    },
+    {
+        "Hiragana": "だって",
+        "English": "however (datte)"
+    },
+    {
+        "Hiragana": "ったら",
+        "English": "casual topic marker (ttara) [colloquial form of to ittara (if you refer to ~; as for ~)"
+    },
+    {
+        "Hiragana": "って",
+        "English": "said that (tte)"
+    },
+    {
+        "Hiragana": "でも",
+        "English": "also"
+    },
+    {
+        "Hiragana": "どころ",
+        "English": "(particle used to indicate that what precedes it is an extreme example and strongly negates it) (dokoro)"
+    },
+    {
+        "Hiragana": "など",
+        "English": "for example (nado)"
+    },
+    {
+        "Hiragana": "なら",
+        "English": "if [for verbs]; subject marker [for nouns] (nara)"
+    },
+    {
+        "Hiragana": "なんか",
+        "English": "casual undervalue"
+    },
+    {
+        "Hiragana": "なんて",
+        "English": "casual undervalue"
+    },
+    {
+        "Hiragana": "は",
+        "English": "topic marker (wa) [although ha is the hiragana used]"
+    },
+    {
+        "Hiragana": "ばかり",
+        "Kanji": "ばっかり",
+        "English": "just"
+    },
+    {
+        "Hiragana": "まで",
+        "English": "until (made)"
+    },
+    {
+        "Hiragana": "も",
+        "English": "too"
+    }
+]
