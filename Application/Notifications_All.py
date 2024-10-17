@@ -3,8 +3,10 @@ import smtplib
 from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from openai import OpenAI
 import requests
 from dotenv import load_dotenv
+
 load_dotenv()
 
 
@@ -17,6 +19,35 @@ class Notify:
         self.response_c = requests.get(os.getenv('C_SHEETY_URL'))
         self.response_j = requests.get(os.getenv('J_SHEETY_URL'))
         self.response_k = requests.get(os.getenv('K_SHEETY_URL'))
+        self.client = OpenAI(
+            api_key=os.getenv('SECRET')
+        )
+
+    def access_ai(self, user_input):
+        response = self.client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "user", "content": user_input}
+            ],
+            temperature=1,
+            max_tokens=2048,
+            top_p=1,
+            frequency_penalty=0,
+            presence_penalty=0,
+            response_format={
+                "type": "text"
+            }
+        )
+
+        return response.choices[0].message.content
+
+    def get_response(self, data):
+        with open(data, 'r', encoding='utf-8') as file:
+            words = [line.split('-')[0] for line in file if line.split('-')]
+            response = self.access_ai(
+                f'how many words can i make using these words: {words}. just give me a number'
+            )
+            return response
 
     # retrieves emails from your sheety api
     def peoples_email_c(self):
@@ -26,7 +57,6 @@ class Notify:
             data = self.response_c.json()
             information = data.get('cEmail', [])
             persons_email = [info['email'] for info in information]
-            # self.people_c = [info['first'] for info in information]
             return persons_email
 
     def peoples_email_j(self):
@@ -36,9 +66,7 @@ class Notify:
             data = self.response_j.json()
             information = data.get('jEmail', [])
             persons_email = [info['email'] for info in information]
-            # self.people_c = [info['first'] for info in information]
             return persons_email
-
 
     def peoples_email_k(self):
         if self.response_k.status_code != 200:
@@ -47,10 +75,9 @@ class Notify:
             data = self.response_k.json()
             information = data.get('kEmail', [])
             persons_email = [info['email'] for info in information]
-            # self.people_c = [info['first'] for info in information]
             return persons_email
 
-    # sends the email (can be reused for both Korean and Chinese)
+    # sends the email can be reused
     def send_email(self, recipients, subject, text_content, html_content):
         msg = MIMEMultipart('alternative')
         msg['Subject'] = Header(subject, 'utf-8')
@@ -73,6 +100,7 @@ class Notify:
 
     # send email for Korean word
     def send_mail_k(self, korean, english):
+        data = f'../Data/korean_vocabulary.txt'
         recipients = self.peoples_email_k()
         subject = "Korean Word of the Day"
         text_content = f"Word of the Day:\nKorean: {korean}\nMeaning: {english}"
@@ -87,6 +115,7 @@ class Notify:
                 <h2 style="color: #fff; font-size: 2.5em;">{korean}</h2>
               </div>
               <p style="font-size: 1.2em; line-height: 1.5;"><strong>Meaning: </strong> {english}</p>
+              <p style="font-size: 1em; color: #333; text-align: center;">{self.get_response(data)}</p>
               <hr style="border-top: 1px solid #DC5F00; margin: 20px 0;">
               <p style="font-size: 0.8em; color: #666; text-align: center;">
                 Korean can be difficult to learn, but you're doing great! Keep going!!
@@ -99,6 +128,7 @@ class Notify:
 
     # send email for Chinese word
     def send_mail_c(self, chinese, pinyin, meaning):
+        data = f'../Data/chinese_vocabulary.txt'
         recipients = self.peoples_email_c()
         subject = "Chinese Word of the Day"
         text_content = f"Word of the Day:\nChinese: {chinese}\nPinyin: {pinyin}\nMeaning: {meaning}"
@@ -114,6 +144,7 @@ class Notify:
               </div>
               <p style="font-size: 1.2em; line-height: 1.5;"><strong>Pinyin: </strong> {pinyin}</p>
               <p style="font-size: 1.2em; line-height: 1.5;"><strong>Meaning: </strong> {meaning}</p>
+              <p style="font-size: 1em; color: #333; text-align: center;">{self.get_response(data)}</p>
               <hr style="border-top: 1px solid #DC5F00; margin: 20px 0;">
               <p style="font-size: 0.8em; color: #666; text-align: center;">
                 Chinese can be difficult to learn, but you're doing great! Keep going!!
@@ -124,7 +155,9 @@ class Notify:
         """
         self.send_email(recipients, subject, text_content, html_content)
 
+    # sends email for japanese word
     def send_mail_j(self, hiragana, kanji, english):
+        data = f'../Data/japanese_vocabulary.txt'
         recipients = self.peoples_email_j()
         subject = "Japanese Word of the Day"
 
@@ -148,6 +181,7 @@ class Notify:
               </div>
               {kanji_html}
               <p style="font-size: 1.2em; line-height: 1.5;"><strong>Meaning: </strong> {english}</p>
+              <p style="font-size: 1em; color: #333; text-align: center;">{self.get_response(data)}</p>
               <hr style="border-top: 1px solid #DC5F00; margin: 20px 0;">
               <p style="font-size: 0.8em; color: #666; text-align: center;">
                 Japanese can be difficult to learn, but you're doing great! Keep going!!
